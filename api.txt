@@ -1,8 +1,8 @@
 https://raw.githubusercontent.com/Tyson2366/YXIP/main/YXIP.TXT
 https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/2052fd.txt
-https://github.com/chrisFxxk/BetterIPs/blob/5bf8abb6613eee6f172493da138c3f31fa0d43ba/8443fd.txt
-https://github.com/chrisFxxk/BetterIPs/blob/5bf8abb6613eee6f172493da138c3f31fa0d43ba/GreenIP.txt
 https://raw.githubusercontent.com/guiliaan/yxip/7d4eae26e58f2dc05680d199b8270172fcaa66c0/yxip.txt
 https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_ZBDW/8efec5afe35bc56a0686834b358fe0ca51af94f1/yxip.txt
 https://raw.githubusercontent.com/Aidengxt/yxip/ed0a0ddb864e677764d2667a59d3423d773cdb58/yxip.txt
 https://raw.githubusercontent.com/paynehusni/yxip/af80ee0498ca2216070667c6fec59306929702d0/yxip.txt
+https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/8443fd.txt
+https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/GreenIP.txt
