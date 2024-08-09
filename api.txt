@@ -9,6 +9,26 @@ https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da13
 
 https://raw.githubusercontent.com/Cloudflare-Mining/Cloudflare-Datamining/9696f51712a163c86f52306fa9a6b6216805726e/data/domains/domains-active.json
 
+每天实时CF优选
+https://api.urlce.com/cloudflare.html
+https://api.uouin.com/cloudflare.html
+https://api.uouin.com/cloudflare.html
+https://ipdb.030101.xyz/bestproxy/
+https://ipdb.030101.xyz/bestcf/
+https://monitor.gacjie.cn/page/cloudflare/ipv6.html
+https://monitor.gacjie.cn/page/cloudflare/ipv4.html
+https://monitor.gacjie.cn/page/cloudflare/ipv4.html
+https://ip.164746.xyz/
+https://345673.xyz/#
+https://cf.090227.xyz/dns-query
+https://cf.090227.xyz/
+https://stock.hostmonit.com/CloudFlareYes
+
+
+
+在线优选
+http://ip.flares.cloud/
+
 ## 测速文件
 来源：https://t.me/cloudflareorg  
 自行部署脚本：本文件夹内`_workers.js`  
