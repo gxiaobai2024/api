@@ -9,6 +9,14 @@ https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da13
 https://ipdb.030101.xyz/api/bestproxybeta.txt
 https://ipdb.030101.xyz/api/bestcf.txt
 
+
+联通CUCC测速结果CSV	https://bihai.cf/CFIP/CUCC/standard.csv	
+联通CUCC CFIP	https://bihai.cf/CFIP/CUCC/standard.txt
+
+移动CMCC测速结果CSV	https://bihai.cf/CFIP/CMCC/standard.csv	
+移动CMCC CFIP	https://bihai.cf/CFIP/CMCC/standard.txt
+
+
 https://raw.githubusercontent.com/Cloudflare-Mining/Cloudflare-Datamining/9696f51712a163c86f52306fa9a6b6216805726e/data/domains/domains-active.json
 
 每天实时CF优选
