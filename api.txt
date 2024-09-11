@@ -38,7 +38,7 @@ https://stock.hostmonit.com/CloudFlareYes
 
 在线优选
 http://ip.flares.cloud/
-
+https://vps789.com/hostmonitor/?hostProvider=CF%E4%BC%98%E9%80%89IP
 ## 测速文件
 来源：https://t.me/cloudflareorg  
 自行部署脚本：本文件夹内`_workers.js`  
