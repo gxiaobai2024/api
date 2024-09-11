@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da13
 https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/GreenIP.txt
 https://ipdb.030101.xyz/api/bestproxybeta.txt
 https://ipdb.030101.xyz/api/bestcf.txt
-
+https://addapit.ssorg.us.kg/addressesapi.txt?token=ZY2024565
 
 联通CUCC测速结果CSV	https://bihai.cf/CFIP/CUCC/standard.csv	
 联通CUCC CFIP	https://bihai.cf/CFIP/CUCC/standard.txt
