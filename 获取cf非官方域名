@@ -1,0 +1,79 @@
+获取cf非官方域名 
+1进入 https://fofa.info/
+2搜索server=="cloudflare" && domain="now.cc"  英文翻译server系统包含 cloudflare泛播   domain 域名  等于  now.cc是二级域名
+server=="cloudflare" && domain="us.kg"         ns.cloudflare.com
+server=="cloudflare" && domain="ns.cloudflare.com"
+香港反代优选： server=="cloudflare" && port=="80" && header="Forbidden" && region=="HK" && asn!="13335" && asn!="209242"
+ 各国官方ip优选 server=="cloudflare" && port=="80" && country=="NL" && city=="Amsterdam"
+
+二
+   1进入    https://dash.cloudflare.com/ 
+2 绑定域名 选择下面二级任意二级域名 比如****.eu.org  ****.us.kg   获取cloudflare NS域名
+3通过https://www.itdog.cn/ping/  获取绑定的ip
+4通过https://www.itdog.cn/find_ping/    获取ip所在ip段的所有ip
+5通过PingInfoView 软件获取所有官方ip所对应的cf官方域名
+https://www.nirsoft.net/utils/multiple_ping_tool.html 下载中文版PingInfoView
+
+手戳节点
+6在cvs表格里粘贴可用cf节点  
+ 将节点分为三部分@前uuid 中间的节点：端口  后面伪转域名等  批量复制粘贴所优选的域名
+在记事本里替换空格  放软件里测试即可
+或 https://bulianglin.com/archives/cdn.html自定义ip后   可以批量生成cf节点
+
+
+ipscan.exe  可以查询ip段的ip，是否是cf ，官方 ip及丢包率
+https://github.com/bh-qt/Cloudflare-IP-SpeedTest  下载cfiptest测速软件
+cfiptest    cmd后   cfiptest asn -as13335 可以查询asn13335内的所有的ip段   新建 13335.txt 记事本
+                                 cfiptest -f 13335.txt  可以优选13335内的IP段的官方ip      保留有效ip段，无效的IP段删除
+asn13335  asn209242 是cf官方ip段   其他asn非cf的反代
+
+
+https://bgp.tools/as/1299  可以查询ip绑定了哪些域名  也可有哪些  asn   31898 是甲骨文公司的 可用IP较多
+
+CloudflareST_v2.2.5  本地优选ip  
+https://t.me/bestcfipas                  获取扫描后的ip
+https://t.me/cloudflareorg             天成优选ip
+https://t.me/wangcai_8                 旺财节点
+https://t.me/CF_NAT                      中转ip 白嫖 
+https://t.me/HeroCore                 碧海
+https://t.me/edtunnel_chat/1     cm
+
+
+
+
+免费获取海量免费域名的终极攻略分享，支持绑定 cloudflare“
+名称         	稳定时间  	支持解析模式	     后缀格式	         说明                                                         	地址
+us.kg	?	NS	.us.kg/. 国家简写.us.kg	免费可绑定cloudflare二级域名(us.kg)注册教程,类似eu,org	register.us.kg
+com.mp	?	NS	.com.mp/. 国家简写.com.mp	每个号可以免费注册一个域名 时效 3 个月 可续期，域名品相较好	registry.com.mp
+EU.org	28 年	NS	.eu.org/. 国家简写.eu.org	需要审核，稳定性高，限制少，国内访问有问题，可 CF	eu.org
+pp.ua	10 年 +	NS/A/AAAA/CNAME…	.pp.ua/.国家简写pp.ua	需要信用卡，稳定性高，国家注册局下属，国内访问良好，可 CF	pp.ua
+.np	10 年 +	NS/A/AAAA/CNAME…	.com.np/.net.np 等	需要尼泊尔身份证明	register.com.np
+id.lv	10 年 +	NS/A/AAAA/CNAME…	.id.lv	需要拉脱维亚身份信息，国家注册局下属，访问良好，可 CF	nic.lv 提供 id.lv
+.sh	10 年 +	NS/A/AAAA/CNAME…	.net.sh/.com.sh 等等	需要圣赫勒拿岛居民身份信息，国家注册局下属，访问良好，可 CF	nic.sh
+Sitelutions	10 年 +	NS/A/AAAA/CNAME…	rr.nu/myfw.us 等等	提供 DDNS 服务，可接入第三方 DNS 解析	免费二级域名申请，支持 DNS/A/CNAME
+3domains	5 年 +	A/AAAA/CNAME…	coms/nets/orgs.hk	香港免费二级域名，只对香港 IP 开放	www.3domains.net
+venez.fr	10 年 +	A/CNAME…	fr.mu/ze.tc 等 24 种后缀	法国免费二级域名，禁用中国 IP 注册	venez.fr
+azote.org	10 年 +	NS/A/CNAME…	fr.nf/ze.cx 等等	法国免费二级域名，只可使用法国 IP 注册	azote.org
+now.cc	10 年 +	A/AAAA/CNAME…	.now.cc	香港免费二级域名，需要等待开放注册	now.cc
+nom.za	7 年 +	NS/A/AAAA/CNAME…	.nom.za	南非公民审核时间随机，限一个域名与申请者名字商标或公司紧密相关	secure.nom.za
+noip	10 年 +	A/AAAA/CNAME…	ddns.net 等等	每一个月续期一次，DDNS 服务	noip.com
+cloudns	10 年 +	A/AAAA/CNAME…	cloudns.xx 多种后缀	可长期使用，多数域名被污染，提供DNS解析服务，提供DDNS服务	cloudns.net
+freedns	20 年 +	A/AAAA/CNAME…	mooo.com/us.to 等上万种后缀	需要区分 public 和 private，不活跃账号可能会被回收域名	freedns.afraid.org
+ASEINet	?	A/AAAA/CNAME…	d..gv.vc	需要使用命令进行解析，日本 DDNS 服务	www.d.gv.vc
+dynamix	?	A/AAAA/CNAME…	dynx.me 等	提供 DNS 解析、DDNS 服务	dynamix.run
+dynv6	?	A/AAAA/CNAME…	dns.army 等	提供 DNS 解析、DDNS 服务	dynv6.com
+Netdorm	?	A/AAAA/CNAME…	work.gd 等	提供 DNS 解析、DDNS 服务	freedomain.one
+ydns	?	A/AAAA/CNAME…	ydns.eu 等	提供 DNS 解析、DDNS 服务	ydns.io
+cli.rs	?	Github Pages	cli.rs	只限于 Github Pages	cli.rs
+is-an.app	?	A/AAAA/CNAME	is-an.app	可添加解析，默认开启 CloudFlare	is-an.app
+js.org	?	A/AAAA/CNAME	js.org	已停止对普通人注册	js.org
+is-a.dev	?	?	is-a.dev	需要 Github	www.is-a.dev
+cluster.ws	?	NS	cluster.ws/wip.la	需要使用 NS 解析服务	Olivr/free-domain
+site.ac	?	A\AAAA…	app.tc 等	DDNS 服务，自带 SSL	site.ac 提供免费二级域名以及 DNS 解析服务
+oderland	?	A\AAAA….	hemsida.eu 等	DDNS 服务，似乎只支持欧洲地区申请	oderland.com 提供免费二级域名以及 DNS 解析服务
+D.U.I.A	10 年 +	A\AAAA…	duia.eu 等	DDNS 服务，支持负载均衡	D.U.I.A. 提供免费的二级域名 DDNS 解析服务
+ddnss.de	10 年 +	A\AAAA…	ddnss.de 等	DDNS 服务，支持 MX	ddnss.de 免费二级域名 DDNS 提供商
+GSLB.me	10 年 +	A\AAAA…	gslb.eu 等	DDNS 服务，支持防火墙、分区域解析功能	GSLB.me 免费的二级域名 DDNS 服务支持 A 记录
+Free Host	7 年 +	A\AAAA…	unaux.com 等	免费3个二级域名只能绑定他家的免费主机	profreehost.com
+dnsexit	22 年 +	A/AAAA/CNAME	line.pm 等	免费域名和动态域名-免费SSL数字证书-免费邮箱100M一年续	dnsexit.com
+noip.com	24 年 +	A/AAAA/CNAME	zapto.org 等	一个外国知名的 “内网穿透” 服务网站可以注册一个二级的域名	noip.com
