@@ -33,6 +33,10 @@ https://345673.xyz/#
 https://cf.090227.xyz/dns-query
 https://cf.090227.xyz/
 https://stock.hostmonit.com/CloudFlareYes
+https://www.wetest.vip/page/cloudflare/address_v6.html
+https://www.wetest.vip/page/cloudflare/address_v4.html
+https://www.wetest.vip/page/cloudflare/cname.html
+https://www.wetest.vip/
 
 
 
