@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da13
 https://ipdb.030101.xyz/api/bestproxybeta.txt
 https://ipdb.030101.xyz/api/bestcf.txt
 https://addapit.ssorg.us.kg/addressesapi.txt?token=ZY2024565
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.txt
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 
 联通CUCC测速结果CSV	https://bihai.cf/CFIP/CUCC/standard.csv	
 联通CUCC CFIP	https://bihai.cf/CFIP/CUCC/standard.txt
