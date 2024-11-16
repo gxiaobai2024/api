@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt
+https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestproxy.txt
+https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/proxy.txt
+
 https://raw.githubusercontent.com/jc-lw/youxuanyuming/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/Tyson2366/YXIP/main/YXIP.TXT
 https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/2052fd.txt
