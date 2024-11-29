@@ -40,6 +40,15 @@ https://github.com/chengaopan/AutoMergePublicNodes
 电视直播源
 https://ghp.ci/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
 
+CFCDN（访问方式）: Socks5
+  socks5.serv00.090227.xyz:35555
+SOCKS5（白名单）: 
+  *ttvnw.net
+  *tapecontent.net
+  *cloudatacdn.com
+  *.loadshare.org
+SUB（优选订阅生成器）: sot.sosorg.us.kg
+
 ❇️Vless 快速体验订阅地址：
 🌐https://alvless.comorg.us.kg/TCorg
 🌐https://alvless.filegear-sg.me/TCorg
