@@ -53,6 +53,7 @@ Worker部署优先使用自定义域！！！
 变量SUB = workervless2sub-95x.pages.dev
 变量SUB = workervless2sub-3zc.pages.dev
 
+示例  https://ba.cf2024.us.kg/ba?sub=alvless.comorg.us.kg&proxyip=ProxyIP.Oracle.fxxk.dedyn.io
 
 如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
 ProxyIP.US.fxxk.dedyn.io
