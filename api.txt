@@ -46,6 +46,65 @@ https://www.wetest.vip/page/cloudflare/cname.html
 https://www.wetest.vip/
 
 
+如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
+ProxyIP.US.fxxk.dedyn.io
+IP落地区域: 美国 维护频率: 12小时/次
+ProxyIP.SG.fxxk.dedyn.io
+IP落地区域: 新加坡 维护频率: 12小时/次
+ProxyIP.JP.fxxk.dedyn.io 
+IP落地区域: 日本 维护频率: 12小时/次
+ProxyIP.HK.fxxk.dedyn.io
+IP落地区域: 香港 维护频率: 白嫖哥维护 (https://t.me/v2rayByCf/295)
+ProxyIP.KR.fxxk.dedyn.io
+IP落地区域: 韩国 维护频率: 12小时/
+ProxyIP.DE.tp2024.fxxk.dedyn.io GPT专用(edt需要更新至最新版本)
+IP落地区域: 德国 维护频率: 随缘
+ProxyIP.Aliyun.fxxk.dedyn.io 
+IP落地区域: 阿里云 维护频率: 4小时/次
+ProxyIP.Oracle.fxxk.dedyn.io 
+IP落地区域: 甲骨文 维护频率: 4小时/次
+ProxyIP.DigitalOcean.fxxk.dedyn.io 
+IP落地区域: 数码海 维护频率: 4小时/次
+ProxyIP.Vultr.fxxk.dedyn.io
+IP落地区域: Vultr 维护频率: 4小时/次
+ProxyIP.Multacom.fxxk.dedyn.io
+IP落地区域: Multacom 维护频率: 4小时/次
+
+再次重申！该域名只能作为ProxyIP代理域名使用！
+作为优选域名并不会起到加速的效果，其效果仅相当于官方直连。
+——
+第三方维护ProxyIP:
+my-telegram-is-herocore.onecf.eu.org Mingyu维护 (https://t.me/HeroCore)
+sg.ipdb.rr.nu
+nl.ipdb.rr.nu
+hk.ipdb.rr.nu
+jp.ipdb.rr.nu
+us.ipdb.rr.nu
+
+hk.cf.zhetengsha.eu.org 小一维护 (https://t.me/zhetengsha/1408)
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
+
+bpb.yousef.isegaro.com bia-pain-bache (https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js#L13https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js%23L13)
+
+proxy.xxxxxxxx.tk OTC维护
+
+cdn.xn--b6gac.eu.org 3Kmfi6HP维护 (https://t.me/edtunnel_chat)
+cdn-all.xn--b6gac.eu.org
+
+edgetunnel.anycast.eu.org CF中转IP发布 (https://t.me/cf_push/31137)
+
+白嫖哥维护 (https://t.me/v2rayByCf/295)
+
+Serv00合集
+https://raw.cmliussss.com/Serv00_ProxyIP.txt?proxyip=true
+
+——
+另提供CloudFlare官方优选域名:  *.cf.090227.xyz
+HTTP支持端口: 80, 8080, 8880, 2052, 2082, 2086, 2095；
+HTTPS支持端口: 443, 2053, 2083, 2087, 2096, 8443。
+
 
 
 在线优选
