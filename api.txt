@@ -45,6 +45,14 @@ https://www.wetest.vip/page/cloudflare/address_v4.html
 https://www.wetest.vip/page/cloudflare/cname.html
 https://www.wetest.vip/
 
+Worker部署优先使用自定义域！！！
+
+变量SUB = VLESS.fxxk.dedyn.io
+变量SUB = workervless2sub-22f.pages.dev
+变量SUB = workervless2sub-4ls.pages.dev
+变量SUB = workervless2sub-95x.pages.dev
+变量SUB = workervless2sub-3zc.pages.dev
+
 
 如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
 ProxyIP.US.fxxk.dedyn.io
