@@ -17,6 +17,9 @@ https://addapit.ssorg.us.kg/addressesapi.txt?token=ZY2024565
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.txt
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 
+
+https://raw.githubusercontent.com/ZhiXuanWang/cf-speed-dns/refs/heads/main/ipTop10.html
+
 联通CUCC测速结果CSV	https://bihai.cf/CFIP/CUCC/standard.csv	
 联通CUCC CFIP	https://bihai.cf/CFIP/CUCC/standard.txt
 
