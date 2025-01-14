@@ -1,0 +1,4233 @@
+IP Address,Port,TLS,DC Location,DC Area,DC City
+2.56.204.183,443,true,EVN,Middle East,Yerevan
+2.189.59.2,443,true,FRA,Europe,Frankfurt
+2.59.38.46,443,true,AMS,Europe,Amsterdam
+2.59.165.35,443,true,DME,Europe,Moscow
+2.59.183.25,443,true,AMS,Europe,Amsterdam
+2.59.183.239,443,true,AMS,Europe,Amsterdam
+2.189.59.4,443,true,FRA,Europe,Frankfurt
+2.59.183.181,443,true,AMS,Europe,Amsterdam
+2.59.183.56,443,true,AMS,Europe,Amsterdam
+2.59.183.174,443,true,AMS,Europe,Amsterdam
+2.59.183.210,443,true,AMS,Europe,Amsterdam
+2.58.65.168,443,true,FRA,Europe,Frankfurt
+2.56.173.227,443,true,HEL,Europe,Helsinki
+2.56.206.125,443,true,BUD,Europe,Budapest
+2.189.59.6,443,true,FRA,Europe,Frankfurt
+2.59.183.198,443,true,AMS,Europe,Amsterdam
+2.189.59.7,443,true,FRA,Europe,Frankfurt
+2.56.206.64,443,true,VIE,Europe,Vienna
+2.59.183.53,443,true,AMS,Europe,Amsterdam
+3.24.174.233,443,true,SYD,Oceania,Sydney
+3.98.73.243,443,true,YUL,North America,Montréal
+3.7.108.69,443,true,BOM,Asia Pacific,Mumbai
+3.147.73.220,443,true,CMH,North America,Columbus
+3.9.223.59,443,true,LHR,Europe,London
+3.68.31.54,443,true,FRA,Europe,Frankfurt
+3.101.133.120,80,true,SJC,North America,San Jose
+3.109.185.221,443,true,BOM,Asia Pacific,Mumbai
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai
+3.68.62.122,443,true,FRA,Europe,Frankfurt
+3.249.49.224,443,true,DUB,Europe,Dublin
+3.10.245.25,80,true,LHR,Europe,London
+3.144.191.4,443,true,ORD,North America,Chicago
+3.78.125.180,443,true,FRA,Europe,Frankfurt
+3.147.73.220,443,true,IAD,North America,Ashburn
+3.9.223.59,80,true,LHR,Europe,London
+3.101.73.167,80,true,SJC,North America,San Jose
+3.67.25.193,443,true,FRA,Europe,Frankfurt
+3.66.115.225,443,true,FRA,Europe,Frankfurt
+3.75.170.179,443,true,FRA,Europe,Frankfurt
+3.138.59.154,443,true,IAD,North America,Ashburn
+3.64.205.189,443,true,FRA,Europe,Frankfurt
+3.123.255.167,443,true,FRA,Europe,Frankfurt
+3.215.143.191,443,true,IAD,North America,Ashburn
+3.26.59.94,443,true,SYD,Oceania,Sydney
+3.22.241.99,443,true,IAD,North America,Ashburn
+3.67.232.136,443,true,FRA,Europe,Frankfurt
+3.127.15.79,443,true,FRA,Europe,Frankfurt
+3.99.106.179,443,true,YUL,North America,Montréal
+3.144.191.4,443,true,CMH,North America,Columbus
+3.9.12.200,443,true,LHR,Europe,London
+3.216.234.194,443,true,IAD,North America,Ashburn
+3.214.164.221,443,true,IAD,North America,Ashburn
+3.218.234.33,443,true,IAD,North America,Ashburn
+3.69.0.8,443,true,FRA,Europe,Frankfurt
+3.75.149.151,443,true,FRA,Europe,Frankfurt
+3.127.55.133,443,true,FRA,Europe,Frankfurt
+3.70.219.196,443,true,FRA,Europe,Frankfurt
+3.76.154.119,443,true,FRA,Europe,Frankfurt
+3.18.196.26,443,true,IAD,North America,Ashburn
+3.113.64.82,443,true,NRT,Asia Pacific,Tokyo
+3.28.62.7,443,true,MXP,Europe,Milan
+3.120.212.75,443,true,FRA,Europe,Frankfurt
+3.22.241.99,443,true,CMH,North America,Columbus
+3.79.117.14,443,true,FRA,Europe,Frankfurt
+3.138.59.154,443,true,CMH,North America,Columbus
+3.113.111.83,443,true,NRT,Asia Pacific,Tokyo
+3.123.242.99,443,true,FRA,Europe,Frankfurt
+3.122.86.99,443,true,FRA,Europe,Frankfurt
+3.97.173.206,80,true,YUL,North America,Montréal
+4.255.56.137,443,true,IAD,North America,Ashburn
+4.255.56.138,443,true,IAD,North America,Ashburn
+4.230.8.95,443,true,ICN,Asia Pacific,Seoul
+5.61.35.27,443,true,FRA,Europe,Frankfurt
+5.8.47.93,443,true,AMS,Europe,Amsterdam
+5.8.63.23,443,true,IAD,North America,Ashburn
+5.104.75.250,443,true,FRA,Europe,Frankfurt
+5.78.51.6,443,true,PDX,North America,Portland
+5.45.66.11,443,true,AMS,Europe,Amsterdam
+5.187.3.169,443,true,FRA,Europe,Frankfurt
+5.252.226.232,443,true,FRA,Europe,Frankfurt
+5.35.68.180,443,true,AMS,Europe,Amsterdam
+5.61.46.96,443,true,FRA,Europe,Frankfurt
+5.34.211.94,443,true,WAW,Europe,Warsaw
+5.75.245.85,443,true,FRA,Europe,Frankfurt
+5.78.87.196,443,true,PDX,North America,Portland
+5.255.123.167,443,true,AMS,Europe,Amsterdam
+5.188.0.234,8443,true,EWR,North America,Newark
+5.180.55.92,443,true,PRG,Europe,Prague
+5.35.36.66,443,true,AMS,Europe,Amsterdam
+5.45.86.186,443,true,AMS,Europe,Amsterdam
+5.78.121.13,443,true,PDX,North America,Portland
+5.187.4.13,443,true,FRA,Europe,Frankfurt
+5.182.86.226,443,true,FRA,Europe,Frankfurt
+5.135.110.142,443,true,FRA,Europe,Frankfurt
+5.35.68.61,443,true,AMS,Europe,Amsterdam
+5.101.44.139,443,true,TXL,Europe,Berlin
+5.35.70.49,443,true,AMS,Europe,Amsterdam
+5.180.183.26,443,true,AMS,Europe,Amsterdam
+5.45.66.67,443,true,AMS,Europe,Amsterdam
+5.187.1.221,443,true,FRA,Europe,Frankfurt
+5.180.55.85,443,true,PRG,Europe,Prague
+5.187.1.119,443,true,FRA,Europe,Frankfurt
+5.35.71.48,443,true,AMS,Europe,Amsterdam
+5.223.41.132,443,true,SIN,Asia Pacific,Singapore
+5.35.39.192,443,true,AMS,Europe,Amsterdam
+5.181.20.236,443,true,TLL,Europe,Tallinn
+5.255.110.205,443,true,AMS,Europe,Amsterdam
+5.61.34.109,443,true,FRA,Europe,Frankfurt
+5.199.173.195,443,true,VNO,Europe,Vilnius
+5.34.212.59,443,true,VNO,Europe,Vilnius
+5.45.71.98,443,true,AMS,Europe,Amsterdam
+5.182.86.15,443,true,FRA,Europe,Frankfurt
+5.182.86.123,443,true,FRA,Europe,Frankfurt
+5.182.86.130,443,true,FRA,Europe,Frankfurt
+5.35.45.164,443,true,DME,Europe,Moscow
+5.78.84.126,443,true,PDX,North America,Portland
+5.181.20.236,443,true,DME,Europe,Moscow
+5.182.38.183,443,true,BUD,Europe,Budapest
+5.101.44.30,443,true,AMS,Europe,Amsterdam
+5.182.87.52,443,true,FRA,Europe,Frankfurt
+5.34.208.235,443,true,WAW,Europe,Warsaw
+5.187.5.54,443,true,FRA,Europe,Frankfurt
+5.254.124.213,443,true,AMS,Europe,Amsterdam
+5.230.248.125,443,true,FRA,Europe,Frankfurt
+5.34.213.101,443,true,WAW,Europe,Warsaw
+5.187.6.100,443,true,FRA,Europe,Frankfurt
+5.180.55.86,443,true,PRG,Europe,Prague
+5.39.249.146,443,true,FRA,Europe,Frankfurt
+5.78.49.81,443,true,PDX,North America,Portland
+5.187.7.220,443,true,FRA,Europe,Frankfurt
+5.180.24.56,2053,true,EWR,North America,Newark
+5.101.179.28,443,true,WAW,Europe,Warsaw
+5.252.22.242,443,true,FRA,Europe,Frankfurt
+5.78.87.196,443,true,SEA,North America,Seattle
+5.34.210.42,443,true,VNO,Europe,Vilnius
+5.187.4.157,443,true,FRA,Europe,Frankfurt
+5.2.67.113,443,true,AMS,Europe,Amsterdam
+5.181.158.96,443,true,OTP,Europe,Bucharest
+5.253.43.216,443,true,VIE,Europe,Vienna
+5.35.70.155,443,true,AMS,Europe,Amsterdam
+5.34.209.174,443,true,VNO,Europe,Vilnius
+5.255.105.253,443,true,AMS,Europe,Amsterdam
+5.181.77.192,443,true,BUD,Europe,Budapest
+5.34.209.226,443,true,WAW,Europe,Warsaw
+5.187.6.51,443,true,FRA,Europe,Frankfurt
+5.34.212.28,443,true,ARN,Europe,Stockholm
+5.187.4.117,443,true,FRA,Europe,Frankfurt
+5.34.211.168,443,true,WAW,Europe,Warsaw
+5.35.37.45,443,true,AMS,Europe,Amsterdam
+5.34.211.103,443,true,WAW,Europe,Warsaw
+5.34.209.203,443,true,ARN,Europe,Stockholm
+5.187.0.176,443,true,FRA,Europe,Frankfurt
+5.187.5.125,443,true,FRA,Europe,Frankfurt
+5.255.122.135,443,true,AMS,Europe,Amsterdam
+5.180.55.139,443,true,PRG,Europe,Prague
+5.188.0.234,2053,true,EWR,North America,Newark
+5.35.69.122,443,true,AMS,Europe,Amsterdam
+5.180.55.137,443,true,PRG,Europe,Prague
+5.181.20.175,443,true,ARN,Europe,Stockholm
+5.230.44.233,443,true,FRA,Europe,Frankfurt
+5.75.193.134,443,true,CDG,Europe,Paris
+5.35.69.139,443,true,AMS,Europe,Amsterdam
+5.35.37.83,443,true,AMS,Europe,Amsterdam
+5.34.213.101,443,true,ARN,Europe,Stockholm
+5.187.5.152,443,true,FRA,Europe,Frankfurt
+5.255.102.177,443,true,AMS,Europe,Amsterdam
+5.252.118.203,443,true,FRA,Europe,Frankfurt
+5.255.99.242,443,true,AMS,Europe,Amsterdam
+5.34.211.94,443,true,ARN,Europe,Stockholm
+5.180.55.151,443,true,PRG,Europe,Prague
+5.35.69.209,443,true,AMS,Europe,Amsterdam
+5.45.95.88,443,true,AMS,Europe,Amsterdam
+5.34.209.203,443,true,WAW,Europe,Warsaw
+5.78.59.22,443,true,PDX,North America,Portland
+5.61.39.183,443,true,FRA,Europe,Frankfurt
+5.101.44.139,443,true,AMS,Europe,Amsterdam
+5.180.182.128,443,true,AMS,Europe,Amsterdam
+5.61.40.121,443,true,FRA,Europe,Frankfurt
+5.39.219.35,443,true,AMS,Europe,Amsterdam
+5.45.67.208,443,true,AMS,Europe,Amsterdam
+5.39.216.87,443,true,AMS,Europe,Amsterdam
+8.14.199.2,443,true,AUS,North America,Austin
+8.212.43.8,443,true,SJC,North America,San Jose
+8.213.137.24,443,true,ICN,Asia Pacific,Seoul
+13.51.55.31,443,true,ARN,Europe,Stockholm
+13.230.34.30,443,true,NRT,Asia Pacific,Tokyo
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore
+13.57.241.143,80,true,SJC,North America,San Jose
+13.68.186.91,443,true,IAD,North America,Ashburn
+13.53.206.75,443,true,CPH,Europe,Copenhagen
+13.233.5.49,443,true,BOM,Asia Pacific,Mumbai
+13.54.198.183,443,true,SYD,Oceania,Sydney
+13.49.166.245,443,true,ARN,Europe,Stockholm
+15.235.162.49,443,true,SIN,Asia Pacific,Singapore
+15.204.11.54,443,true,SEA,North America,Seattle
+15.204.11.54,443,true,PDX,North America,Portland
+15.235.48.70,443,true,YYZ,North America,Toronto
+15.157.7.168,443,true,YUL,North America,Montréal
+15.165.121.25,443,true,ICN,Asia Pacific,Seoul
+18.216.55.100,443,true,CMH,North America,Columbus
+18.191.122.211,443,true,IAD,North America,Ashburn
+18.207.186.154,443,true,IAD,North America,Ashburn
+18.153.94.168,443,true,FRA,Europe,Frankfurt
+18.189.94.250,443,true,CMH,North America,Columbus
+18.135.67.188,443,true,LHR,Europe,London
+18.205.113.91,443,true,NRT,Asia Pacific,Tokyo
+18.189.94.250,443,true,IAD,North America,Ashburn
+18.235.208.126,443,true,IAD,North America,Ashburn
+18.156.209.101,443,true,FRA,Europe,Frankfurt
+18.192.135.183,443,true,FRA,Europe,Frankfurt
+18.185.254.189,443,true,FRA,Europe,Frankfurt
+18.134.37.97,443,true,LHR,Europe,London
+18.197.218.69,443,true,FRA,Europe,Frankfurt
+18.198.227.161,443,true,FRA,Europe,Frankfurt
+18.156.21.22,443,true,FRA,Europe,Frankfurt
+18.192.93.64,443,true,FRA,Europe,Frankfurt
+18.193.131.26,443,true,FRA,Europe,Frankfurt
+18.184.27.249,443,true,FRA,Europe,Frankfurt
+18.199.213.201,443,true,FRA,Europe,Frankfurt
+18.208.146.83,443,true,BOS,North America,Boston
+18.198.168.3,443,true,FRA,Europe,Frankfurt
+18.153.244.138,443,true,FRA,Europe,Frankfurt
+18.135.188.86,443,true,LHR,Europe,London
+18.222.145.58,443,true,ORD,North America,Chicago
+18.211.101.20,443,true,IAD,North America,Ashburn
+18.216.55.100,443,true,ORD,North America,Chicago
+18.183.158.211,443,true,NRT,Asia Pacific,Tokyo
+18.191.122.211,443,true,CMH,North America,Columbus
+18.144.44.213,80,true,SJC,North America,San Jose
+18.184.55.249,443,true,FRA,Europe,Frankfurt
+18.214.69.202,443,true,IAD,North America,Ashburn
+20.221.32.145,443,true,ORD,North America,Chicago
+20.235.105.146,443,true,BOM,Asia Pacific,Mumbai
+20.121.115.188,443,true,IAD,North America,Ashburn
+20.127.201.36,443,true,IAD,North America,Ashburn
+20.62.202.159,443,true,IAD,North America,Ashburn
+20.36.131.211,443,true,IAD,North America,Ashburn
+20.84.117.28,443,true,IAD,North America,Ashburn
+20.109.23.42,443,true,IAD,North America,Ashburn
+20.235.220.189,443,true,BOM,Asia Pacific,Mumbai
+23.82.137.161,443,true,DFW,North America,Dallas
+23.95.235.137,443,true,YYZ,North America,Toronto
+23.95.146.100,443,true,BUF,North America,Buffalo
+23.26.217.213,443,true,HKG,Asia Pacific,Hong Kong
+23.94.137.130,443,true,ORD,North America,Chicago
+23.94.43.51,443,true,SEA,North America,Seattle
+23.106.130.200,80,true,KIX,Asia Pacific,Osaka
+23.95.235.137,443,true,BUF,North America,Buffalo
+23.94.84.101,443,true,BUF,North America,Buffalo
+23.95.146.100,443,true,YYZ,North America,Toronto
+23.95.113.61,443,true,IAD,North America,Ashburn
+23.94.136.126,80,true,ORD,North America,Chicago
+23.94.217.204,443,true,AMS,Europe,Amsterdam
+23.94.137.117,443,true,ORD,North America,Chicago
+23.254.226.110,443,true,AMS,Europe,Amsterdam
+23.94.117.148,443,true,IAD,North America,Ashburn
+23.88.88.104,443,true,CDG,Europe,Paris
+23.105.213.30,443,true,LAX,North America,Los Angeles
+23.94.5.177,443,true,BUF,North America,Buffalo
+23.88.116.40,443,true,FRA,Europe,Frankfurt
+23.94.133.82,443,true,ORD,North America,Chicago
+23.108.217.103,443,true,AMS,Europe,Amsterdam
+23.94.92.19,443,true,ATL,North America,Atlanta
+23.94.122.46,443,true,SJC,North America,San Jose
+23.94.84.101,443,true,YYZ,North America,Toronto
+23.88.88.102,443,true,CDG,Europe,Paris
+23.94.251.164,443,true,ORD,North America,Chicago
+23.95.91.159,443,true,ATL,North America,Atlanta
+23.94.5.177,443,true,YYZ,North America,Toronto
+23.94.219.189,443,true,AMS,Europe,Amsterdam
+23.88.102.144,443,true,CDG,Europe,Paris
+23.227.193.89,443,true,ORD,North America,Chicago
+23.94.255.195,443,true,SJC,North America,San Jose
+23.165.40.112,443,true,LAX,North America,Los Angeles
+23.94.211.148,443,true,SEA,North America,Seattle
+23.227.193.153,443,true,ORD,North America,Chicago
+23.147.232.6,443,true,NRT,Asia Pacific,Tokyo
+23.95.235.137,443,true,EWR,North America,Newark
+23.94.49.196,443,true,ATL,North America,Atlanta
+24.144.79.45,443,true,AMS,Europe,Amsterdam
+24.144.78.203,443,true,AMS,Europe,Amsterdam
+24.144.78.219,443,true,AMS,Europe,Amsterdam
+24.181.251.148,443,true,IAD,North America,Ashburn
+31.220.49.192,443,true,SJC,North America,San Jose
+31.172.70.222,443,true,FRA,Europe,Frankfurt
+31.44.2.57,443,true,AMS,Europe,Amsterdam
+31.172.72.83,443,true,FRA,Europe,Frankfurt
+31.172.75.222,443,true,FRA,Europe,Frankfurt
+31.172.74.123,443,true,AMS,Europe,Amsterdam
+31.172.77.15,443,true,FRA,Europe,Frankfurt
+31.128.33.253,443,true,WAW,Europe,Warsaw
+31.172.79.112,443,true,DFW,North America,Dallas
+31.220.43.125,443,true,AMS,Europe,Amsterdam
+31.25.88.236,443,true,FRA,Europe,Frankfurt
+31.172.77.67,443,true,FRA,Europe,Frankfurt
+31.172.72.13,443,true,FRA,Europe,Frankfurt
+31.129.48.139,443,true,LED,Europe,Saint Petersburg
+31.172.74.175,443,true,AMS,Europe,Amsterdam
+31.220.31.67,443,true,LAX,North America,Los Angeles
+31.172.70.6,443,true,FRA,Europe,Frankfurt
+31.25.29.199,443,true,DME,Europe,Moscow
+31.172.71.113,443,true,FRA,Europe,Frankfurt
+31.220.49.192,443,true,LAX,North America,Los Angeles
+31.172.77.205,443,true,FRA,Europe,Frankfurt
+31.172.75.114,443,true,FRA,Europe,Frankfurt
+31.172.74.223,443,true,AMS,Europe,Amsterdam
+31.47.58.37,443,true,HEL,Europe,Helsinki
+31.172.78.69,443,true,AMS,Europe,Amsterdam
+31.172.71.41,443,true,FRA,Europe,Frankfurt
+31.40.216.44,443,true,AMS,Europe,Amsterdam
+31.210.170.108,443,true,AMS,Europe,Amsterdam
+31.134.207.148,443,true,AMS,Europe,Amsterdam
+31.172.67.73,443,true,DME,Europe,Moscow
+31.172.71.184,443,true,FRA,Europe,Frankfurt
+31.13.241.16,443,true,SOF,Europe,Sofia
+31.41.221.121,443,true,KBP,Europe,Kyiv
+31.210.170.49,443,true,AMS,Europe,Amsterdam
+31.129.49.103,443,true,LED,Europe,Saint Petersburg
+34.230.210.239,443,true,IAD,North America,Ashburn
+34.209.4.175,80,true,PDX,North America,Portland
+34.142.31.109,443,true,LHR,Europe,London
+34.69.150.180,443,true,ORD,North America,Chicago
+34.105.49.234,443,true,SEA,North America,Seattle
+34.208.221.169,443,true,SEA,North America,Seattle
+34.66.72.229,443,true,ORD,North America,Chicago
+34.83.245.149,443,true,SEA,North America,Seattle
+34.147.231.33,443,true,LHR,Europe,London
+34.219.53.148,443,true,PDX,North America,Portland
+34.218.130.79,443,true,PDX,North America,Portland
+34.105.189.25,443,true,LHR,Europe,London
+34.105.140.105,443,true,LHR,Europe,London
+34.105.233.161,443,true,LHR,Europe,London
+34.208.221.169,443,true,PDX,North America,Portland
+34.253.234.62,443,true,DUB,Europe,Dublin
+34.72.146.82,443,true,ORD,North America,Chicago
+34.70.91.86,443,true,ORD,North America,Chicago
+34.123.83.237,443,true,ORD,North America,Chicago
+34.226.98.213,443,true,IAD,North America,Ashburn
+34.41.252.92,443,true,ORD,North America,Chicago
+34.94.33.105,443,true,LAX,North America,Los Angeles
+34.82.76.253,443,true,SEA,North America,Seattle
+34.200.255.151,80,true,IAD,North America,Ashburn
+34.175.202.195,443,true,MAD,Europe,Madrid
+34.22.142.117,443,true,CDG,Europe,Paris
+34.209.4.175,80,true,SEA,North America,Seattle
+34.193.164.187,443,true,IAD,North America,Ashburn
+34.22.190.30,443,true,CDG,Europe,Paris
+34.88.63.160,443,true,FRA,Europe,Frankfurt
+34.194.76.43,443,true,IAD,North America,Ashburn
+34.234.8.26,443,true,IAD,North America,Ashburn
+34.94.98.138,443,true,LAX,North America,Los Angeles
+35.182.7.190,80,true,YUL,North America,Montréal
+35.228.168.221,443,true,ARN,Europe,Stockholm
+35.228.36.82,443,true,ARN,Europe,Stockholm
+35.189.99.124,443,true,LHR,Europe,London
+35.159.165.195,443,true,FRA,Europe,Frankfurt
+35.159.161.248,443,true,FRA,Europe,Frankfurt
+35.183.163.195,80,true,YUL,North America,Montréal
+35.201.203.106,443,true,TPE,Asia Pacific,Taipei
+35.182.7.190,443,true,YUL,North America,Montréal
+35.183.163.195,443,true,YUL,North America,Montréal
+35.214.142.147,443,true,AMS,Europe,Amsterdam
+35.219.15.90,443,true,CGK,Asia Pacific,Jakarta
+35.167.93.200,443,true,SEA,North America,Seattle
+35.230.79.26,443,true,SEA,North America,Seattle
+35.159.168.72,443,true,FRA,Europe,Frankfurt
+35.167.93.200,80,true,PDX,North America,Portland
+35.167.93.200,443,true,PDX,North America,Portland
+35.189.113.240,443,true,LHR,Europe,London
+35.200.202.118,443,true,BOM,Asia Pacific,Mumbai
+35.219.50.99,443,true,CGK,Asia Pacific,Jakarta
+35.83.185.225,443,true,PDX,North America,Portland
+35.176.229.223,80,true,LHR,Europe,London
+35.197.23.75,443,true,SEA,North America,Seattle
+35.247.124.181,443,true,SEA,North America,Seattle
+35.181.77.67,443,true,CDG,Europe,Paris
+35.176.229.223,443,true,LHR,Europe,London
+35.202.158.120,443,true,ORD,North America,Chicago
+35.182.214.244,443,true,YUL,North America,Montréal
+35.171.204.134,443,true,IAD,North America,Ashburn
+35.171.140.167,443,true,IAD,North America,Ashburn
+35.197.239.137,443,true,LHR,Europe,London
+35.177.50.118,443,true,LHR,Europe,London
+35.226.211.129,443,true,ORD,North America,Chicago
+37.27.24.37,443,true,HEL,Europe,Helsinki
+37.27.206.106,443,true,HEL,Europe,Helsinki
+37.27.33.145,443,true,HEL,Europe,Helsinki
+37.1.217.231,443,true,AMS,Europe,Amsterdam
+37.128.207.179,443,true,VNO,Europe,Vilnius
+37.27.40.190,443,true,AMS,Europe,Amsterdam
+37.1.223.234,443,true,AMS,Europe,Amsterdam
+37.1.195.45,443,true,FRA,Europe,Frankfurt
+37.120.139.59,8443,true,EWR,North America,Newark
+37.1.221.155,443,true,AMS,Europe,Amsterdam
+37.1.218.117,443,true,AMS,Europe,Amsterdam
+37.27.197.102,443,true,HEL,Europe,Helsinki
+37.27.38.42,443,true,AMS,Europe,Amsterdam
+37.27.81.12,443,true,HEL,Europe,Helsinki
+37.1.203.192,443,true,TXL,Europe,Berlin
+37.1.202.160,443,true,AMS,Europe,Amsterdam
+37.27.42.20,443,true,HEL,Europe,Helsinki
+37.128.204.156,443,true,VNO,Europe,Vilnius
+37.128.207.68,443,true,VNO,Europe,Vilnius
+37.1.204.28,443,true,AMS,Europe,Amsterdam
+37.1.206.103,443,true,AMS,Europe,Amsterdam
+37.1.199.185,443,true,FRA,Europe,Frankfurt
+37.27.88.157,443,true,HEL,Europe,Helsinki
+37.128.207.199,443,true,WAW,Europe,Warsaw
+37.27.42.211,80,true,AMS,Europe,Amsterdam
+37.27.199.89,443,true,HEL,Europe,Helsinki
+37.1.194.7,443,true,FRA,Europe,Frankfurt
+37.27.8.255,443,true,HEL,Europe,Helsinki
+37.128.253.253,443,true,TPE,Asia Pacific,Taipei
+37.220.85.33,443,true,FRA,Europe,Frankfurt
+37.128.205.171,443,true,VNO,Europe,Vilnius
+37.252.10.91,443,true,HAM,Europe,Hamburg
+37.120.139.230,8443,true,EWR,North America,Newark
+37.128.205.170,443,true,WAW,Europe,Warsaw
+37.1.223.130,443,true,AMS,Europe,Amsterdam
+37.27.200.216,443,true,AMS,Europe,Amsterdam
+37.27.89.49,443,true,HEL,Europe,Helsinki
+37.1.206.30,443,true,AMS,Europe,Amsterdam
+37.128.205.170,443,true,ARN,Europe,Stockholm
+37.128.206.190,443,true,WAW,Europe,Warsaw
+37.128.207.235,443,true,ARN,Europe,Stockholm
+37.128.206.190,443,true,ARN,Europe,Stockholm
+37.27.20.100,443,true,AMS,Europe,Amsterdam
+37.252.4.171,443,true,TLL,Europe,Tallinn
+37.252.5.75,443,true,TLL,Europe,Tallinn
+37.1.207.228,443,true,AMS,Europe,Amsterdam
+37.128.204.140,443,true,WAW,Europe,Warsaw
+37.27.4.238,443,true,AMS,Europe,Amsterdam
+37.128.207.50,443,true,WAW,Europe,Warsaw
+37.48.90.120,443,true,FRA,Europe,Frankfurt
+37.187.98.185,443,true,CDG,Europe,Paris
+37.1.195.124,443,true,FRA,Europe,Frankfurt
+37.27.80.227,443,true,AMS,Europe,Amsterdam
+37.252.5.15,443,true,TLL,Europe,Tallinn
+37.252.6.119,443,true,HAM,Europe,Hamburg
+37.27.85.102,443,true,AMS,Europe,Amsterdam
+37.27.91.126,443,true,HEL,Europe,Helsinki
+38.49.38.178,443,true,LAX,North America,Los Angeles
+38.180.85.203,443,true,MXP,Europe,Milan
+38.180.70.107,443,true,AMS,Europe,Amsterdam
+38.22.233.225,443,true,LAX,North America,Los Angeles
+38.180.181.130,443,true,FRA,Europe,Frankfurt
+38.180.101.177,443,true,FRA,Europe,Frankfurt
+38.180.87.253,443,true,FRA,Europe,Frankfurt
+38.180.86.246,443,true,FRA,Europe,Frankfurt
+38.22.233.228,443,true,LAX,North America,Los Angeles
+38.180.96.139,443,true,AMS,Europe,Amsterdam
+38.180.99.103,443,true,AMS,Europe,Amsterdam
+38.180.169.88,443,true,AMS,Europe,Amsterdam
+38.180.133.83,443,true,AMS,Europe,Amsterdam
+38.207.155.12,443,true,HKG,Asia Pacific,Hong Kong
+38.207.172.42,443,true,HKG,Asia Pacific,Hong Kong
+38.180.172.251,443,true,IST,Europe,Istanbul
+38.207.152.107,443,true,NRT,Asia Pacific,Tokyo
+38.47.204.86,443,true,HKG,Asia Pacific,Hong Kong
+38.180.2.122,443,true,FRA,Europe,Frankfurt
+38.180.131.229,443,true,AMS,Europe,Amsterdam
+38.22.233.224,443,true,LAX,North America,Los Angeles
+38.180.170.183,443,true,AMS,Europe,Amsterdam
+38.180.216.120,443,true,TLL,Europe,Tallinn
+38.22.233.232,443,true,LAX,North America,Los Angeles
+38.180.105.201,443,true,IST,Europe,Istanbul
+38.180.93.241,443,true,CDG,Europe,Paris
+38.180.216.175,443,true,TLL,Europe,Tallinn
+38.180.216.141,443,true,TLL,Europe,Tallinn
+38.22.233.23,443,true,LAX,North America,Los Angeles
+38.180.0.223,443,true,CDG,Europe,Paris
+38.22.233.211,443,true,LAX,North America,Los Angeles
+38.180.217.30,443,true,HAM,Europe,Hamburg
+38.180.116.110,443,true,AMS,Europe,Amsterdam
+38.180.100.80,443,true,FRA,Europe,Frankfurt
+38.150.34.152,443,true,SJC,North America,San Jose
+38.180.105.164,443,true,IST,Europe,Istanbul
+38.180.121.147,443,true,AMS,Europe,Amsterdam
+38.180.168.23,443,true,AMS,Europe,Amsterdam
+38.180.214.40,443,true,CPH,Europe,Copenhagen
+38.22.233.150,443,true,LAX,North America,Los Angeles
+38.180.96.90,443,true,AMS,Europe,Amsterdam
+38.22.233.64,443,true,LAX,North America,Los Angeles
+38.180.108.148,443,true,BUD,Europe,Budapest
+38.180.151.60,443,true,CDG,Europe,Paris
+38.180.109.174,443,true,BUD,Europe,Budapest
+38.209.69.83,443,true,LAX,North America,Los Angeles
+38.22.233.168,443,true,LAX,North America,Los Angeles
+38.22.233.46,443,true,LAX,North America,Los Angeles
+38.22.233.159,443,true,LAX,North America,Los Angeles
+38.180.29.115,443,true,NRT,Asia Pacific,Tokyo
+38.22.233.160,443,true,LAX,North America,Los Angeles
+38.180.205.55,443,true,OTP,Europe,Bucharest
+38.22.233.30,443,true,LAX,North America,Los Angeles
+38.22.233.110,443,true,LAX,North America,Los Angeles
+38.22.233.166,443,true,LAX,North America,Los Angeles
+38.22.233.167,443,true,LAX,North America,Los Angeles
+38.22.233.138,443,true,LAX,North America,Los Angeles
+38.76.145.171,443,true,LAX,North America,Los Angeles
+38.76.145.184,443,true,LAX,North America,Los Angeles
+38.76.145.178,443,true,LAX,North America,Los Angeles
+38.76.145.170,443,true,LAX,North America,Los Angeles
+38.76.145.162,443,true,LAX,North America,Los Angeles
+38.76.145.163,443,true,LAX,North America,Los Angeles
+38.22.233.234,443,true,LAX,North America,Los Angeles
+38.76.145.164,443,true,LAX,North America,Los Angeles
+38.76.145.165,443,true,LAX,North America,Los Angeles
+38.76.145.173,443,true,LAX,North America,Los Angeles
+38.76.145.166,443,true,LAX,North America,Los Angeles
+38.76.145.167,443,true,LAX,North America,Los Angeles
+38.180.127.82,443,true,YUL,North America,Montréal
+38.135.55.74,443,true,FRA,Europe,Frankfurt
+38.76.145.174,443,true,LAX,North America,Los Angeles
+38.76.145.185,443,true,LAX,North America,Los Angeles
+38.180.78.255,443,true,GRU,South America,São Paulo
+38.76.145.172,443,true,LAX,North America,Los Angeles
+38.76.145.176,443,true,LAX,North America,Los Angeles
+38.135.55.141,443,true,FRA,Europe,Frankfurt
+38.76.145.191,443,true,LAX,North America,Los Angeles
+38.180.79.9,443,true,GRU,South America,São Paulo
+38.76.145.180,443,true,LAX,North America,Los Angeles
+38.76.145.188,443,true,LAX,North America,Los Angeles
+38.180.45.245,443,true,TLL,Europe,Tallinn
+38.76.145.186,443,true,LAX,North America,Los Angeles
+38.76.145.189,443,true,LAX,North America,Los Angeles
+38.76.145.190,443,true,LAX,North America,Los Angeles
+38.22.233.242,443,true,LAX,North America,Los Angeles
+38.180.50.82,8443,true,HAM,Europe,Hamburg
+38.47.117.77,443,true,LAX,North America,Los Angeles
+38.76.145.175,443,true,LAX,North America,Los Angeles
+38.76.145.179,443,true,LAX,North America,Los Angeles
+38.76.145.168,443,true,LAX,North America,Los Angeles
+38.147.160.80,443,true,LAX,North America,Los Angeles
+38.150.34.152,443,true,LAX,North America,Los Angeles
+38.60.91.95,443,true,LAX,North America,Los Angeles
+38.180.51.120,443,true,HAM,Europe,Hamburg
+38.76.145.177,443,true,LAX,North America,Los Angeles
+38.150.34.2,443,true,LAX,North America,Los Angeles
+38.180.10.150,443,true,TLL,Europe,Tallinn
+38.180.0.23,443,true,CDG,Europe,Paris
+38.76.145.183,443,true,LAX,North America,Los Angeles
+38.180.11.201,443,true,RUH,Middle East,Riyadh
+38.180.15.38,443,true,MXP,Europe,Milan
+38.180.10.90,443,true,TLL,Europe,Tallinn
+38.180.10.162,443,true,TLL,Europe,Tallinn
+38.180.15.45,443,true,MXP,Europe,Milan
+38.180.15.138,443,true,MXP,Europe,Milan
+38.180.10.91,443,true,TLL,Europe,Tallinn
+38.150.15.137,443,true,HKG,Asia Pacific,Hong Kong
+38.180.17.54,443,true,FRA,Europe,Frankfurt
+38.180.59.88,443,true,FRA,Europe,Frankfurt
+38.76.145.169,443,true,LAX,North America,Los Angeles
+38.180.6.113,443,true,EWR,North America,Newark
+38.180.30.217,443,true,FRA,Europe,Frankfurt
+38.180.58.141,443,true,FRA,Europe,Frankfurt
+38.180.69.156,443,true,AMS,Europe,Amsterdam
+38.76.145.182,443,true,LAX,North America,Los Angeles
+38.180.25.40,443,true,EWR,North America,Newark
+38.180.48.228,443,true,FRA,Europe,Frankfurt
+38.180.21.33,443,true,CDG,Europe,Paris
+38.180.36.100,443,true,ALA,Asia Pacific,Almaty
+38.180.62.4,443,true,CDG,Europe,Paris
+38.180.72.160,443,true,CPH,Europe,Copenhagen
+38.180.52.83,443,true,MAD,Europe,Madrid
+38.22.233.179,443,true,LAX,North America,Los Angeles
+38.180.57.184,443,true,AMS,Europe,Amsterdam
+41.76.42.118,443,true,MRU,Africa,Port Louis
+43.206.192.211,443,true,NRT,Asia Pacific,Tokyo
+43.128.26.74,443,true,HKG,Asia Pacific,Hong Kong
+43.156.53.68,443,true,SIN,Asia Pacific,Singapore
+43.134.34.18,443,true,SIN,Asia Pacific,Singapore
+43.156.253.94,443,true,SIN,Asia Pacific,Singapore
+43.156.181.203,443,true,SIN,Asia Pacific,Singapore
+43.156.116.194,443,true,SIN,Asia Pacific,Singapore
+43.249.172.15,443,true,HKG,Asia Pacific,Hong Kong
+43.153.119.207,443,true,SJC,North America,San Jose
+43.231.232.52,443,true,SJC,North America,San Jose
+44.227.209.152,443,true,PDX,North America,Portland
+44.224.24.91,443,true,PDX,North America,Portland
+44.224.24.91,443,true,SEA,North America,Seattle
+44.209.255.249,443,true,IAD,North America,Ashburn
+44.227.22.10,443,true,PDX,North America,Portland
+44.227.22.10,443,true,SEA,North America,Seattle
+44.230.218.23,443,true,PDX,North America,Portland
+44.226.147.29,443,true,PDX,North America,Portland
+45.8.147.117,443,true,CPH,Europe,Copenhagen
+45.84.0.78,443,true,KBP,Europe,Kyiv
+45.11.183.132,443,true,TLL,Europe,Tallinn
+45.63.114.83,443,true,CDG,Europe,Paris
+45.88.67.254,443,true,AMS,Europe,Amsterdam
+45.76.82.192,443,true,FRA,Europe,Frankfurt
+45.76.247.142,443,true,SEA,North America,Seattle
+45.66.8.88,443,true,AMS,Europe,Amsterdam
+45.150.165.13,443,true,SEA,North America,Seattle
+45.144.235.85,443,true,ARN,Europe,Stockholm
+45.136.199.77,443,true,OTP,Europe,Bucharest
+45.138.73.83,443,true,TLL,Europe,Tallinn
+45.145.6.179,443,true,AMS,Europe,Amsterdam
+45.152.115.181,443,true,AMS,Europe,Amsterdam
+45.90.59.204,443,true,GVA,Europe,Geneva
+45.155.120.219,443,true,AMS,Europe,Amsterdam
+45.61.185.75,443,true,MIA,North America,Miami
+45.82.14.221,443,true,DME,Europe,Moscow
+45.89.63.111,443,true,LHR,Europe,London
+45.152.114.86,443,true,AMS,Europe,Amsterdam
+45.85.93.96,443,true,GVA,Europe,Geneva
+45.147.228.249,443,true,FRA,Europe,Frankfurt
+45.144.154.221,443,true,AMS,Europe,Amsterdam
+45.32.153.158,443,true,FRA,Europe,Frankfurt
+45.143.167.213,443,true,AMS,Europe,Amsterdam
+45.15.23.92,443,true,OTP,Europe,Bucharest
+45.142.122.14,443,true,DME,Europe,Moscow
+45.76.134.254,443,true,LHR,Europe,London
+45.133.216.186,443,true,RIX,Europe,Riga
+45.85.93.121,443,true,GVA,Europe,Geneva
+45.85.93.49,443,true,GVA,Europe,Geneva
+45.140.88.244,443,true,LAX,North America,Los Angeles
+45.154.35.160,443,true,AMS,Europe,Amsterdam
+45.129.3.158,443,true,VIE,Europe,Vienna
+45.80.188.138,443,true,FRA,Europe,Frankfurt
+45.8.145.223,443,true,AMS,Europe,Amsterdam
+45.88.67.65,443,true,AMS,Europe,Amsterdam
+45.145.6.249,443,true,AMS,Europe,Amsterdam
+45.85.93.21,443,true,GVA,Europe,Geneva
+45.154.214.116,443,true,SEA,North America,Seattle
+45.144.232.86,443,true,AMS,Europe,Amsterdam
+45.43.88.96,443,true,FRA,Europe,Frankfurt
+45.147.50.154,443,true,FRA,Europe,Frankfurt
+45.90.219.244,443,true,TLL,Europe,Tallinn
+45.87.107.36,443,true,AMS,Europe,Amsterdam
+45.85.93.51,443,true,GVA,Europe,Geneva
+45.85.93.59,443,true,GVA,Europe,Geneva
+45.128.232.197,443,true,AMS,Europe,Amsterdam
+45.150.65.21,2053,true,EWR,North America,Newark
+45.145.6.212,443,true,AMS,Europe,Amsterdam
+45.88.67.136,443,true,AMS,Europe,Amsterdam
+45.80.209.48,443,true,AMS,Europe,Amsterdam
+45.77.36.40,443,true,SIN,Asia Pacific,Singapore
+45.142.215.233,443,true,RIX,Europe,Riga
+45.156.22.114,443,true,AMS,Europe,Amsterdam
+45.83.21.13,443,true,DUB,Europe,Dublin
+45.43.90.169,443,true,AMS,Europe,Amsterdam
+45.95.173.22,443,true,FRA,Europe,Frankfurt
+45.157.177.108,443,true,FRA,Europe,Frankfurt
+45.144.233.115,443,true,FRA,Europe,Frankfurt
+45.146.120.54,443,true,EWR,North America,Newark
+45.138.73.83,443,true,OSL,Europe,Oslo
+45.80.209.48,443,true,FRA,Europe,Frankfurt
+45.67.84.128,443,true,LHR,Europe,London
+45.133.118.160,443,true,AMS,Europe,Amsterdam
+45.152.127.215,443,true,FRA,Europe,Frankfurt
+45.155.120.132,443,true,AMS,Europe,Amsterdam
+45.82.14.221,443,true,SIN,Asia Pacific,Singapore
+45.138.73.182,443,true,ARN,Europe,Stockholm
+45.144.29.77,443,true,AMS,Europe,Amsterdam
+45.120.178.115,443,true,AMS,Europe,Amsterdam
+45.42.141.183,443,true,SEA,North America,Seattle
+45.156.22.114,443,true,DME,Europe,Moscow
+45.63.42.198,443,true,FRA,Europe,Frankfurt
+45.128.232.62,443,true,AMS,Europe,Amsterdam
+45.85.146.60,443,true,DUS,Europe,Düsseldorf
+45.79.168.17,443,true,EWR,North America,Newark
+45.59.170.54,8443,true,EWR,North America,Newark
+45.14.247.108,443,true,FRA,Europe,Frankfurt
+45.144.28.167,443,true,AMS,Europe,Amsterdam
+45.129.3.158,443,true,SIN,Asia Pacific,Singapore
+45.150.65.21,8443,true,EWR,North America,Newark
+45.63.42.198,443,true,AMS,Europe,Amsterdam
+45.59.170.80,2053,true,EWR,North America,Newark
+45.77.236.204,443,true,SYD,Oceania,Sydney
+45.86.229.226,443,true,MAD,Europe,Madrid
+45.157.233.208,443,true,FRA,Europe,Frankfurt
+45.90.218.109,443,true,ARN,Europe,Stockholm
+45.91.200.86,80,true,AMS,Europe,Amsterdam
+45.82.80.122,443,true,TLL,Europe,Tallinn
+45.59.170.80,8443,true,EWR,North America,Newark
+45.14.245.162,443,true,AMS,Europe,Amsterdam
+45.12.136.202,443,true,VNO,Europe,Vilnius
+45.156.22.114,443,true,TLL,Europe,Tallinn
+45.140.146.91,443,true,KBP,Europe,Kyiv
+45.140.167.7,443,true,LHR,Europe,London
+45.86.229.28,443,true,MAD,Europe,Madrid
+45.129.3.158,443,true,CDG,Europe,Paris
+45.135.165.245,443,true,FRA,Europe,Frankfurt
+45.144.154.64,443,true,AMS,Europe,Amsterdam
+45.8.147.117,443,true,OSL,Europe,Oslo
+45.152.114.111,443,true,AMS,Europe,Amsterdam
+45.138.74.182,443,true,FRA,Europe,Frankfurt
+45.11.93.113,80,true,DFW,North America,Dallas
+45.144.49.146,443,true,WAW,Europe,Warsaw
+45.133.118.153,443,true,AMS,Europe,Amsterdam
+45.55.134.227,443,true,EWR,North America,Newark
+45.81.227.122,443,true,AMS,Europe,Amsterdam
+45.159.188.249,443,true,AMS,Europe,Amsterdam
+45.144.233.205,443,true,FRA,Europe,Frankfurt
+45.90.219.244,443,true,CPH,Europe,Copenhagen
+45.81.225.142,443,true,AMS,Europe,Amsterdam
+45.89.52.247,443,true,OTP,Europe,Bucharest
+45.82.253.211,443,true,TLL,Europe,Tallinn
+45.142.215.189,443,true,RIX,Europe,Riga
+45.147.51.230,443,true,FRA,Europe,Frankfurt
+45.86.228.104,443,true,SIN,Asia Pacific,Singapore
+45.133.117.185,443,true,AMS,Europe,Amsterdam
+45.147.199.13,443,true,AMS,Europe,Amsterdam
+45.132.1.254,443,true,FRA,Europe,Frankfurt
+45.129.3.158,443,true,WAW,Europe,Warsaw
+45.61.138.147,443,true,LHR,Europe,London
+45.154.207.101,443,true,FRA,Europe,Frankfurt
+45.153.125.245,443,true,SOF,Europe,Sofia
+45.14.245.222,443,true,AMS,Europe,Amsterdam
+45.91.237.85,443,true,AMS,Europe,Amsterdam
+45.144.235.7,443,true,ARN,Europe,Stockholm
+45.82.255.141,443,true,WAW,Europe,Warsaw
+45.9.72.114,443,true,HEL,Europe,Helsinki
+45.12.134.207,443,true,NRT,Asia Pacific,Tokyo
+45.129.3.158,443,true,AMS,Europe,Amsterdam
+45.78.23.125,443,true,HKG,Asia Pacific,Hong Kong
+45.59.170.54,2053,true,EWR,North America,Newark
+45.15.157.10,443,true,FRA,Europe,Frankfurt
+45.76.198.248,443,true,NRT,Asia Pacific,Tokyo
+45.82.253.58,443,true,TLL,Europe,Tallinn
+45.144.234.149,443,true,HEL,Europe,Helsinki
+45.89.52.247,443,true,SOF,Europe,Sofia
+45.78.1.88,443,true,LAX,North America,Los Angeles
+45.140.167.225,443,true,LHR,Europe,London
+45.87.107.64,443,true,AMS,Europe,Amsterdam
+45.85.117.232,443,true,AMS,Europe,Amsterdam
+45.85.117.223,443,true,AMS,Europe,Amsterdam
+45.43.89.159,443,true,FRA,Europe,Frankfurt
+45.15.159.119,443,true,FRA,Europe,Frankfurt
+45.135.165.139,443,true,FRA,Europe,Frankfurt
+45.88.67.202,443,true,AMS,Europe,Amsterdam
+45.139.222.236,443,true,IST,Europe,Istanbul
+45.136.70.204,443,true,CPH,Europe,Copenhagen
+45.120.178.141,443,true,AMS,Europe,Amsterdam
+45.142.122.14,443,true,AMS,Europe,Amsterdam
+45.142.122.14,443,true,SIN,Asia Pacific,Singapore
+45.11.93.113,443,true,DFW,North America,Dallas
+45.135.180.50,443,true,AMS,Europe,Amsterdam
+45.42.214.153,443,true,EWR,North America,Newark
+45.129.3.158,443,true,DME,Europe,Moscow
+45.86.86.53,443,true,KBP,Europe,Kyiv
+45.87.167.68,443,true,SJC,North America,San Jose
+45.136.50.140,443,true,AMS,Europe,Amsterdam
+45.136.199.132,443,true,OTP,Europe,Bucharest
+45.15.157.186,443,true,FRA,Europe,Frankfurt
+45.80.208.39,443,true,ALA,Asia Pacific,Almaty
+45.82.14.221,443,true,CDG,Europe,Paris
+45.142.122.14,443,true,CDG,Europe,Paris
+45.144.29.93,443,true,AMS,Europe,Amsterdam
+46.8.233.147,443,true,HEL,Europe,Helsinki
+46.8.232.217,443,true,ARN,Europe,Stockholm
+46.226.165.244,443,true,FRA,Europe,Frankfurt
+46.8.237.3,443,true,ARN,Europe,Stockholm
+46.32.187.85,443,true,ARN,Europe,Stockholm
+46.101.125.173,443,true,FRA,Europe,Frankfurt
+46.8.236.93,443,true,HEL,Europe,Helsinki
+46.17.107.58,2053,true,EWR,North America,Newark
+46.36.222.111,443,true,ARN,Europe,Stockholm
+46.8.228.58,443,true,DME,Europe,Moscow
+46.101.189.202,443,true,FRA,Europe,Frankfurt
+46.36.217.12,443,true,ARN,Europe,Stockholm
+46.30.46.217,443,true,AMS,Europe,Amsterdam
+46.17.97.237,443,true,AMS,Europe,Amsterdam
+46.32.186.52,443,true,WAW,Europe,Warsaw
+46.36.223.141,443,true,ARN,Europe,Stockholm
+46.226.162.184,443,true,FRA,Europe,Frankfurt
+46.30.47.8,443,true,AMS,Europe,Amsterdam
+46.17.102.93,443,true,AMS,Europe,Amsterdam
+46.19.99.68,443,true,EVN,Middle East,Yerevan
+46.17.102.108,443,true,AMS,Europe,Amsterdam
+46.36.216.176,443,true,ARN,Europe,Stockholm
+46.30.42.18,443,true,AMS,Europe,Amsterdam
+46.32.187.85,443,true,WAW,Europe,Warsaw
+46.22.211.66,443,true,TLL,Europe,Tallinn
+46.19.68.205,443,true,FRA,Europe,Frankfurt
+46.30.41.73,443,true,AMS,Europe,Amsterdam
+46.17.102.31,443,true,AMS,Europe,Amsterdam
+46.30.45.20,443,true,AMS,Europe,Amsterdam
+46.226.161.88,443,true,FRA,Europe,Frankfurt
+46.183.25.52,443,true,LAX,North America,Los Angeles
+46.32.184.247,443,true,VNO,Europe,Vilnius
+46.101.198.194,443,true,FRA,Europe,Frankfurt
+46.32.184.115,443,true,WAW,Europe,Warsaw
+46.32.184.187,443,true,ARN,Europe,Stockholm
+46.183.186.57,443,true,VIE,Europe,Vienna
+46.227.164.65,443,true,FRA,Europe,Frankfurt
+46.226.164.147,443,true,FRA,Europe,Frankfurt
+46.29.234.196,443,true,TXL,Europe,Berlin
+46.226.165.169,443,true,FRA,Europe,Frankfurt
+46.32.184.75,443,true,WAW,Europe,Warsaw
+46.17.103.175,443,true,AMS,Europe,Amsterdam
+46.105.92.46,443,true,FRA,Europe,Frankfurt
+46.105.50.183,443,true,CDG,Europe,Paris
+46.226.161.131,443,true,FRA,Europe,Frankfurt
+46.226.160.150,443,true,FRA,Europe,Frankfurt
+46.46.137.151,443,true,WAW,Europe,Warsaw
+46.226.161.125,443,true,FRA,Europe,Frankfurt
+46.8.231.206,443,true,AMS,Europe,Amsterdam
+46.226.165.137,443,true,FRA,Europe,Frankfurt
+46.105.88.78,443,true,CDG,Europe,Paris
+46.29.235.30,443,true,HAM,Europe,Hamburg
+46.8.228.58,443,true,TLL,Europe,Tallinn
+46.8.232.217,443,true,HEL,Europe,Helsinki
+46.32.187.228,443,true,WAW,Europe,Warsaw
+46.101.158.60,443,true,FRA,Europe,Frankfurt
+46.8.229.179,443,true,AMS,Europe,Amsterdam
+46.8.228.185,443,true,HEL,Europe,Helsinki
+46.32.185.228,443,true,WAW,Europe,Warsaw
+46.101.192.148,443,true,FRA,Europe,Frankfurt
+46.22.211.14,443,true,TLL,Europe,Tallinn
+46.101.116.77,443,true,FRA,Europe,Frankfurt
+46.226.164.245,443,true,FRA,Europe,Frankfurt
+46.105.39.5,443,true,CDG,Europe,Paris
+46.226.161.71,443,true,FRA,Europe,Frankfurt
+46.226.164.47,443,true,FRA,Europe,Frankfurt
+46.226.164.10,443,true,FRA,Europe,Frankfurt
+46.29.237.47,443,true,AMS,Europe,Amsterdam
+46.105.88.78,443,true,AMS,Europe,Amsterdam
+46.32.184.187,443,true,WAW,Europe,Warsaw
+46.226.161.154,443,true,FRA,Europe,Frankfurt
+46.226.161.12,443,true,FRA,Europe,Frankfurt
+46.30.47.243,443,true,AMS,Europe,Amsterdam
+46.17.107.183,443,true,EWR,North America,Newark
+46.226.161.202,443,true,FRA,Europe,Frankfurt
+46.32.184.64,443,true,WAW,Europe,Warsaw
+46.226.161.37,443,true,FRA,Europe,Frankfurt
+46.29.237.58,443,true,AMS,Europe,Amsterdam
+46.38.253.181,443,true,FRA,Europe,Frankfurt
+46.32.187.51,443,true,VNO,Europe,Vilnius
+46.101.243.68,443,true,FRA,Europe,Frankfurt
+46.17.107.58,8443,true,EWR,North America,Newark
+46.8.71.93,443,true,ARN,Europe,Stockholm
+46.8.231.125,443,true,AMS,Europe,Amsterdam
+46.101.110.196,443,true,FRA,Europe,Frankfurt
+46.19.208.71,443,true,EWR,North America,Newark
+46.32.187.15,443,true,VNO,Europe,Vilnius
+47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong
+47.88.15.127,443,true,SJC,North America,San Jose
+47.57.245.232,443,true,SJC,North America,San Jose
+47.57.13.107,443,true,HKG,Asia Pacific,Hong Kong
+47.57.14.118,443,true,SJC,North America,San Jose
+47.254.65.110,443,true,SJC,North America,San Jose
+47.90.141.204,443,true,LAX,North America,Los Angeles
+47.253.105.131,443,true,IAD,North America,Ashburn
+47.76.76.179,443,true,HKG,Asia Pacific,Hong Kong
+48.217.34.120,443,true,IAD,North America,Ashburn
+49.13.234.155,443,true,CDG,Europe,Paris
+49.13.11.15,443,true,FRA,Europe,Frankfurt
+49.13.72.125,443,true,FRA,Europe,Frankfurt
+49.13.230.13,443,true,CDG,Europe,Paris
+49.12.237.44,443,true,CDG,Europe,Paris
+49.13.124.138,443,true,FRA,Europe,Frankfurt
+49.12.210.182,443,true,FRA,Europe,Frankfurt
+49.12.110.72,443,true,FRA,Europe,Frankfurt
+49.13.88.123,443,true,FRA,Europe,Frankfurt
+49.51.197.141,443,true,SJC,North America,San Jose
+49.13.64.206,443,true,FRA,Europe,Frankfurt
+49.12.2.21,443,true,FRA,Europe,Frankfurt
+49.12.230.233,443,true,CDG,Europe,Paris
+49.13.92.32,443,true,FRA,Europe,Frankfurt
+49.12.209.57,443,true,FRA,Europe,Frankfurt
+49.12.227.6,443,true,CDG,Europe,Paris
+50.228.203.26,443,true,MIA,North America,Miami
+50.112.33.254,443,true,PDX,North America,Portland
+50.19.193.95,443,true,IAD,North America,Ashburn
+51.158.205.169,443,true,AMS,Europe,Amsterdam
+51.116.121.75,443,true,FRA,Europe,Frankfurt
+51.210.150.130,443,true,CDG,Europe,Paris
+51.89.23.237,443,true,FRA,Europe,Frankfurt
+51.38.44.17,443,true,CDG,Europe,Paris
+51.38.98.202,443,true,FRA,Europe,Frankfurt
+51.210.179.47,443,true,CDG,Europe,Paris
+51.21.48.77,443,true,ARN,Europe,Stockholm
+51.20.99.157,443,true,CPH,Europe,Copenhagen
+51.255.107.43,443,true,CDG,Europe,Paris
+51.75.30.94,443,true,CDG,Europe,Paris
+51.81.209.10,443,true,PDX,North America,Portland
+51.12.217.144,443,true,ARN,Europe,Stockholm
+51.75.70.34,443,true,FRA,Europe,Frankfurt
+51.83.193.204,443,true,WAW,Europe,Warsaw
+51.195.91.96,443,true,FRA,Europe,Frankfurt
+51.83.172.96,443,true,WAW,Europe,Warsaw
+51.178.231.65,443,true,CDG,Europe,Paris
+51.195.119.2,443,true,FRA,Europe,Frankfurt
+51.68.162.33,443,true,FRA,Europe,Frankfurt
+51.79.158.126,443,true,SIN,Asia Pacific,Singapore
+51.158.127.207,443,true,CDG,Europe,Paris
+51.210.96.90,443,true,CDG,Europe,Paris
+51.91.40.26,443,true,FRA,Europe,Frankfurt
+51.75.149.52,443,true,FRA,Europe,Frankfurt
+51.79.254.182,443,true,SIN,Asia Pacific,Singapore
+51.254.6.14,443,true,CDG,Europe,Paris
+51.254.6.14,443,true,AMS,Europe,Amsterdam
+52.29.224.33,443,true,FRA,Europe,Frankfurt
+52.10.78.7,80,true,SEA,North America,Seattle
+52.89.138.13,443,true,SEA,North America,Seattle
+52.141.25.42,443,true,ICN,Asia Pacific,Seoul
+52.32.90.142,80,true,PDX,North America,Portland
+52.64.139.84,443,true,SYD,Oceania,Sydney
+52.137.60.154,443,true,AMS,Europe,Amsterdam
+52.10.78.7,80,true,PDX,North America,Portland
+52.10.78.7,443,true,PDX,North America,Portland
+52.89.138.13,443,true,PDX,North America,Portland
+52.20.152.104,443,true,IAD,North America,Ashburn
+52.29.68.81,443,true,FRA,Europe,Frankfurt
+52.18.155.172,443,true,DUB,Europe,Dublin
+52.12.162.159,443,true,PDX,North America,Portland
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore
+52.4.8.214,443,true,IAD,North America,Ashburn
+52.12.162.159,443,true,SEA,North America,Seattle
+54.204.39.251,443,true,IAD,North America,Ashburn
+54.37.235.201,443,true,KBP,Europe,Kyiv
+54.74.167.219,443,true,DUB,Europe,Dublin
+54.79.133.41,443,true,SYD,Oceania,Sydney
+54.79.127.144,443,true,SYD,Oceania,Sydney
+54.234.62.15,443,true,IAD,North America,Ashburn
+54.153.174.109,443,true,SYD,Oceania,Sydney
+54.203.85.46,443,true,SEA,North America,Seattle
+54.151.9.4,80,true,SJC,North America,San Jose
+54.38.159.25,443,true,FRA,Europe,Frankfurt
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore
+54.193.104.34,80,true,SJC,North America,San Jose
+54.177.196.101,80,true,SJC,North America,San Jose
+54.203.85.46,80,true,PDX,North America,Portland
+54.249.135.43,443,true,NRT,Asia Pacific,Tokyo
+54.203.85.46,80,true,SEA,North America,Seattle
+54.167.43.59,443,true,IAD,North America,Ashburn
+54.176.205.20,80,true,SJC,North America,San Jose
+54.200.244.93,443,true,SEA,North America,Seattle
+54.153.59.106,80,true,SJC,North America,San Jose
+54.71.238.195,443,true,SEA,North America,Seattle
+54.203.85.46,443,true,PDX,North America,Portland
+54.208.96.155,443,true,IAD,North America,Ashburn
+54.37.235.201,443,true,WAW,Europe,Warsaw
+54.95.94.250,443,true,NRT,Asia Pacific,Tokyo
+54.248.121.219,443,true,NRT,Asia Pacific,Tokyo
+54.71.238.195,443,true,PDX,North America,Portland
+54.200.244.93,443,true,PDX,North America,Portland
+57.129.6.105,443,true,FRA,Europe,Frankfurt
+57.128.197.158,443,true,KBP,Europe,Kyiv
+57.128.197.158,443,true,WAW,Europe,Warsaw
+57.129.4.136,443,true,FRA,Europe,Frankfurt
+57.129.40.135,443,true,FRA,Europe,Frankfurt
+57.129.47.203,443,true,FRA,Europe,Frankfurt
+58.176.95.46,443,true,HKG,Asia Pacific,Hong Kong
+58.96.86.5,443,true,MEL,Oceania,Melbourne
+58.72.101.196,10822,true,ICN,Asia Pacific,Seoul
+58.232.221.46,443,true,NRT,Asia Pacific,Tokyo
+59.28.252.229,10886,true,ICN,Asia Pacific,Seoul
+60.246.228.109,443,true,HKG,Asia Pacific,Hong Kong
+62.192.175.45,443,true,HKG,Asia Pacific,Hong Kong
+62.3.12.76,443,true,OTP,Europe,Bucharest
+62.84.98.178,443,true,AMS,Europe,Amsterdam
+62.76.239.58,443,true,RIX,Europe,Riga
+62.3.12.185,443,true,SOF,Europe,Sofia
+62.106.66.229,80,true,AMS,Europe,Amsterdam
+62.3.12.185,443,true,OTP,Europe,Bucharest
+62.75.201.74,443,true,FRA,Europe,Frankfurt
+62.3.12.76,443,true,SOF,Europe,Sofia
+62.146.172.119,443,true,SEA,North America,Seattle
+63.205.203.251,443,true,SJC,North America,San Jose
+63.142.251.8,443,true,DFW,North America,Dallas
+64.69.24.7,443,true,SJC,North America,San Jose
+64.69.24.52,443,true,SJC,North America,San Jose
+64.69.24.33,443,true,SJC,North America,San Jose
+64.64.224.35,443,true,LAX,North America,Los Angeles
+64.69.24.34,443,true,SJC,North America,San Jose
+64.69.24.31,443,true,SJC,North America,San Jose
+64.69.24.13,443,true,SJC,North America,San Jose
+64.21.191.164,443,true,YVR,North America,Vancouver
+64.69.24.43,443,true,SJC,North America,San Jose
+64.69.24.6,443,true,SJC,North America,San Jose
+64.226.85.68,443,true,FRA,Europe,Frankfurt
+64.69.24.3,443,true,SJC,North America,San Jose
+64.227.75.160,443,true,AMS,Europe,Amsterdam
+64.226.114.20,443,true,FRA,Europe,Frankfurt
+64.226.94.33,443,true,FRA,Europe,Frankfurt
+64.226.86.195,443,true,FRA,Europe,Frankfurt
+64.69.24.32,443,true,SJC,North America,San Jose
+64.69.24.18,443,true,SJC,North America,San Jose
+64.64.248.18,443,true,LAX,North America,Los Angeles
+64.227.114.71,443,true,FRA,Europe,Frankfurt
+64.64.242.122,443,true,LAX,North America,Los Angeles
+64.69.24.48,443,true,SJC,North America,San Jose
+64.69.24.14,443,true,SJC,North America,San Jose
+64.176.210.187,443,true,EWR,North America,Newark
+64.64.238.31,443,true,LAX,North America,Los Angeles
+64.225.68.226,443,true,AMS,Europe,Amsterdam
+64.44.168.66,443,true,MIA,North America,Miami
+64.225.76.104,443,true,AMS,Europe,Amsterdam
+64.181.240.173,443,true,SJC,North America,San Jose
+64.176.42.6,443,true,KIX,Asia Pacific,Osaka
+64.69.24.15,443,true,SJC,North America,San Jose
+64.21.191.164,443,true,SEA,North America,Seattle
+64.44.168.66,443,true,ATL,North America,Atlanta
+64.69.24.30,443,true,SJC,North America,San Jose
+64.69.24.16,443,true,SJC,North America,San Jose
+64.64.238.31,443,true,SJC,North America,San Jose
+64.69.24.17,443,true,SJC,North America,San Jose
+65.20.82.22,443,true,BOM,Asia Pacific,Mumbai
+65.109.232.60,443,true,HEL,Europe,Helsinki
+65.39.205.34,443,true,EWR,North America,Newark
+65.39.205.37,443,true,EWR,North America,Newark
+65.109.198.226,443,true,YUL,North America,Montréal
+65.39.205.35,443,true,EWR,North America,Newark
+65.39.205.39,443,true,EWR,North America,Newark
+65.39.205.41,443,true,EWR,North America,Newark
+65.108.83.128,443,true,HEL,Europe,Helsinki
+65.109.198.226,443,true,ATL,North America,Atlanta
+65.108.95.178,443,true,AMS,Europe,Amsterdam
+65.109.171.240,443,true,HEL,Europe,Helsinki
+65.109.167.39,443,true,HEL,Europe,Helsinki
+65.109.182.235,443,true,HEL,Europe,Helsinki
+65.108.159.173,443,true,HEL,Europe,Helsinki
+65.108.221.173,443,true,AMS,Europe,Amsterdam
+65.21.173.199,443,true,HEL,Europe,Helsinki
+65.109.186.57,443,true,HEL,Europe,Helsinki
+65.39.205.36,443,true,EWR,North America,Newark
+65.109.220.185,443,true,HEL,Europe,Helsinki
+65.109.7.14,443,true,HEL,Europe,Helsinki
+65.109.217.245,443,true,HEL,Europe,Helsinki
+65.109.199.131,443,true,HEL,Europe,Helsinki
+65.39.205.30,443,true,EWR,North America,Newark
+65.39.205.32,443,true,EWR,North America,Newark
+65.109.198.226,443,true,SJC,North America,San Jose
+65.108.255.172,443,true,AMS,Europe,Amsterdam
+65.109.198.226,443,true,DFW,North America,Dallas
+65.109.198.226,443,true,SEA,North America,Seattle
+65.39.205.31,443,true,EWR,North America,Newark
+65.109.186.203,443,true,HEL,Europe,Helsinki
+65.108.245.196,443,true,HEL,Europe,Helsinki
+65.109.173.136,443,true,HEL,Europe,Helsinki
+65.39.205.40,443,true,EWR,North America,Newark
+65.21.62.180,443,true,HEL,Europe,Helsinki
+65.39.205.38,443,true,EWR,North America,Newark
+65.39.205.33,443,true,EWR,North America,Newark
+65.21.63.226,443,true,LHR,Europe,London
+65.108.217.232,443,true,HEL,Europe,Helsinki
+65.109.171.242,443,true,HEL,Europe,Helsinki
+65.49.192.91,443,true,LAX,North America,Los Angeles
+65.108.254.30,443,true,AMS,Europe,Amsterdam
+65.108.209.46,443,true,HEL,Europe,Helsinki
+65.108.55.130,443,true,HEL,Europe,Helsinki
+65.109.198.226,443,true,LAX,North America,Los Angeles
+65.109.198.226,443,true,PRG,Europe,Prague
+65.183.169.133,443,true,ORD,North America,Chicago
+66.85.139.204,443,true,LAX,North America,Los Angeles
+66.151.34.156,443,true,HEL,Europe,Helsinki
+66.151.42.224,443,true,AMS,Europe,Amsterdam
+66.135.8.216,443,true,EWR,North America,Newark
+66.151.35.94,443,true,HEL,Europe,Helsinki
+66.151.33.252,443,true,AMS,Europe,Amsterdam
+66.112.212.95,443,true,LAX,North America,Los Angeles
+66.112.209.226,443,true,LAX,North America,Los Angeles
+66.103.210.62,443,true,LAX,North America,Los Angeles
+66.112.214.233,443,true,LAX,North America,Los Angeles
+66.135.7.206,443,true,EWR,North America,Newark
+66.154.116.165,443,true,LAX,North America,Los Angeles
+66.151.42.104,443,true,AMS,Europe,Amsterdam
+66.151.41.250,443,true,FRA,Europe,Frankfurt
+67.226.222.2,80,true,IAD,North America,Ashburn
+67.226.222.2,443,true,CMH,North America,Columbus
+67.226.220.154,80,true,IAD,North America,Ashburn
+67.226.220.10,80,true,IAD,North America,Ashburn
+67.226.223.126,80,true,LHR,Europe,London
+67.211.211.7,443,true,EWR,North America,Newark
+67.226.221.104,80,true,SJC,North America,San Jose
+67.207.73.198,443,true,FRA,Europe,Frankfurt
+67.226.222.2,443,true,IAD,North America,Ashburn
+67.226.220.41,80,true,IAD,North America,Ashburn
+67.226.220.10,443,true,IAD,North America,Ashburn
+67.226.223.174,80,true,LHR,Europe,London
+67.60.203.150,443,true,DFW,North America,Dallas
+67.226.223.205,80,true,LHR,Europe,London
+68.183.71.238,443,true,FRA,Europe,Frankfurt
+69.30.210.130,443,true,MCI,North America,Kansas City
+69.28.82.253,443,true,YYZ,North America,Toronto
+69.28.83.244,443,true,YYZ,North America,Toronto
+70.34.218.89,443,true,AMS,Europe,Amsterdam
+70.34.218.89,443,true,LHR,Europe,London
+70.34.218.89,443,true,TLL,Europe,Tallinn
+70.34.210.136,443,true,HEL,Europe,Helsinki
+70.34.210.136,443,true,AMS,Europe,Amsterdam
+70.34.210.136,443,true,FRA,Europe,Frankfurt
+72.18.80.235,443,true,LAX,North America,Los Angeles
+72.13.122.137,443,true,LAX,North America,Los Angeles
+72.19.12.170,443,true,LAX,North America,Los Angeles
+72.18.80.159,443,true,LAX,North America,Los Angeles
+72.18.81.240,443,true,SJC,North America,San Jose
+72.167.141.107,443,true,LAX,North America,Los Angeles
+72.18.81.240,443,true,LAX,North America,Los Angeles
+74.48.150.174,443,true,LAX,North America,Los Angeles
+74.48.83.62,443,true,LAX,North America,Los Angeles
+74.121.149.15,443,true,EWR,North America,Newark
+74.208.184.133,443,true,MCI,North America,Kansas City
+74.48.57.50,443,true,LAX,North America,Los Angeles
+74.48.85.50,443,true,LAX,North America,Los Angeles
+74.121.151.220,443,true,EWR,North America,Newark
+74.48.111.152,443,true,LAX,North America,Los Angeles
+74.119.192.162,443,true,FRA,Europe,Frankfurt
+74.120.172.114,443,true,LAX,North America,Los Angeles
+74.48.74.18,443,true,LAX,North America,Los Angeles
+74.48.17.250,443,true,LAX,North America,Los Angeles
+74.48.58.171,443,true,LAX,North America,Los Angeles
+74.119.195.141,443,true,AMS,Europe,Amsterdam
+74.119.195.42,443,true,AMS,Europe,Amsterdam
+74.48.141.248,443,true,LAX,North America,Los Angeles
+74.48.46.35,443,true,LAX,North America,Los Angeles
+74.120.170.56,443,true,LAX,North America,Los Angeles
+74.211.108.124,443,true,LAX,North America,Los Angeles
+74.48.89.211,443,true,LAX,North America,Los Angeles
+74.48.141.167,443,true,LAX,North America,Los Angeles
+74.48.96.113,443,true,LAX,North America,Los Angeles
+74.119.195.30,443,true,AMS,Europe,Amsterdam
+74.120.168.20,443,true,LAX,North America,Los Angeles
+74.48.140.177,443,true,LAX,North America,Los Angeles
+74.119.192.213,443,true,FRA,Europe,Frankfurt
+77.83.175.59,443,true,AMS,Europe,Amsterdam
+77.238.226.46,443,true,AMS,Europe,Amsterdam
+77.221.140.64,443,true,FRA,Europe,Frankfurt
+77.232.142.61,443,true,FRA,Europe,Frankfurt
+77.238.243.49,443,true,AMS,Europe,Amsterdam
+77.246.108.130,443,true,AMS,Europe,Amsterdam
+77.221.139.157,443,true,FRA,Europe,Frankfurt
+77.223.96.232,443,true,CDG,Europe,Paris
+77.232.142.128,443,true,FRA,Europe,Frankfurt
+77.221.144.60,443,true,HEL,Europe,Helsinki
+77.232.143.3,443,true,FRA,Europe,Frankfurt
+77.221.158.1,443,true,FRA,Europe,Frankfurt
+77.240.38.114,443,true,VIE,Europe,Vienna
+77.238.228.3,443,true,AMS,Europe,Amsterdam
+77.221.136.95,443,true,FRA,Europe,Frankfurt
+77.105.147.253,443,true,FRA,Europe,Frankfurt
+77.238.253.245,443,true,AMS,Europe,Amsterdam
+77.91.77.164,443,true,FRA,Europe,Frankfurt
+77.221.141.168,443,true,FRA,Europe,Frankfurt
+77.221.154.45,443,true,FRA,Europe,Frankfurt
+77.221.144.221,443,true,HEL,Europe,Helsinki
+77.221.137.144,443,true,FRA,Europe,Frankfurt
+77.73.131.223,443,true,FRA,Europe,Frankfurt
+77.221.157.17,443,true,FRA,Europe,Frankfurt
+77.223.96.158,443,true,WAW,Europe,Warsaw
+77.246.109.236,443,true,AMS,Europe,Amsterdam
+77.221.155.136,443,true,FRA,Europe,Frankfurt
+77.238.231.102,443,true,AMS,Europe,Amsterdam
+77.105.167.136,443,true,FRA,Europe,Frankfurt
+77.238.233.68,443,true,AMS,Europe,Amsterdam
+77.238.246.45,443,true,AMS,Europe,Amsterdam
+77.221.144.221,443,true,WAW,Europe,Warsaw
+77.221.137.210,443,true,FRA,Europe,Frankfurt
+77.91.103.171,443,true,TXL,Europe,Berlin
+77.221.153.168,443,true,FRA,Europe,Frankfurt
+77.238.242.88,443,true,AMS,Europe,Amsterdam
+77.238.226.230,443,true,AMS,Europe,Amsterdam
+77.238.252.88,443,true,AMS,Europe,Amsterdam
+77.232.142.88,443,true,FRA,Europe,Frankfurt
+77.238.243.75,443,true,AMS,Europe,Amsterdam
+77.221.136.148,443,true,FRA,Europe,Frankfurt
+77.221.141.207,443,true,FRA,Europe,Frankfurt
+77.221.155.39,443,true,FRA,Europe,Frankfurt
+77.221.157.177,443,true,FRA,Europe,Frankfurt
+77.238.241.180,443,true,AMS,Europe,Amsterdam
+77.238.254.82,443,true,AMS,Europe,Amsterdam
+77.221.144.210,443,true,ARN,Europe,Stockholm
+77.223.96.232,443,true,SIN,Asia Pacific,Singapore
+77.238.254.132,443,true,AMS,Europe,Amsterdam
+77.221.137.189,443,true,FRA,Europe,Frankfurt
+77.223.96.232,443,true,DME,Europe,Moscow
+77.91.84.223,443,true,FRA,Europe,Frankfurt
+77.221.133.79,443,true,AMS,Europe,Amsterdam
+77.221.155.123,443,true,FRA,Europe,Frankfurt
+77.91.84.176,443,true,FRA,Europe,Frankfurt
+77.75.95.14,443,true,BEY,Middle East,Beirut
+77.91.103.171,443,true,HEL,Europe,Helsinki
+77.91.84.225,443,true,FRA,Europe,Frankfurt
+77.221.137.133,443,true,FRA,Europe,Frankfurt
+77.238.248.80,443,true,AMS,Europe,Amsterdam
+77.223.96.158,443,true,AMS,Europe,Amsterdam
+77.83.246.25,443,true,FRA,Europe,Frankfurt
+77.105.166.124,443,true,FRA,Europe,Frankfurt
+77.239.229.180,443,true,DME,Europe,Moscow
+77.83.198.42,443,true,ARN,Europe,Stockholm
+77.223.96.158,443,true,DME,Europe,Moscow
+77.221.157.32,443,true,FRA,Europe,Frankfurt
+77.240.38.114,443,true,CDG,Europe,Paris
+77.73.131.188,443,true,FRA,Europe,Frankfurt
+77.232.142.45,443,true,FRA,Europe,Frankfurt
+77.221.141.222,443,true,FRA,Europe,Frankfurt
+77.73.131.16,443,true,FRA,Europe,Frankfurt
+77.238.247.195,443,true,AMS,Europe,Amsterdam
+77.240.38.114,443,true,DME,Europe,Moscow
+77.238.231.179,443,true,AMS,Europe,Amsterdam
+77.221.159.149,443,true,FRA,Europe,Frankfurt
+77.221.144.60,443,true,WAW,Europe,Warsaw
+77.221.133.147,443,true,AMS,Europe,Amsterdam
+77.91.69.146,443,true,TLV,Middle East,Tel Aviv
+77.221.140.20,443,true,FRA,Europe,Frankfurt
+77.238.231.241,443,true,AMS,Europe,Amsterdam
+77.221.139.185,443,true,FRA,Europe,Frankfurt
+77.238.242.147,443,true,AMS,Europe,Amsterdam
+77.238.234.75,443,true,AMS,Europe,Amsterdam
+77.223.96.158,443,true,SIN,Asia Pacific,Singapore
+77.223.96.158,443,true,CDG,Europe,Paris
+77.238.247.131,443,true,AMS,Europe,Amsterdam
+77.221.142.59,443,true,FRA,Europe,Frankfurt
+77.240.38.114,443,true,SIN,Asia Pacific,Singapore
+77.223.96.232,443,true,WAW,Europe,Warsaw
+77.223.96.232,443,true,AMS,Europe,Amsterdam
+77.238.230.174,443,true,AMS,Europe,Amsterdam
+77.238.242.168,443,true,AMS,Europe,Amsterdam
+77.238.254.244,443,true,AMS,Europe,Amsterdam
+77.221.141.119,443,true,FRA,Europe,Frankfurt
+77.221.143.126,443,true,FRA,Europe,Frankfurt
+77.105.166.9,443,true,FRA,Europe,Frankfurt
+77.238.236.246,443,true,AMS,Europe,Amsterdam
+77.223.215.167,443,true,FRA,Europe,Frankfurt
+77.221.136.195,443,true,FRA,Europe,Frankfurt
+77.238.248.43,443,true,AMS,Europe,Amsterdam
+77.238.247.93,443,true,AMS,Europe,Amsterdam
+77.238.251.251,443,true,AMS,Europe,Amsterdam
+77.91.74.6,443,true,TLV,Middle East,Tel Aviv
+77.221.138.160,443,true,FRA,Europe,Frankfurt
+77.221.141.213,443,true,FRA,Europe,Frankfurt
+77.73.71.103,443,true,ARN,Europe,Stockholm
+77.238.238.185,443,true,AMS,Europe,Amsterdam
+77.232.142.130,443,true,FRA,Europe,Frankfurt
+77.83.198.42,443,true,TLL,Europe,Tallinn
+77.238.226.178,443,true,AMS,Europe,Amsterdam
+77.91.85.4,443,true,FRA,Europe,Frankfurt
+77.238.235.69,443,true,AMS,Europe,Amsterdam
+77.220.214.135,443,true,AMS,Europe,Amsterdam
+77.238.236.106,443,true,AMS,Europe,Amsterdam
+77.91.86.168,443,true,FRA,Europe,Frankfurt
+77.238.241.143,443,true,AMS,Europe,Amsterdam
+77.91.72.82,443,true,BUD,Europe,Budapest
+77.238.241.168,443,true,AMS,Europe,Amsterdam
+77.238.240.200,443,true,AMS,Europe,Amsterdam
+77.238.231.99,443,true,AMS,Europe,Amsterdam
+77.238.245.204,443,true,AMS,Europe,Amsterdam
+77.238.251.60,443,true,AMS,Europe,Amsterdam
+77.91.77.167,443,true,FRA,Europe,Frankfurt
+77.238.244.214,443,true,AMS,Europe,Amsterdam
+77.223.215.103,443,true,FRA,Europe,Frankfurt
+77.221.140.128,443,true,FRA,Europe,Frankfurt
+77.238.248.115,443,true,AMS,Europe,Amsterdam
+77.73.71.196,443,true,VNO,Europe,Vilnius
+77.91.70.215,80,true,FRA,Europe,Frankfurt
+77.238.226.112,443,true,AMS,Europe,Amsterdam
+78.141.210.142,443,true,AMS,Europe,Amsterdam
+78.47.146.151,443,true,CDG,Europe,Paris
+78.47.75.170,443,true,FRA,Europe,Frankfurt
+78.141.219.233,443,true,AMS,Europe,Amsterdam
+78.46.233.187,443,true,CDG,Europe,Paris
+78.129.253.152,443,true,FRA,Europe,Frankfurt
+78.141.219.233,443,true,FRA,Europe,Frankfurt
+78.142.230.76,443,true,AMS,Europe,Amsterdam
+78.128.127.89,443,true,OTP,Europe,Bucharest
+78.47.222.118,443,true,FRA,Europe,Frankfurt
+78.142.231.224,443,true,AMS,Europe,Amsterdam
+79.127.68.195,80,true,CDG,Europe,Paris
+79.137.205.248,443,true,FRA,Europe,Frankfurt
+79.133.46.180,443,true,FRA,Europe,Frankfurt
+79.137.205.241,443,true,FRA,Europe,Frankfurt
+79.132.139.52,443,true,AMS,Europe,Amsterdam
+79.137.205.11,443,true,FRA,Europe,Frankfurt
+79.132.140.231,443,true,FRA,Europe,Frankfurt
+79.132.142.213,443,true,FRA,Europe,Frankfurt
+79.132.140.138,443,true,FRA,Europe,Frankfurt
+79.133.46.166,443,true,FRA,Europe,Frankfurt
+79.137.207.43,443,true,FRA,Europe,Frankfurt
+79.132.143.54,443,true,FRA,Europe,Frankfurt
+79.137.196.6,443,true,FRA,Europe,Frankfurt
+79.137.194.186,443,true,FRA,Europe,Frankfurt
+79.137.205.238,443,true,FRA,Europe,Frankfurt
+79.137.196.239,443,true,FRA,Europe,Frankfurt
+79.137.195.1,443,true,FRA,Europe,Frankfurt
+79.132.143.242,443,true,FRA,Europe,Frankfurt
+79.133.57.41,443,true,FRA,Europe,Frankfurt
+79.132.136.51,443,true,FRA,Europe,Frankfurt
+79.132.139.52,80,true,AMS,Europe,Amsterdam
+79.132.140.30,443,true,FRA,Europe,Frankfurt
+79.137.197.191,443,true,FRA,Europe,Frankfurt
+79.137.205.127,443,true,FRA,Europe,Frankfurt
+79.132.143.121,443,true,FRA,Europe,Frankfurt
+79.137.198.214,443,true,FRA,Europe,Frankfurt
+79.132.138.170,443,true,FRA,Europe,Frankfurt
+79.133.183.150,443,true,DME,Europe,Moscow
+79.137.197.181,443,true,FRA,Europe,Frankfurt
+79.137.194.255,443,true,FRA,Europe,Frankfurt
+79.137.194.243,443,true,FRA,Europe,Frankfurt
+79.141.165.165,443,true,AMS,Europe,Amsterdam
+79.175.133.131,443,true,FRA,Europe,Frankfurt
+79.174.86.24,443,true,DME,Europe,Moscow
+79.137.194.103,443,true,FRA,Europe,Frankfurt
+79.137.206.64,443,true,FRA,Europe,Frankfurt
+79.137.248.111,443,true,FRA,Europe,Frankfurt
+79.137.199.166,443,true,FRA,Europe,Frankfurt
+80.66.84.113,443,true,FRA,Europe,Frankfurt
+80.79.125.121,443,true,TLL,Europe,Tallinn
+80.211.231.169,443,true,MXP,Europe,Milan
+80.209.237.188,443,true,RIX,Europe,Riga
+80.85.241.99,443,true,FRA,Europe,Frankfurt
+80.211.244.167,80,true,FRA,Europe,Frankfurt
+80.209.243.159,443,true,EWR,North America,Newark
+80.92.206.99,443,true,AMS,Europe,Amsterdam
+80.66.87.42,443,true,FRA,Europe,Frankfurt
+80.158.63.104,443,true,TXL,Europe,Berlin
+80.211.131.21,443,true,MXP,Europe,Milan
+80.240.16.108,443,true,FRA,Europe,Frankfurt
+80.240.29.82,443,true,FRA,Europe,Frankfurt
+80.158.63.104,443,true,DUS,Europe,Düsseldorf
+80.96.156.113,443,true,NRT,Asia Pacific,Tokyo
+80.240.23.28,443,true,FRA,Europe,Frankfurt
+80.76.32.12,443,true,FRA,Europe,Frankfurt
+80.211.55.235,443,true,FCO,Europe,Rome
+80.211.194.198,443,true,PRG,Europe,Prague
+80.76.33.44,443,true,FRA,Europe,Frankfurt
+80.76.32.97,443,true,FRA,Europe,Frankfurt
+80.209.243.147,443,true,EWR,North America,Newark
+80.76.43.72,443,true,AMS,Europe,Amsterdam
+80.76.32.54,443,true,FRA,Europe,Frankfurt
+80.209.230.16,443,true,VNO,Europe,Vilnius
+80.211.194.250,443,true,PRG,Europe,Prague
+80.76.34.13,443,true,AMS,Europe,Amsterdam
+80.76.33.106,443,true,FRA,Europe,Frankfurt
+80.76.32.165,443,true,FRA,Europe,Frankfurt
+80.211.22.60,443,true,MXP,Europe,Milan
+80.92.206.107,443,true,AMS,Europe,Amsterdam
+80.92.206.157,443,true,AMS,Europe,Amsterdam
+80.79.121.46,443,true,TLL,Europe,Tallinn
+80.249.112.162,443,true,FRA,Europe,Frankfurt
+80.252.216.254,443,true,ARN,Europe,Stockholm
+80.78.26.212,443,true,CPH,Europe,Copenhagen
+80.76.34.190,443,true,AMS,Europe,Amsterdam
+81.31.245.224,443,true,AMS,Europe,Amsterdam
+81.19.139.39,443,true,OSL,Europe,Oslo
+81.22.132.44,443,true,AMS,Europe,Amsterdam
+81.19.137.31,443,true,FRA,Europe,Frankfurt
+81.31.245.10,443,true,AMS,Europe,Amsterdam
+81.22.132.254,443,true,AMS,Europe,Amsterdam
+81.22.132.183,443,true,AMS,Europe,Amsterdam
+81.19.137.154,443,true,FRA,Europe,Frankfurt
+81.95.4.189,443,true,FRA,Europe,Frankfurt
+81.22.132.243,443,true,AMS,Europe,Amsterdam
+81.19.139.39,443,true,SIN,Asia Pacific,Singapore
+81.19.140.166,443,true,YYZ,North America,Toronto
+81.19.139.39,443,true,TLL,Europe,Tallinn
+81.31.245.122,443,true,FRA,Europe,Frankfurt
+81.22.132.136,443,true,AMS,Europe,Amsterdam
+81.22.132.113,443,true,AMS,Europe,Amsterdam
+82.115.6.111,443,true,AMS,Europe,Amsterdam
+82.115.5.199,443,true,AMS,Europe,Amsterdam
+82.115.5.243,443,true,AMS,Europe,Amsterdam
+82.102.10.253,443,true,LHR,Europe,London
+82.148.2.86,443,true,ARN,Europe,Stockholm
+82.148.30.224,443,true,CDG,Europe,Paris
+82.115.5.5,443,true,AMS,Europe,Amsterdam
+82.221.130.69,443,true,KEF,Europe,Reykjavík
+82.115.5.157,443,true,AMS,Europe,Amsterdam
+82.148.30.224,443,true,DME,Europe,Moscow
+82.115.6.231,443,true,AMS,Europe,Amsterdam
+82.115.19.143,443,true,FRA,Europe,Frankfurt
+82.148.30.224,443,true,SJC,North America,San Jose
+82.148.30.224,443,true,SIN,Asia Pacific,Singapore
+82.118.230.220,443,true,OTP,Europe,Bucharest
+82.153.135.98,443,true,SIN,Asia Pacific,Singapore
+82.115.6.93,443,true,AMS,Europe,Amsterdam
+82.117.252.178,443,true,MIA,North America,Miami
+82.115.6.163,443,true,AMS,Europe,Amsterdam
+82.148.30.224,443,true,WAW,Europe,Warsaw
+82.115.6.83,443,true,AMS,Europe,Amsterdam
+83.138.55.156,443,true,VIE,Europe,Vienna
+83.217.211.40,443,true,AMS,Europe,Amsterdam
+83.217.210.31,443,true,TLL,Europe,Tallinn
+83.147.240.130,443,true,SJC,North America,San Jose
+83.147.13.199,443,true,TPE,Asia Pacific,Taipei
+84.32.44.80,443,true,LAX,North America,Los Angeles
+84.47.234.19,443,true,FRA,Europe,Frankfurt
+84.235.169.234,443,true,AMS,Europe,Amsterdam
+85.192.61.212,443,true,FRA,Europe,Frankfurt
+85.239.40.227,443,true,LCA,Europe,Nicosia
+85.209.153.105,443,true,AMS,Europe,Amsterdam
+85.192.63.54,443,true,FRA,Europe,Frankfurt
+85.192.42.229,443,true,FRA,Europe,Frankfurt
+85.192.60.187,443,true,FRA,Europe,Frankfurt
+85.192.60.45,443,true,FRA,Europe,Frankfurt
+85.192.60.129,443,true,FRA,Europe,Frankfurt
+85.192.40.246,80,true,FRA,Europe,Frankfurt
+85.217.171.231,443,true,SOF,Europe,Sofia
+85.198.109.16,443,true,DME,Europe,Moscow
+85.192.56.132,443,true,WAW,Europe,Warsaw
+85.198.109.16,443,true,WAW,Europe,Warsaw
+85.192.40.219,443,true,FRA,Europe,Frankfurt
+85.237.206.205,443,true,TPE,Asia Pacific,Taipei
+85.192.61.48,443,true,FRA,Europe,Frankfurt
+85.192.42.227,443,true,FRA,Europe,Frankfurt
+85.133.204.98,443,true,HEL,Europe,Helsinki
+85.192.56.132,443,true,AMS,Europe,Amsterdam
+85.31.45.127,443,true,AMS,Europe,Amsterdam
+85.209.154.36,443,true,FRA,Europe,Frankfurt
+85.192.61.198,443,true,FRA,Europe,Frankfurt
+85.192.40.6,443,true,FRA,Europe,Frankfurt
+85.235.151.34,443,true,MXP,Europe,Milan
+85.92.120.113,443,true,WAW,Europe,Warsaw
+85.10.253.205,443,true,CDG,Europe,Paris
+85.192.56.132,443,true,OSL,Europe,Oslo
+85.192.56.132,443,true,CDG,Europe,Paris
+85.214.157.170,443,true,AMS,Europe,Amsterdam
+85.133.201.71,443,true,HEL,Europe,Helsinki
+85.92.108.176,443,true,FRA,Europe,Frankfurt
+85.192.41.63,443,true,FRA,Europe,Frankfurt
+85.159.228.11,443,true,RIX,Europe,Riga
+85.192.56.132,443,true,DME,Europe,Moscow
+85.192.60.188,443,true,FRA,Europe,Frankfurt
+85.159.226.83,443,true,FRA,Europe,Frankfurt
+85.159.226.123,443,true,FRA,Europe,Frankfurt
+85.209.154.219,443,true,FRA,Europe,Frankfurt
+85.198.89.12,443,true,WAW,Europe,Warsaw
+85.192.56.132,443,true,ARN,Europe,Stockholm
+86.104.75.183,443,true,VIE,Europe,Vienna
+86.107.197.161,443,true,AMS,Europe,Amsterdam
+86.104.74.193,443,true,CDG,Europe,Paris
+86.107.197.239,443,true,AMS,Europe,Amsterdam
+86.104.75.143,443,true,VIE,Europe,Vienna
+86.107.50.244,443,true,AMS,Europe,Amsterdam
+86.104.75.8,443,true,BUD,Europe,Budapest
+86.104.73.185,443,true,ALA,Asia Pacific,Almaty
+87.251.87.192,443,true,FRA,Europe,Frankfurt
+87.251.87.36,443,true,FRA,Europe,Frankfurt
+87.228.9.243,443,true,FRA,Europe,Frankfurt
+87.128.18.23,443,true,TXL,Europe,Berlin
+87.236.146.27,443,true,PRG,Europe,Prague
+87.251.86.128,443,true,FRA,Europe,Frankfurt
+87.236.146.27,443,true,FRA,Europe,Frankfurt
+87.251.86.178,443,true,FRA,Europe,Frankfurt
+87.236.146.27,443,true,VIE,Europe,Vienna
+87.228.3.217,443,true,DME,Europe,Moscow
+87.251.87.111,443,true,FRA,Europe,Frankfurt
+87.251.87.107,443,true,FRA,Europe,Frankfurt
+87.236.177.137,443,true,AMS,Europe,Amsterdam
+88.218.78.153,443,true,FRA,Europe,Frankfurt
+88.218.76.216,443,true,FRA,Europe,Frankfurt
+88.99.189.60,443,true,CDG,Europe,Paris
+88.218.77.60,443,true,FRA,Europe,Frankfurt
+88.99.86.34,443,true,FRA,Europe,Frankfurt
+88.218.78.212,443,true,FRA,Europe,Frankfurt
+88.99.252.146,443,true,FRA,Europe,Frankfurt
+88.218.79.147,443,true,FRA,Europe,Frankfurt
+88.151.195.18,443,true,KBP,Europe,Kyiv
+88.198.13.253,443,true,FRA,Europe,Frankfurt
+88.210.11.67,443,true,AMS,Europe,Amsterdam
+88.218.79.220,443,true,FRA,Europe,Frankfurt
+88.99.80.152,443,true,FRA,Europe,Frankfurt
+88.218.171.118,443,true,AMS,Europe,Amsterdam
+88.218.78.14,443,true,FRA,Europe,Frankfurt
+88.218.76.154,443,true,FRA,Europe,Frankfurt
+88.218.76.170,443,true,FRA,Europe,Frankfurt
+88.210.11.67,443,true,DME,Europe,Moscow
+88.218.248.195,443,true,AMS,Europe,Amsterdam
+88.218.93.118,443,true,AMS,Europe,Amsterdam
+88.119.171.253,443,true,AMS,Europe,Amsterdam
+88.218.78.34,443,true,FRA,Europe,Frankfurt
+88.218.93.100,443,true,AMS,Europe,Amsterdam
+88.202.190.98,443,true,LHR,Europe,London
+89.110.69.27,443,true,AMS,Europe,Amsterdam
+89.110.118.100,443,true,AMS,Europe,Amsterdam
+89.22.232.43,443,true,FRA,Europe,Frankfurt
+89.110.108.46,443,true,AMS,Europe,Amsterdam
+89.22.225.144,443,true,FRA,Europe,Frankfurt
+89.110.107.215,443,true,AMS,Europe,Amsterdam
+89.36.161.27,443,true,VNO,Europe,Vilnius
+89.110.123.23,443,true,AMS,Europe,Amsterdam
+89.110.118.149,443,true,AMS,Europe,Amsterdam
+89.22.228.112,443,true,FRA,Europe,Frankfurt
+89.110.68.172,443,true,AMS,Europe,Amsterdam
+89.22.232.190,443,true,FRA,Europe,Frankfurt
+89.58.52.160,443,true,FRA,Europe,Frankfurt
+89.22.226.118,443,true,FRA,Europe,Frankfurt
+89.110.108.130,443,true,AMS,Europe,Amsterdam
+89.110.112.54,443,true,AMS,Europe,Amsterdam
+89.110.77.192,443,true,AMS,Europe,Amsterdam
+89.22.224.136,443,true,FRA,Europe,Frankfurt
+89.58.57.45,443,true,FRA,Europe,Frankfurt
+89.110.74.90,443,true,AMS,Europe,Amsterdam
+89.110.110.89,443,true,AMS,Europe,Amsterdam
+89.19.216.153,443,true,FRA,Europe,Frankfurt
+89.110.116.163,443,true,AMS,Europe,Amsterdam
+89.110.72.12,443,true,AMS,Europe,Amsterdam
+89.23.113.189,443,true,DME,Europe,Moscow
+89.22.227.116,443,true,FRA,Europe,Frankfurt
+89.110.105.148,443,true,AMS,Europe,Amsterdam
+89.22.224.125,443,true,FRA,Europe,Frankfurt
+89.27.8.25,443,true,CPH,Europe,Copenhagen
+89.110.68.158,443,true,AMS,Europe,Amsterdam
+89.22.231.143,443,true,FRA,Europe,Frankfurt
+89.110.121.190,443,true,AMS,Europe,Amsterdam
+89.110.78.173,443,true,AMS,Europe,Amsterdam
+89.110.79.248,443,true,AMS,Europe,Amsterdam
+89.110.116.141,443,true,AMS,Europe,Amsterdam
+89.22.232.86,443,true,FRA,Europe,Frankfurt
+89.58.39.163,443,true,FRA,Europe,Frankfurt
+89.110.71.35,443,true,AMS,Europe,Amsterdam
+89.110.65.104,443,true,AMS,Europe,Amsterdam
+89.110.70.188,443,true,AMS,Europe,Amsterdam
+89.35.131.5,443,true,AMS,Europe,Amsterdam
+89.110.104.192,443,true,AMS,Europe,Amsterdam
+89.110.65.85,443,true,AMS,Europe,Amsterdam
+89.110.70.127,443,true,AMS,Europe,Amsterdam
+89.22.232.225,80,true,FRA,Europe,Frankfurt
+89.110.110.157,443,true,AMS,Europe,Amsterdam
+89.110.69.244,443,true,AMS,Europe,Amsterdam
+89.40.15.168,443,true,WAW,Europe,Warsaw
+89.22.227.239,443,true,FRA,Europe,Frankfurt
+89.58.55.33,443,true,FRA,Europe,Frankfurt
+89.110.82.154,443,true,AMS,Europe,Amsterdam
+89.111.136.4,443,true,DME,Europe,Moscow
+89.187.73.234,443,true,AMS,Europe,Amsterdam
+89.110.103.212,443,true,AMS,Europe,Amsterdam
+89.110.67.172,443,true,AMS,Europe,Amsterdam
+89.251.22.140,443,true,WAW,Europe,Warsaw
+89.169.32.191,443,true,FRA,Europe,Frankfurt
+89.117.152.173,443,true,FRA,Europe,Frankfurt
+89.110.80.120,443,true,AMS,Europe,Amsterdam
+89.110.107.122,443,true,AMS,Europe,Amsterdam
+89.110.68.127,443,true,AMS,Europe,Amsterdam
+89.110.65.14,443,true,AMS,Europe,Amsterdam
+89.169.35.112,443,true,FRA,Europe,Frankfurt
+89.248.207.37,443,true,LED,Europe,Saint Petersburg
+89.169.34.172,443,true,FRA,Europe,Frankfurt
+89.169.32.80,443,true,FRA,Europe,Frankfurt
+89.169.32.53,443,true,FRA,Europe,Frankfurt
+89.110.65.44,443,true,AMS,Europe,Amsterdam
+89.58.55.193,443,true,FRA,Europe,Frankfurt
+89.22.238.104,443,true,FRA,Europe,Frankfurt
+89.28.236.243,443,true,CPH,Europe,Copenhagen
+89.110.109.219,443,true,AMS,Europe,Amsterdam
+89.169.15.106,443,true,TLL,Europe,Tallinn
+89.208.142.56,443,true,FRA,Europe,Frankfurt
+89.110.69.173,443,true,AMS,Europe,Amsterdam
+89.208.96.68,443,true,FRA,Europe,Frankfurt
+89.213.166.177,443,true,LHR,Europe,London
+89.110.80.121,443,true,AMS,Europe,Amsterdam
+89.208.104.241,443,true,FRA,Europe,Frankfurt
+89.208.105.126,443,true,FRA,Europe,Frankfurt
+89.208.106.242,443,true,FRA,Europe,Frankfurt
+89.208.96.88,443,true,FRA,Europe,Frankfurt
+89.169.35.188,443,true,FRA,Europe,Frankfurt
+89.31.121.115,443,true,FRA,Europe,Frankfurt
+89.44.194.160,443,true,FRA,Europe,Frankfurt
+89.169.54.115,443,true,FRA,Europe,Frankfurt
+89.110.127.179,443,true,AMS,Europe,Amsterdam
+89.208.103.232,443,true,FRA,Europe,Frankfurt
+89.208.104.109,443,true,FRA,Europe,Frankfurt
+89.169.35.173,443,true,FRA,Europe,Frankfurt
+89.23.107.116,443,true,AMS,Europe,Amsterdam
+89.208.104.216,443,true,FRA,Europe,Frankfurt
+89.208.104.144,443,true,FRA,Europe,Frankfurt
+89.208.97.163,443,true,FRA,Europe,Frankfurt
+89.208.105.25,443,true,FRA,Europe,Frankfurt
+89.110.66.68,443,true,AMS,Europe,Amsterdam
+89.111.136.4,443,true,WAW,Europe,Warsaw
+89.185.82.89,443,true,FRA,Europe,Frankfurt
+89.116.100.169,443,true,LAX,North America,Los Angeles
+89.208.103.100,443,true,FRA,Europe,Frankfurt
+89.117.12.156,443,true,EWR,North America,Newark
+89.208.253.189,443,true,LAX,North America,Los Angeles
+89.169.54.138,443,true,FRA,Europe,Frankfurt
+89.169.55.205,443,true,FRA,Europe,Frankfurt
+89.185.85.10,443,true,FRA,Europe,Frankfurt
+89.23.105.78,443,true,AMS,Europe,Amsterdam
+89.110.100.110,443,true,AMS,Europe,Amsterdam
+89.110.112.106,443,true,AMS,Europe,Amsterdam
+89.42.142.12,443,true,AMS,Europe,Amsterdam
+89.42.142.220,443,true,AMS,Europe,Amsterdam
+89.110.121.211,443,true,AMS,Europe,Amsterdam
+89.169.8.105,443,true,AMS,Europe,Amsterdam
+89.110.119.204,443,true,AMS,Europe,Amsterdam
+89.110.120.29,443,true,AMS,Europe,Amsterdam
+89.110.108.49,443,true,AMS,Europe,Amsterdam
+89.110.108.128,443,true,AMS,Europe,Amsterdam
+89.111.136.4,443,true,SIN,Asia Pacific,Singapore
+89.111.136.4,443,true,CDG,Europe,Paris
+89.169.8.147,443,true,AMS,Europe,Amsterdam
+89.110.122.3,443,true,AMS,Europe,Amsterdam
+89.110.122.23,443,true,AMS,Europe,Amsterdam
+89.110.119.65,443,true,AMS,Europe,Amsterdam
+89.110.84.203,443,true,AMS,Europe,Amsterdam
+89.110.127.203,443,true,AMS,Europe,Amsterdam
+89.110.120.197,443,true,AMS,Europe,Amsterdam
+89.22.232.119,443,true,FRA,Europe,Frankfurt
+89.110.102.19,443,true,AMS,Europe,Amsterdam
+89.110.126.196,443,true,AMS,Europe,Amsterdam
+89.110.78.230,443,true,AMS,Europe,Amsterdam
+89.110.121.20,443,true,AMS,Europe,Amsterdam
+89.58.53.205,443,true,FRA,Europe,Frankfurt
+89.110.66.154,443,true,AMS,Europe,Amsterdam
+89.150.40.4,443,true,ARN,Europe,Stockholm
+89.22.230.149,443,true,FRA,Europe,Frankfurt
+89.110.83.233,443,true,AMS,Europe,Amsterdam
+89.22.232.227,443,true,FRA,Europe,Frankfurt
+89.150.34.225,443,true,AMS,Europe,Amsterdam
+89.22.237.233,443,true,FRA,Europe,Frankfurt
+89.110.121.61,443,true,AMS,Europe,Amsterdam
+89.169.13.214,443,true,FRA,Europe,Frankfurt
+89.169.15.99,443,true,TLL,Europe,Tallinn
+89.110.125.45,443,true,AMS,Europe,Amsterdam
+89.22.227.167,443,true,FRA,Europe,Frankfurt
+89.150.59.208,443,true,AMS,Europe,Amsterdam
+89.22.227.97,443,true,FRA,Europe,Frankfurt
+89.22.234.213,443,true,FRA,Europe,Frankfurt
+89.110.113.74,443,true,AMS,Europe,Amsterdam
+89.23.106.212,443,true,FRA,Europe,Frankfurt
+89.169.13.207,443,true,FRA,Europe,Frankfurt
+89.169.13.12,443,true,FRA,Europe,Frankfurt
+89.169.13.242,443,true,FRA,Europe,Frankfurt
+89.22.227.46,443,true,FRA,Europe,Frankfurt
+89.22.227.14,443,true,FRA,Europe,Frankfurt
+89.110.117.195,443,true,AMS,Europe,Amsterdam
+89.110.109.64,443,true,AMS,Europe,Amsterdam
+89.22.227.34,443,true,FRA,Europe,Frankfurt
+89.22.227.81,443,true,FRA,Europe,Frankfurt
+89.110.124.46,443,true,AMS,Europe,Amsterdam
+89.42.142.79,443,true,AMS,Europe,Amsterdam
+89.22.239.238,443,true,FRA,Europe,Frankfurt
+89.22.235.119,443,true,FRA,Europe,Frankfurt
+91.239.148.34,443,true,HAM,Europe,Hamburg
+91.208.197.25,443,true,KBP,Europe,Kyiv
+91.192.102.92,443,true,ZRH,Europe,Zurich
+91.200.151.172,443,true,AMS,Europe,Amsterdam
+91.228.10.136,443,true,LHR,Europe,London
+91.218.142.211,443,true,WAW,Europe,Warsaw
+91.149.239.198,443,true,LAX,North America,Los Angeles
+91.184.242.46,443,true,FRA,Europe,Frankfurt
+91.218.212.223,443,true,KBP,Europe,Kyiv
+91.90.195.38,443,true,EWR,North America,Newark
+91.184.241.113,443,true,FRA,Europe,Frankfurt
+91.103.252.64,443,true,FRA,Europe,Frankfurt
+91.107.148.111,443,true,CDG,Europe,Paris
+91.184.243.47,443,true,FRA,Europe,Frankfurt
+91.192.102.55,443,true,ZRH,Europe,Zurich
+91.103.253.193,443,true,FRA,Europe,Frankfurt
+91.149.239.70,443,true,LAX,North America,Los Angeles
+91.225.217.162,443,true,OSL,Europe,Oslo
+91.217.76.64,443,true,ARN,Europe,Stockholm
+91.230.213.70,443,true,KWI,Middle East,Kuwait City
+91.200.148.120,443,true,CDG,Europe,Paris
+91.200.148.120,443,true,AMS,Europe,Amsterdam
+91.200.148.120,443,true,WAW,Europe,Warsaw
+91.107.191.214,443,true,FRA,Europe,Frankfurt
+91.184.243.183,443,true,FRA,Europe,Frankfurt
+91.200.151.172,443,true,WAW,Europe,Warsaw
+91.149.242.110,443,true,MAD,Europe,Madrid
+91.184.243.178,443,true,FRA,Europe,Frankfurt
+91.247.36.130,443,true,SOF,Europe,Sofia
+91.225.217.174,443,true,OSL,Europe,Oslo
+91.107.240.52,443,true,CDG,Europe,Paris
+91.103.253.140,443,true,FRA,Europe,Frankfurt
+91.210.166.82,443,true,SOF,Europe,Sofia
+91.200.151.172,443,true,CDG,Europe,Paris
+91.235.234.88,443,true,CPH,Europe,Copenhagen
+91.200.151.172,443,true,FRA,Europe,Frankfurt
+91.149.239.64,443,true,LAX,North America,Los Angeles
+91.107.196.135,443,true,FRA,Europe,Frankfurt
+91.197.3.37,443,true,WAW,Europe,Warsaw
+91.239.148.53,443,true,HAM,Europe,Hamburg
+91.103.252.80,443,true,FRA,Europe,Frankfurt
+91.107.140.85,443,true,FRA,Europe,Frankfurt
+91.200.148.120,443,true,SIN,Asia Pacific,Singapore
+91.184.240.150,443,true,FRA,Europe,Frankfurt
+91.200.148.120,443,true,OSL,Europe,Oslo
+91.239.148.133,443,true,HAM,Europe,Hamburg
+91.245.225.69,443,true,ZRH,Europe,Zurich
+91.200.148.120,443,true,DME,Europe,Moscow
+91.216.104.80,443,true,SOF,Europe,Sofia
+91.149.239.72,443,true,LAX,North America,Los Angeles
+91.200.151.172,443,true,DME,Europe,Moscow
+91.184.242.218,443,true,FRA,Europe,Frankfurt
+91.107.179.47,443,true,FRA,Europe,Frankfurt
+91.149.239.122,443,true,LAX,North America,Los Angeles
+91.149.239.145,443,true,LAX,North America,Los Angeles
+91.201.112.15,443,true,AMS,Europe,Amsterdam
+91.107.185.122,443,true,FRA,Europe,Frankfurt
+91.149.233.40,443,true,FRA,Europe,Frankfurt
+91.103.140.154,443,true,FRA,Europe,Frankfurt
+91.197.3.157,443,true,WAW,Europe,Warsaw
+91.197.3.157,443,true,ARN,Europe,Stockholm
+91.228.10.206,443,true,LHR,Europe,London
+91.222.199.110,443,true,CDG,Europe,Paris
+91.149.239.62,443,true,LAX,North America,Los Angeles
+91.149.223.242,443,true,FRA,Europe,Frankfurt
+91.200.242.117,443,true,NRT,Asia Pacific,Tokyo
+91.185.215.27,443,true,VIE,Europe,Vienna
+91.107.244.10,443,true,CDG,Europe,Paris
+91.107.244.67,443,true,CDG,Europe,Paris
+91.149.203.145,443,true,FRA,Europe,Frankfurt
+91.184.242.230,443,true,FRA,Europe,Frankfurt
+91.103.253.53,443,true,FRA,Europe,Frankfurt
+91.103.253.92,443,true,FRA,Europe,Frankfurt
+91.215.154.202,443,true,SOF,Europe,Sofia
+91.149.238.88,443,true,FRA,Europe,Frankfurt
+91.210.166.105,443,true,SOF,Europe,Sofia
+91.149.202.142,443,true,FRA,Europe,Frankfurt
+91.228.10.222,443,true,LHR,Europe,London
+91.199.147.23,443,true,FRA,Europe,Frankfurt
+91.107.162.168,443,true,FRA,Europe,Frankfurt
+91.149.240.37,443,true,AMS,Europe,Amsterdam
+91.107.242.69,443,true,CDG,Europe,Paris
+91.107.200.60,443,true,FRA,Europe,Frankfurt
+91.197.1.119,443,true,VNO,Europe,Vilnius
+91.103.252.162,443,true,FRA,Europe,Frankfurt
+91.107.241.154,443,true,CDG,Europe,Paris
+91.232.114.118,443,true,AMS,Europe,Amsterdam
+91.228.152.68,443,true,FRA,Europe,Frankfurt
+91.108.244.32,443,true,FRA,Europe,Frankfurt
+91.90.194.87,443,true,AMS,Europe,Amsterdam
+91.228.154.35,443,true,FRA,Europe,Frankfurt
+91.197.0.63,443,true,WAW,Europe,Warsaw
+91.132.196.66,443,true,AMS,Europe,Amsterdam
+91.108.243.121,443,true,FRA,Europe,Frankfurt
+91.107.148.79,443,true,CDG,Europe,Paris
+91.193.18.110,443,true,WAW,Europe,Warsaw
+91.239.148.100,443,true,HAM,Europe,Hamburg
+91.132.196.229,443,true,AMS,Europe,Amsterdam
+91.149.219.18,443,true,HEL,Europe,Helsinki
+91.149.219.49,443,true,ARN,Europe,Stockholm
+91.108.241.155,443,true,FRA,Europe,Frankfurt
+91.199.147.23,443,true,VIE,Europe,Vienna
+91.108.241.188,443,true,FRA,Europe,Frankfurt
+91.184.240.243,443,true,FRA,Europe,Frankfurt
+91.201.113.193,443,true,AMS,Europe,Amsterdam
+91.199.147.23,443,true,PRG,Europe,Prague
+91.227.77.87,443,true,SOF,Europe,Sofia
+91.149.255.62,443,true,HEL,Europe,Helsinki
+91.149.253.249,443,true,WAW,Europe,Warsaw
+91.90.193.24,443,true,GVA,Europe,Geneva
+91.149.253.190,443,true,WAW,Europe,Warsaw
+91.149.239.252,443,true,LAX,North America,Los Angeles
+91.197.3.166,443,true,WAW,Europe,Warsaw
+91.205.12.26,443,true,MUC,Europe,Munich
+91.149.254.138,443,true,WAW,Europe,Warsaw
+91.184.242.63,443,true,FRA,Europe,Frankfurt
+91.149.239.238,443,true,LAX,North America,Los Angeles
+91.223.208.217,443,true,LCA,Europe,Nicosia
+91.227.248.40,443,true,OSL,Europe,Oslo
+91.149.239.234,443,true,LAX,North America,Los Angeles
+91.184.242.155,443,true,FRA,Europe,Frankfurt
+91.184.242.47,443,true,FRA,Europe,Frankfurt
+91.107.149.203,443,true,CDG,Europe,Paris
+91.208.206.103,443,true,KBP,Europe,Kyiv
+91.132.95.212,443,true,FRA,Europe,Frankfurt
+91.149.239.206,443,true,LAX,North America,Los Angeles
+91.194.161.132,443,true,AMS,Europe,Amsterdam
+91.107.155.178,443,true,CDG,Europe,Paris
+91.216.104.80,443,true,OTP,Europe,Bucharest
+92.119.124.125,443,true,FRA,Europe,Frankfurt
+92.118.149.77,443,true,PRG,Europe,Prague
+92.118.149.45,443,true,PRG,Europe,Prague
+92.119.126.141,443,true,FRA,Europe,Frankfurt
+92.38.241.53,443,true,FRA,Europe,Frankfurt
+92.119.90.246,443,true,FRA,Europe,Frankfurt
+92.118.8.22,443,true,FRA,Europe,Frankfurt
+92.60.70.219,443,true,IST,Europe,Istanbul
+92.63.174.141,443,true,AMS,Europe,Amsterdam
+92.119.90.51,443,true,FRA,Europe,Frankfurt
+92.42.96.240,443,true,FRA,Europe,Frankfurt
+92.118.10.56,443,true,EWR,North America,Newark
+92.118.170.246,443,true,RIX,Europe,Riga
+92.55.8.44,443,true,DME,Europe,Moscow
+92.246.137.72,443,true,FRA,Europe,Frankfurt
+92.42.96.233,443,true,FRA,Europe,Frankfurt
+92.246.137.194,443,true,FRA,Europe,Frankfurt
+92.51.47.199,443,true,FRA,Europe,Frankfurt
+92.246.142.132,443,true,FRA,Europe,Frankfurt
+92.51.45.169,443,true,FRA,Europe,Frankfurt
+93.179.114.64,443,true,LAX,North America,Los Angeles
+93.183.91.207,443,true,AMS,Europe,Amsterdam
+93.114.133.159,443,true,LHR,Europe,London
+93.183.88.193,443,true,AMS,Europe,Amsterdam
+93.183.88.35,443,true,AMS,Europe,Amsterdam
+93.127.223.41,443,true,FRA,Europe,Frankfurt
+93.183.68.21,443,true,AMS,Europe,Amsterdam
+93.183.91.227,443,true,AMS,Europe,Amsterdam
+93.183.124.209,443,true,AMS,Europe,Amsterdam
+93.183.124.129,443,true,AMS,Europe,Amsterdam
+93.127.222.164,443,true,FRA,Europe,Frankfurt
+93.113.171.95,443,true,AMS,Europe,Amsterdam
+93.113.171.31,443,true,AMS,Europe,Amsterdam
+93.183.124.199,443,true,AMS,Europe,Amsterdam
+93.185.156.138,443,true,FRA,Europe,Frankfurt
+93.183.90.7,443,true,AMS,Europe,Amsterdam
+93.95.230.139,443,true,KEF,Europe,Reykjavík
+93.183.69.31,443,true,AMS,Europe,Amsterdam
+93.183.127.173,443,true,AMS,Europe,Amsterdam
+93.113.234.218,443,true,OTP,Europe,Bucharest
+93.183.91.17,443,true,AMS,Europe,Amsterdam
+93.113.234.218,443,true,SOF,Europe,Sofia
+94.131.115.224,443,true,CPH,Europe,Copenhagen
+94.131.115.234,443,true,CPH,Europe,Copenhagen
+94.228.164.94,443,true,FRA,Europe,Frankfurt
+94.228.164.227,443,true,FRA,Europe,Frankfurt
+94.131.115.224,443,true,OSL,Europe,Oslo
+94.131.115.230,443,true,ARN,Europe,Stockholm
+94.228.164.249,443,true,FRA,Europe,Frankfurt
+94.228.165.235,443,true,FRA,Europe,Frankfurt
+94.131.115.234,443,true,HEL,Europe,Helsinki
+94.131.115.234,443,true,OSL,Europe,Oslo
+94.228.165.96,443,true,FRA,Europe,Frankfurt
+94.232.244.212,443,true,AMS,Europe,Amsterdam
+94.232.244.91,443,true,AMS,Europe,Amsterdam
+94.237.96.219,443,true,FRA,Europe,Frankfurt
+94.131.11.74,443,true,AMS,Europe,Amsterdam
+94.237.43.28,443,true,AMS,Europe,Amsterdam
+94.131.98.31,443,true,ARN,Europe,Stockholm
+94.131.11.41,443,true,AMS,Europe,Amsterdam
+94.241.174.207,443,true,FRA,Europe,Frankfurt
+94.241.174.229,443,true,FRA,Europe,Frankfurt
+94.131.12.56,443,true,ZRH,Europe,Zurich
+94.131.3.101,443,true,ZRH,Europe,Zurich
+94.131.3.144,443,true,ZRH,Europe,Zurich
+94.177.8.3,443,true,VIE,Europe,Vienna
+94.131.104.64,80,true,RIX,Europe,Riga
+94.228.169.227,443,true,FRA,Europe,Frankfurt
+94.131.3.6,443,true,ZRH,Europe,Zurich
+94.177.8.2,443,true,VIE,Europe,Vienna
+94.232.247.40,443,true,CDG,Europe,Paris
+94.247.42.207,443,true,ZRH,Europe,Zurich
+94.23.163.46,443,true,FRA,Europe,Frankfurt
+94.159.96.75,443,true,AMS,Europe,Amsterdam
+94.159.97.13,443,true,FRA,Europe,Frankfurt
+94.46.195.49,443,true,LHR,Europe,London
+94.130.181.88,443,true,CDG,Europe,Paris
+94.131.118.101,443,true,CDG,Europe,Paris
+94.177.8.21,443,true,VIE,Europe,Vienna
+94.177.8.40,443,true,VIE,Europe,Vienna
+94.241.174.28,443,true,FRA,Europe,Frankfurt
+94.142.255.7,443,true,HAM,Europe,Hamburg
+94.131.15.113,443,true,TLL,Europe,Tallinn
+94.159.96.124,443,true,AMS,Europe,Amsterdam
+94.131.123.44,443,true,OTP,Europe,Bucharest
+94.78.67.171,443,true,LCA,Europe,Nicosia
+94.131.122.72,443,true,LHR,Europe,London
+94.131.104.50,443,true,RIX,Europe,Riga
+94.131.109.254,443,true,FRA,Europe,Frankfurt
+94.131.104.64,443,true,RIX,Europe,Riga
+94.131.123.74,443,true,SOF,Europe,Sofia
+94.131.109.242,443,true,FRA,Europe,Frankfurt
+94.131.110.6,443,true,FRA,Europe,Frankfurt
+94.228.169.179,443,true,FRA,Europe,Frankfurt
+94.131.123.44,443,true,SOF,Europe,Sofia
+94.228.169.84,443,true,FRA,Europe,Frankfurt
+94.131.109.103,443,true,FRA,Europe,Frankfurt
+94.131.123.74,443,true,OTP,Europe,Bucharest
+94.131.109.241,443,true,FRA,Europe,Frankfurt
+94.46.23.22,443,true,LIS,Europe,Lisbon
+94.131.13.164,443,true,VNO,Europe,Vilnius
+94.131.118.9,443,true,CDG,Europe,Paris
+94.131.110.3,443,true,FRA,Europe,Frankfurt
+94.228.169.108,443,true,FRA,Europe,Frankfurt
+94.131.120.222,443,true,FRA,Europe,Frankfurt
+94.141.101.102,443,true,FRA,Europe,Frankfurt
+94.131.111.109,443,true,FRA,Europe,Frankfurt
+94.177.8.5,443,true,VIE,Europe,Vienna
+94.177.8.31,443,true,VIE,Europe,Vienna
+94.177.8.48,443,true,VIE,Europe,Vienna
+94.177.8.43,443,true,VIE,Europe,Vienna
+94.142.137.84,443,true,AMS,Europe,Amsterdam
+94.142.139.93,443,true,ARN,Europe,Stockholm
+94.177.8.19,443,true,VIE,Europe,Vienna
+94.177.8.6,443,true,VIE,Europe,Vienna
+94.177.8.8,443,true,VIE,Europe,Vienna
+94.177.8.34,443,true,VIE,Europe,Vienna
+94.177.8.50,443,true,VIE,Europe,Vienna
+94.130.72.184,443,true,CDG,Europe,Paris
+94.130.104.64,443,true,CDG,Europe,Paris
+94.177.8.26,443,true,VIE,Europe,Vienna
+94.142.137.72,443,true,AMS,Europe,Amsterdam
+94.177.8.11,443,true,VIE,Europe,Vienna
+94.177.8.23,443,true,VIE,Europe,Vienna
+94.103.95.115,443,true,AMS,Europe,Amsterdam
+94.103.95.115,443,true,DME,Europe,Moscow
+94.177.8.60,443,true,VIE,Europe,Vienna
+94.228.169.192,443,true,FRA,Europe,Frankfurt
+94.177.8.4,443,true,VIE,Europe,Vienna
+94.177.8.10,443,true,VIE,Europe,Vienna
+94.177.8.54,443,true,VIE,Europe,Vienna
+94.177.8.51,443,true,VIE,Europe,Vienna
+95.164.8.12,443,true,TLL,Europe,Tallinn
+95.164.23.71,443,true,BUD,Europe,Budapest
+95.164.47.250,443,true,FRA,Europe,Frankfurt
+95.164.87.188,443,true,AMS,Europe,Amsterdam
+95.216.196.34,443,true,HEL,Europe,Helsinki
+95.214.9.240,443,true,HEL,Europe,Helsinki
+95.164.8.123,443,true,TLL,Europe,Tallinn
+95.164.8.31,443,true,TLL,Europe,Tallinn
+95.217.134.104,443,true,HEL,Europe,Helsinki
+95.111.211.112,443,true,AMS,Europe,Amsterdam
+95.164.68.15,443,true,FRA,Europe,Frankfurt
+95.216.190.1,443,true,HEL,Europe,Helsinki
+95.179.140.212,443,true,FRA,Europe,Frankfurt
+95.164.112.53,443,true,FRA,Europe,Frankfurt
+95.216.148.196,443,true,HEL,Europe,Helsinki
+95.164.47.228,443,true,FRA,Europe,Frankfurt
+95.164.113.253,443,true,DME,Europe,Moscow
+95.164.33.42,443,true,OSL,Europe,Oslo
+95.164.0.219,443,true,WAW,Europe,Warsaw
+95.164.3.169,443,true,AMS,Europe,Amsterdam
+95.164.68.16,443,true,FRA,Europe,Frankfurt
+95.179.166.107,443,true,FRA,Europe,Frankfurt
+95.164.114.206,443,true,WAW,Europe,Warsaw
+95.164.113.253,443,true,TLL,Europe,Tallinn
+95.179.154.66,443,true,AMS,Europe,Amsterdam
+95.164.113.130,443,true,HEL,Europe,Helsinki
+95.216.217.156,443,true,HEL,Europe,Helsinki
+95.216.215.75,443,true,AMS,Europe,Amsterdam
+95.142.45.147,443,true,CDG,Europe,Paris
+95.164.85.23,443,true,HAM,Europe,Hamburg
+95.142.41.132,443,true,AMS,Europe,Amsterdam
+95.164.62.196,443,true,FRA,Europe,Frankfurt
+95.217.8.141,443,true,HEL,Europe,Helsinki
+95.164.113.253,443,true,SIN,Asia Pacific,Singapore
+95.164.11.116,443,true,AMS,Europe,Amsterdam
+95.214.9.72,443,true,HEL,Europe,Helsinki
+95.179.140.212,443,true,AMS,Europe,Amsterdam
+95.164.33.149,443,true,OSL,Europe,Oslo
+95.216.17.80,443,true,AMS,Europe,Amsterdam
+95.164.68.14,443,true,FRA,Europe,Frankfurt
+95.131.202.52,443,true,BTS,Europe,Bratislava
+95.181.173.13,443,true,DEN,North America,Denver
+95.164.44.192,443,true,DUB,Europe,Dublin
+95.164.33.149,443,true,CPH,Europe,Copenhagen
+95.142.45.147,443,true,SIN,Asia Pacific,Singapore
+95.164.113.35,443,true,TXL,Europe,Berlin
+95.181.173.215,443,true,DEN,North America,Denver
+95.164.33.42,443,true,HEL,Europe,Helsinki
+95.164.33.42,443,true,CPH,Europe,Copenhagen
+95.179.139.59,443,true,AMS,Europe,Amsterdam
+95.179.139.59,443,true,FRA,Europe,Frankfurt
+95.164.113.253,443,true,VIE,Europe,Vienna
+95.181.151.172,443,true,FRA,Europe,Frankfurt
+95.164.21.72,443,true,SOF,Europe,Sofia
+95.164.10.34,443,true,HAM,Europe,Hamburg
+95.216.140.177,443,true,HEL,Europe,Helsinki
+95.217.187.142,443,true,HEL,Europe,Helsinki
+95.164.33.149,443,true,HEL,Europe,Helsinki
+95.217.155.74,443,true,HEL,Europe,Helsinki
+95.142.45.147,443,true,DME,Europe,Moscow
+95.216.206.37,443,true,HEL,Europe,Helsinki
+95.217.151.107,443,true,HEL,Europe,Helsinki
+95.216.143.166,443,true,HEL,Europe,Helsinki
+95.142.41.27,443,true,AMS,Europe,Amsterdam
+95.142.41.131,443,true,AMS,Europe,Amsterdam
+95.142.45.147,443,true,WAW,Europe,Warsaw
+95.164.46.242,443,true,VIE,Europe,Vienna
+95.216.152.156,443,true,AMS,Europe,Amsterdam
+97.64.18.38,443,true,LAX,North America,Los Angeles
+97.64.18.38,443,true,SJC,North America,San Jose
+97.64.26.150,443,true,LAX,North America,Los Angeles
+97.64.27.82,443,true,LAX,North America,Los Angeles
+98.158.193.72,443,true,LAX,North America,Los Angeles
+98.70.26.236,443,true,BOM,Asia Pacific,Mumbai
+103.81.172.34,443,true,DAC,Asia Pacific,Dhaka
+103.113.69.46,443,true,VNO,Europe,Vilnius
+103.106.1.211,443,true,AMS,Europe,Amsterdam
+103.196.20.13,443,true,LAX,North America,Los Angeles
+103.79.78.105,443,true,LAX,North America,Los Angeles
+103.29.32.103,443,true,SJC,North America,San Jose
+103.35.191.85,443,true,EWR,North America,Newark
+103.82.101.179,443,true,CDG,Europe,Paris
+103.196.20.13,443,true,DFW,North America,Dallas
+103.124.107.104,443,true,LAX,North America,Los Angeles
+103.97.88.164,443,true,AMS,Europe,Amsterdam
+103.225.198.7,443,true,HKG,Asia Pacific,Hong Kong
+103.90.73.16,443,true,AMS,Europe,Amsterdam
+103.35.188.123,443,true,EWR,North America,Newark
+103.97.88.187,443,true,AMS,Europe,Amsterdam
+103.137.248.227,443,true,AMS,Europe,Amsterdam
+103.106.1.2,443,true,AMS,Europe,Amsterdam
+103.79.118.175,443,true,LAX,North America,Los Angeles
+103.106.1.216,443,true,AMS,Europe,Amsterdam
+103.149.46.140,443,true,SIN,Asia Pacific,Singapore
+103.137.63.2,443,true,KHH,Asia Pacific,Kaohsiung City
+103.14.92.88,443,true,SIN,Asia Pacific,Singapore
+103.111.114.79,443,true,BOM,Asia Pacific,Mumbai
+103.106.3.238,443,true,WAW,Europe,Warsaw
+103.182.97.12,443,true,SJC,North America,San Jose
+103.127.92.92,443,true,DAC,Asia Pacific,Dhaka
+103.97.88.120,443,true,AMS,Europe,Amsterdam
+103.102.228.113,443,true,AMS,Europe,Amsterdam
+103.137.63.3,443,true,KHH,Asia Pacific,Kaohsiung City
+103.45.247.134,443,true,AMS,Europe,Amsterdam
+103.90.75.224,443,true,AMS,Europe,Amsterdam
+103.113.69.99,443,true,VNO,Europe,Vilnius
+103.45.247.67,443,true,AMS,Europe,Amsterdam
+103.127.248.51,443,true,HKG,Asia Pacific,Hong Kong
+103.231.73.84,443,true,RIX,Europe,Riga
+103.172.41.223,443,true,HKG,Asia Pacific,Hong Kong
+103.97.88.133,443,true,AMS,Europe,Amsterdam
+103.231.73.117,443,true,RIX,Europe,Riga
+104.248.247.105,443,true,FRA,Europe,Frankfurt
+104.248.32.165,443,true,FRA,Europe,Frankfurt
+104.248.241.182,443,true,FRA,Europe,Frankfurt
+104.248.17.101,443,true,FRA,Europe,Frankfurt
+104.248.100.121,443,true,FRA,Europe,Frankfurt
+104.36.84.82,443,true,SEA,North America,Seattle
+104.248.128.137,443,true,FRA,Europe,Frankfurt
+104.248.36.29,443,true,FRA,Europe,Frankfurt
+104.248.16.87,443,true,FRA,Europe,Frankfurt
+104.234.50.177,443,true,IAD,North America,Ashburn
+104.168.58.31,443,true,EWR,North America,Newark
+104.243.20.153,443,true,LAX,North America,Los Angeles
+104.236.65.156,443,true,EWR,North America,Newark
+104.234.11.159,443,true,EWR,North America,Newark
+104.248.199.175,443,true,AMS,Europe,Amsterdam
+104.244.92.88,443,true,EWR,North America,Newark
+104.168.58.31,443,true,YYZ,North America,Toronto
+104.194.84.243,443,true,LAX,North America,Los Angeles
+104.40.244.228,443,true,AMS,Europe,Amsterdam
+104.168.102.163,443,true,SJC,North America,San Jose
+104.234.50.128,443,true,IAD,North America,Ashburn
+104.168.248.86,443,true,SEA,North America,Seattle
+104.160.43.220,443,true,LAX,North America,Los Angeles
+104.168.58.31,443,true,BUF,North America,Buffalo
+104.248.145.216,443,true,SIN,Asia Pacific,Singapore
+104.128.95.85,443,true,LAX,North America,Los Angeles
+104.128.190.209,443,true,LHR,Europe,London
+104.129.181.152,443,true,SEA,North America,Seattle
+104.194.156.59,443,true,FRA,Europe,Frankfurt
+104.225.235.38,443,true,LAX,North America,Los Angeles
+104.243.20.153,443,true,SJC,North America,San Jose
+107.173.251.119,443,true,BUF,North America,Buffalo
+107.173.171.241,443,true,BUF,North America,Buffalo
+107.173.171.241,443,true,YYZ,North America,Toronto
+107.189.7.14,443,true,FRA,Europe,Frankfurt
+107.173.87.103,443,true,SJC,North America,San Jose
+107.172.90.21,443,true,BUF,North America,Buffalo
+107.175.69.166,443,true,BUF,North America,Buffalo
+107.174.79.149,443,true,LAX,North America,Los Angeles
+107.172.141.122,443,true,YYZ,North America,Toronto
+107.172.94.35,443,true,EWR,North America,Newark
+107.175.35.49,443,true,YYZ,North America,Toronto
+107.175.70.245,443,true,BUF,North America,Buffalo
+107.175.158.215,443,true,BUF,North America,Buffalo
+107.172.94.35,443,true,BUF,North America,Buffalo
+107.172.0.33,443,true,DFW,North America,Dallas
+107.148.95.75,443,true,LAX,North America,Los Angeles
+107.172.141.122,443,true,BUF,North America,Buffalo
+107.173.167.205,443,true,IAD,North America,Ashburn
+107.182.26.105,443,true,LAX,North America,Los Angeles
+107.172.94.16,443,true,BUF,North America,Buffalo
+107.173.171.219,443,true,YYZ,North America,Toronto
+107.175.28.78,443,true,SJC,North America,San Jose
+107.172.72.208,443,true,IAD,North America,Ashburn
+107.173.149.160,443,true,SJC,North America,San Jose
+107.172.142.156,443,true,EWR,North America,Newark
+107.172.43.162,443,true,BUF,North America,Buffalo
+107.173.251.119,443,true,YYZ,North America,Toronto
+107.173.189.234,443,true,YYZ,North America,Toronto
+107.172.90.21,443,true,YYZ,North America,Toronto
+107.175.35.49,443,true,BUF,North America,Buffalo
+107.172.94.16,443,true,YYZ,North America,Toronto
+107.175.193.134,443,true,AMS,Europe,Amsterdam
+107.189.12.152,443,true,FRA,Europe,Frankfurt
+107.175.37.179,443,true,BUF,North America,Buffalo
+107.172.43.162,443,true,YYZ,North America,Toronto
+107.175.2.53,443,true,YYZ,North America,Toronto
+107.175.2.53,443,true,BUF,North America,Buffalo
+107.172.89.201,443,true,SJC,North America,San Jose
+107.175.69.166,443,true,EWR,North America,Newark
+107.172.6.51,443,true,IAD,North America,Ashburn
+107.175.183.62,443,true,TLH,North America,Tallahassee
+107.173.54.243,443,true,YYZ,North America,Toronto
+107.174.64.249,443,true,YYZ,North America,Toronto
+107.172.159.182,443,true,ATL,North America,Atlanta
+107.175.183.62,443,true,ATL,North America,Atlanta
+107.175.158.215,443,true,YYZ,North America,Toronto
+107.174.64.249,443,true,BUF,North America,Buffalo
+107.182.23.113,443,true,SJC,North America,San Jose
+107.173.164.106,443,true,ATL,North America,Atlanta
+107.173.7.227,443,true,BUF,North America,Buffalo
+107.172.142.156,443,true,YYZ,North America,Toronto
+107.173.54.243,443,true,BUF,North America,Buffalo
+107.175.69.166,443,true,YYZ,North America,Toronto
+107.175.30.199,443,true,ATL,North America,Atlanta
+107.174.63.237,443,true,YYZ,North America,Toronto
+107.175.70.245,443,true,YYZ,North America,Toronto
+107.182.23.113,443,true,LAX,North America,Los Angeles
+107.173.189.234,443,true,BUF,North America,Buffalo
+107.175.194.31,443,true,SJC,North America,San Jose
+107.174.253.75,443,true,SJC,North America,San Jose
+107.175.37.179,443,true,YYZ,North America,Toronto
+107.174.242.213,443,true,SEA,North America,Seattle
+107.189.8.158,443,true,FRA,Europe,Frankfurt
+107.189.30.94,443,true,FRA,Europe,Frankfurt
+107.172.94.35,443,true,YYZ,North America,Toronto
+107.175.127.60,443,true,DFW,North America,Dallas
+107.174.63.237,443,true,BUF,North America,Buffalo
+107.172.142.156,443,true,BUF,North America,Buffalo
+107.172.190.175,443,true,EWR,North America,Newark
+107.173.171.219,443,true,BUF,North America,Buffalo
+107.173.7.227,443,true,YYZ,North America,Toronto
+107.174.115.133,443,true,DFW,North America,Dallas
+108.174.57.199,443,true,YYZ,North America,Toronto
+108.165.254.135,443,true,LAX,North America,Los Angeles
+108.61.170.114,443,true,FRA,Europe,Frankfurt
+108.181.56.213,443,true,IAD,North America,Ashburn
+108.174.57.199,443,true,BUF,North America,Buffalo
+108.61.219.125,443,true,LAX,North America,Los Angeles
+109.120.132.6,443,true,FRA,Europe,Frankfurt
+109.120.156.90,443,true,FRA,Europe,Frankfurt
+109.61.42.223,443,true,RUH,Middle East,Riyadh
+109.107.184.216,443,true,AMS,Europe,Amsterdam
+109.235.246.36,443,true,TLL,Europe,Tallinn
+109.120.132.147,443,true,FRA,Europe,Frankfurt
+109.120.142.21,443,true,AMS,Europe,Amsterdam
+109.107.164.39,443,true,AMS,Europe,Amsterdam
+109.107.164.231,443,true,AMS,Europe,Amsterdam
+109.71.244.170,443,true,FRA,Europe,Frankfurt
+109.237.98.57,443,true,FRA,Europe,Frankfurt
+109.120.132.218,443,true,FRA,Europe,Frankfurt
+109.61.42.223,443,true,MRS,Europe,Marseille
+109.120.134.133,443,true,FRA,Europe,Frankfurt
+109.120.184.38,443,true,FRA,Europe,Frankfurt
+109.107.185.15,443,true,AMS,Europe,Amsterdam
+109.120.135.199,443,true,FRA,Europe,Frankfurt
+109.107.181.38,443,true,FRA,Europe,Frankfurt
+109.107.167.104,443,true,AMS,Europe,Amsterdam
+109.234.34.182,443,true,AMS,Europe,Amsterdam
+109.120.135.150,443,true,FRA,Europe,Frankfurt
+109.120.158.162,443,true,AMS,Europe,Amsterdam
+109.120.185.29,443,true,FRA,Europe,Frankfurt
+109.107.181.81,443,true,FRA,Europe,Frankfurt
+109.169.76.23,443,true,LHR,Europe,London
+109.107.181.103,443,true,FRA,Europe,Frankfurt
+109.120.150.108,443,true,FRA,Europe,Frankfurt
+109.234.34.136,443,true,AMS,Europe,Amsterdam
+109.120.150.121,443,true,FRA,Europe,Frankfurt
+109.120.142.219,443,true,AMS,Europe,Amsterdam
+109.185.236.240,443,true,KIV,Europe,Chișinău
+109.120.133.8,443,true,FRA,Europe,Frankfurt
+109.120.184.71,443,true,FRA,Europe,Frankfurt
+109.120.155.210,443,true,FRA,Europe,Frankfurt
+109.172.84.237,443,true,WAW,Europe,Warsaw
+109.120.187.41,443,true,FRA,Europe,Frankfurt
+109.237.98.246,443,true,FRA,Europe,Frankfurt
+109.107.166.33,443,true,AMS,Europe,Amsterdam
+109.107.167.183,443,true,AMS,Europe,Amsterdam
+109.120.132.83,443,true,FRA,Europe,Frankfurt
+109.235.246.34,443,true,TLL,Europe,Tallinn
+109.237.97.129,443,true,FRA,Europe,Frankfurt
+109.120.187.39,443,true,FRA,Europe,Frankfurt
+109.120.158.198,443,true,AMS,Europe,Amsterdam
+109.205.214.8,443,true,AMS,Europe,Amsterdam
+109.107.187.52,443,true,AMS,Europe,Amsterdam
+109.120.150.175,443,true,FRA,Europe,Frankfurt
+109.61.43.191,443,true,IST,Europe,Istanbul
+109.235.246.37,443,true,TLL,Europe,Tallinn
+109.237.98.168,443,true,FRA,Europe,Frankfurt
+109.120.134.15,443,true,FRA,Europe,Frankfurt
+109.107.187.20,443,true,AMS,Europe,Amsterdam
+109.120.178.43,443,true,FRA,Europe,Frankfurt
+109.120.184.22,443,true,FRA,Europe,Frankfurt
+109.120.142.18,443,true,AMS,Europe,Amsterdam
+109.120.178.197,443,true,FRA,Europe,Frankfurt
+109.237.98.137,443,true,FRA,Europe,Frankfurt
+109.120.134.248,443,true,FRA,Europe,Frankfurt
+109.234.34.182,443,true,DME,Europe,Moscow
+109.120.179.149,443,true,FRA,Europe,Frankfurt
+109.235.246.35,443,true,TLL,Europe,Tallinn
+109.237.98.214,443,true,FRA,Europe,Frankfurt
+109.199.122.5,443,true,DUS,Europe,Düsseldorf
+109.120.150.189,443,true,FRA,Europe,Frankfurt
+109.120.179.32,443,true,FRA,Europe,Frankfurt
+109.172.84.237,443,true,DME,Europe,Moscow
+109.107.166.23,443,true,AMS,Europe,Amsterdam
+109.237.97.1,443,true,FRA,Europe,Frankfurt
+109.237.98.44,443,true,FRA,Europe,Frankfurt
+109.107.186.109,443,true,AMS,Europe,Amsterdam
+109.234.39.40,443,true,AMS,Europe,Amsterdam
+109.199.126.6,443,true,DUS,Europe,Düsseldorf
+109.120.132.232,443,true,FRA,Europe,Frankfurt
+109.237.98.255,443,true,FRA,Europe,Frankfurt
+112.213.34.242,443,true,SYD,Oceania,Sydney
+113.30.190.95,443,true,FRA,Europe,Frankfurt
+116.204.210.10,443,true,HKG,Asia Pacific,Hong Kong
+116.202.31.174,443,true,FRA,Europe,Frankfurt
+116.203.58.165,443,true,CDG,Europe,Paris
+116.203.211.56,443,true,CDG,Europe,Paris
+116.206.93.166,443,true,NRT,Asia Pacific,Tokyo
+119.224.58.125,443,true,AKL,Oceania,Auckland
+122.2.198.74,443,true,HKG,Asia Pacific,Hong Kong
+124.156.202.172,443,true,SIN,Asia Pacific,Singapore
+124.156.238.155,443,true,NRT,Asia Pacific,Tokyo
+128.140.123.118,443,true,FRA,Europe,Frankfurt
+128.140.48.73,443,true,FRA,Europe,Frankfurt
+128.140.55.105,443,true,FRA,Europe,Frankfurt
+128.140.86.164,443,true,FRA,Europe,Frankfurt
+128.140.50.32,443,true,FRA,Europe,Frankfurt
+128.140.114.105,443,true,FRA,Europe,Frankfurt
+128.199.41.252,443,true,AMS,Europe,Amsterdam
+128.140.124.244,443,true,FRA,Europe,Frankfurt
+128.140.96.122,443,true,CDG,Europe,Paris
+128.140.71.144,443,true,CDG,Europe,Paris
+128.199.55.47,443,true,AMS,Europe,Amsterdam
+128.140.102.31,443,true,CDG,Europe,Paris
+128.140.2.140,443,true,CDG,Europe,Paris
+128.1.132.82,443,true,HKG,Asia Pacific,Hong Kong
+128.1.18.29,443,true,SJC,North America,San Jose
+128.199.51.98,443,true,AMS,Europe,Amsterdam
+128.140.75.146,443,true,CDG,Europe,Paris
+129.226.150.167,443,true,SIN,Asia Pacific,Singapore
+130.185.249.100,443,true,LHR,Europe,London
+131.255.6.54,443,true,GRU,South America,São Paulo
+134.209.177.68,80,true,LHR,Europe,London
+134.209.87.153,443,true,AMS,Europe,Amsterdam
+134.209.200.185,443,true,AMS,Europe,Amsterdam
+134.209.148.128,443,true,BLR,Asia Pacific,Bangalore
+134.209.82.72,443,true,AMS,Europe,Amsterdam
+134.195.211.106,443,true,LAX,North America,Los Angeles
+134.209.189.51,443,true,LHR,Europe,London
+135.181.152.75,443,true,HEL,Europe,Helsinki
+135.181.210.228,443,true,HEL,Europe,Helsinki
+135.181.144.24,443,true,HEL,Europe,Helsinki
+135.181.195.12,443,true,AMS,Europe,Amsterdam
+135.181.81.147,443,true,HEL,Europe,Helsinki
+135.125.4.40,443,true,FRA,Europe,Frankfurt
+135.181.43.238,443,true,HEL,Europe,Helsinki
+135.125.217.19,443,true,FRA,Europe,Frankfurt
+135.148.4.33,443,true,IAD,North America,Ashburn
+135.181.34.150,443,true,HEL,Europe,Helsinki
+135.125.242.209,443,true,FRA,Europe,Frankfurt
+135.181.100.88,443,true,HEL,Europe,Helsinki
+135.181.41.26,443,true,HEL,Europe,Helsinki
+136.243.211.104,443,true,IAD,North America,Ashburn
+136.244.118.247,443,true,CDG,Europe,Paris
+137.184.182.106,443,true,SJC,North America,San Jose
+138.197.183.219,443,true,FRA,Europe,Frankfurt
+138.201.244.245,443,true,FRA,Europe,Frankfurt
+138.124.30.250,443,true,AMS,Europe,Amsterdam
+138.128.222.154,443,true,LAX,North America,Los Angeles
+138.201.170.108,443,true,FRA,Europe,Frankfurt
+138.197.182.18,443,true,FRA,Europe,Frankfurt
+138.68.124.200,443,true,FRA,Europe,Frankfurt
+138.124.30.8,443,true,AMS,Europe,Amsterdam
+139.59.101.127,443,true,SIN,Asia Pacific,Singapore
+139.59.206.9,443,true,FRA,Europe,Frankfurt
+139.60.162.153,443,true,EWR,North America,Newark
+139.59.139.10,443,true,FRA,Europe,Frankfurt
+139.162.54.112,443,true,SIN,Asia Pacific,Singapore
+139.45.214.58,443,true,VIE,Europe,Vienna
+139.99.236.163,443,true,SYD,Oceania,Sydney
+140.227.233.71,443,true,NRT,Asia Pacific,Tokyo
+141.146.8.119,443,true,SJC,North America,San Jose
+141.98.169.19,443,true,SJC,North America,San Jose
+141.11.94.146,443,true,LAX,North America,Los Angeles
+141.94.222.214,443,true,CDG,Europe,Paris
+141.98.169.25,443,true,AMS,Europe,Amsterdam
+141.98.169.6,443,true,TLL,Europe,Tallinn
+141.11.148.245,443,true,HKG,Asia Pacific,Hong Kong
+141.11.210.29,443,true,LAX,North America,Los Angeles
+141.98.169.49,443,true,TLL,Europe,Tallinn
+141.94.223.220,443,true,CDG,Europe,Paris
+141.11.89.128,443,true,EWR,North America,Newark
+141.11.217.127,443,true,HKG,Asia Pacific,Hong Kong
+141.98.169.25,443,true,TLL,Europe,Tallinn
+141.98.169.23,443,true,DME,Europe,Moscow
+141.164.51.185,443,true,ICN,Asia Pacific,Seoul
+141.105.70.114,443,true,FRA,Europe,Frankfurt
+141.11.234.114,443,true,EWR,North America,Newark
+141.98.169.6,443,true,SIN,Asia Pacific,Singapore
+141.98.169.42,443,true,ARN,Europe,Stockholm
+141.11.238.25,443,true,HKG,Asia Pacific,Hong Kong
+141.98.169.19,443,true,TLL,Europe,Tallinn
+141.98.169.6,443,true,WAW,Europe,Warsaw
+141.98.169.42,443,true,HEL,Europe,Helsinki
+141.98.169.23,443,true,CDG,Europe,Paris
+141.98.169.49,443,true,WAW,Europe,Warsaw
+141.98.169.23,443,true,TLL,Europe,Tallinn
+141.98.169.19,443,true,DME,Europe,Moscow
+141.98.169.49,443,true,DME,Europe,Moscow
+141.98.169.49,443,true,SIN,Asia Pacific,Singapore
+141.98.169.6,443,true,AMS,Europe,Amsterdam
+141.98.169.25,443,true,CDG,Europe,Paris
+142.44.179.3,443,true,YYZ,North America,Toronto
+142.171.88.226,443,true,LAX,North America,Los Angeles
+142.93.229.101,443,true,AMS,Europe,Amsterdam
+142.93.133.91,443,true,AMS,Europe,Amsterdam
+142.171.191.220,443,true,LAX,North America,Los Angeles
+142.132.169.138,443,true,CDG,Europe,Paris
+142.171.83.28,443,true,LAX,North America,Los Angeles
+142.171.157.252,443,true,LAX,North America,Los Angeles
+142.132.178.109,443,true,FRA,Europe,Frankfurt
+142.93.141.178,443,true,AMS,Europe,Amsterdam
+142.171.187.75,443,true,LAX,North America,Los Angeles
+142.171.126.145,443,true,LAX,North America,Los Angeles
+142.93.109.255,443,true,FRA,Europe,Frankfurt
+142.132.181.170,443,true,FRA,Europe,Frankfurt
+142.132.186.229,443,true,FRA,Europe,Frankfurt
+142.132.140.130,443,true,FRA,Europe,Frankfurt
+142.171.30.214,443,true,LAX,North America,Los Angeles
+142.171.140.152,443,true,LAX,North America,Los Angeles
+142.171.233.183,443,true,LAX,North America,Los Angeles
+142.132.238.184,443,true,FRA,Europe,Frankfurt
+142.171.163.109,443,true,LAX,North America,Los Angeles
+142.132.178.99,443,true,FRA,Europe,Frankfurt
+142.171.121.29,443,true,LAX,North America,Los Angeles
+142.132.186.217,443,true,FRA,Europe,Frankfurt
+142.93.131.94,443,true,AMS,Europe,Amsterdam
+142.93.136.199,443,true,AMS,Europe,Amsterdam
+142.171.12.22,443,true,LAX,North America,Los Angeles
+143.198.213.197,443,true,SIN,Asia Pacific,Singapore
+143.42.66.91,443,true,SIN,Asia Pacific,Singapore
+143.244.130.180,443,true,BOM,Asia Pacific,Mumbai
+144.34.164.252,443,true,LAX,North America,Los Angeles
+144.168.61.31,443,true,LAX,North America,Los Angeles
+144.34.185.148,443,true,LAX,North America,Los Angeles
+144.34.181.160,443,true,LAX,North America,Los Angeles
+144.202.11.133,443,true,EWR,North America,Newark
+145.239.90.225,443,true,KBP,Europe,Kyiv
+145.14.157.58,443,true,AMS,Europe,Amsterdam
+145.239.90.225,443,true,WAW,Europe,Warsaw
+146.59.14.96,443,true,WAW,Europe,Warsaw
+146.185.218.33,443,true,AMS,Europe,Amsterdam
+146.0.73.211,443,true,AMS,Europe,Amsterdam
+146.59.14.96,443,true,KBP,Europe,Kyiv
+146.19.207.251,443,true,FRA,Europe,Frankfurt
+146.185.218.33,443,true,SIN,Asia Pacific,Singapore
+146.190.204.4,443,true,FRA,Europe,Frankfurt
+146.190.111.165,443,true,SIN,Asia Pacific,Singapore
+146.70.101.111,443,true,FRA,Europe,Frankfurt
+146.190.236.144,443,true,AMS,Europe,Amsterdam
+146.185.218.33,443,true,DME,Europe,Moscow
+146.190.30.138,443,true,AMS,Europe,Amsterdam
+146.185.218.33,443,true,CDG,Europe,Paris
+147.45.70.47,443,true,FRA,Europe,Frankfurt
+147.45.76.143,443,true,FRA,Europe,Frankfurt
+147.75.230.160,443,true,SJC,North America,San Jose
+147.45.167.197,443,true,FRA,Europe,Frankfurt
+147.45.134.93,443,true,FRA,Europe,Frankfurt
+147.45.170.176,443,true,FRA,Europe,Frankfurt
+147.45.252.132,443,true,FRA,Europe,Frankfurt
+147.45.69.39,443,true,FRA,Europe,Frankfurt
+147.45.41.209,443,true,FRA,Europe,Frankfurt
+147.45.41.131,443,true,FRA,Europe,Frankfurt
+147.45.69.24,443,true,FRA,Europe,Frankfurt
+147.45.248.230,443,true,FRA,Europe,Frankfurt
+147.45.229.158,443,true,AMS,Europe,Amsterdam
+147.75.237.72,443,true,SJC,North America,San Jose
+147.135.10.209,443,true,IAD,North America,Ashburn
+147.45.43.232,443,true,FRA,Europe,Frankfurt
+147.45.143.22,443,true,CDG,Europe,Paris
+147.45.69.72,443,true,FRA,Europe,Frankfurt
+147.45.136.240,443,true,FRA,Europe,Frankfurt
+147.75.230.33,443,true,SJC,North America,San Jose
+147.45.114.98,443,true,AMS,Europe,Amsterdam
+147.45.143.22,443,true,AMS,Europe,Amsterdam
+147.45.40.178,443,true,FRA,Europe,Frankfurt
+147.75.236.96,443,true,SJC,North America,San Jose
+147.45.225.174,443,true,FRA,Europe,Frankfurt
+147.75.234.184,443,true,SJC,North America,San Jose
+147.45.114.116,443,true,AMS,Europe,Amsterdam
+147.45.143.22,443,true,VIE,Europe,Vienna
+147.45.44.71,443,true,FRA,Europe,Frankfurt
+147.45.75.49,443,true,FRA,Europe,Frankfurt
+147.45.43.247,443,true,FRA,Europe,Frankfurt
+147.45.174.201,443,true,FRA,Europe,Frankfurt
+147.45.76.247,443,true,FRA,Europe,Frankfurt
+147.45.73.239,443,true,FRA,Europe,Frankfurt
+147.45.74.107,443,true,FRA,Europe,Frankfurt
+147.45.197.119,443,true,FRA,Europe,Frankfurt
+147.45.143.22,443,true,DME,Europe,Moscow
+147.45.74.30,443,true,FRA,Europe,Frankfurt
+147.45.135.207,443,true,FRA,Europe,Frankfurt
+147.45.77.197,443,true,FRA,Europe,Frankfurt
+147.45.77.214,443,true,FRA,Europe,Frankfurt
+147.45.73.112,443,true,FRA,Europe,Frankfurt
+147.45.75.11,443,true,FRA,Europe,Frankfurt
+147.45.114.77,443,true,AMS,Europe,Amsterdam
+147.45.74.190,443,true,FRA,Europe,Frankfurt
+147.45.60.57,443,true,TLL,Europe,Tallinn
+147.45.76.69,443,true,FRA,Europe,Frankfurt
+147.45.73.178,443,true,FRA,Europe,Frankfurt
+147.75.231.19,443,true,SJC,North America,San Jose
+147.45.79.136,443,true,DEN,North America,Denver
+147.45.72.18,443,true,FRA,Europe,Frankfurt
+147.45.40.156,443,true,FRA,Europe,Frankfurt
+147.45.77.97,443,true,FRA,Europe,Frankfurt
+147.45.248.214,443,true,AMS,Europe,Amsterdam
+147.45.69.13,443,true,FRA,Europe,Frankfurt
+147.75.228.22,443,true,SJC,North America,San Jose
+147.45.73.218,443,true,FRA,Europe,Frankfurt
+147.45.73.56,443,true,FRA,Europe,Frankfurt
+147.45.143.22,443,true,WAW,Europe,Warsaw
+148.135.15.148,443,true,LAX,North America,Los Angeles
+148.135.46.46,443,true,LAX,North America,Los Angeles
+148.251.157.127,443,true,FRA,Europe,Frankfurt
+148.223.138.11,443,true,LAX,North America,Los Angeles
+148.135.56.163,443,true,LAX,North America,Los Angeles
+149.28.162.204,443,true,SYD,Oceania,Sydney
+149.28.247.220,443,true,DFW,North America,Dallas
+149.129.250.187,443,true,SIN,Asia Pacific,Singapore
+149.28.21.106,443,true,NRT,Asia Pacific,Tokyo
+149.248.7.208,443,true,LAX,North America,Los Angeles
+149.248.13.253,443,true,LAX,North America,Los Angeles
+149.129.8.215,443,true,SJC,North America,San Jose
+149.28.19.108,443,true,NRT,Asia Pacific,Tokyo
+149.56.14.62,443,true,YYZ,North America,Toronto
+151.236.13.2,443,true,VIE,Europe,Vienna
+152.228.206.122,443,true,CDG,Europe,Paris
+152.228.191.232,443,true,AMS,Europe,Amsterdam
+152.89.107.168,443,true,HAM,Europe,Hamburg
+152.228.191.232,443,true,CDG,Europe,Paris
+152.228.206.122,443,true,AMS,Europe,Amsterdam
+152.228.154.20,443,true,AMS,Europe,Amsterdam
+152.89.107.168,443,true,FRA,Europe,Frankfurt
+152.228.154.20,443,true,CDG,Europe,Paris
+153.92.127.18,443,true,AMS,Europe,Amsterdam
+154.21.206.202,443,true,LAX,North America,Los Angeles
+154.29.155.249,443,true,LAX,North America,Los Angeles
+154.53.166.178,443,true,SOF,Europe,Sofia
+154.23.240.179,443,true,LAX,North America,Los Angeles
+154.37.211.240,443,true,LAX,North America,Los Angeles
+154.213.187.46,443,true,AMS,Europe,Amsterdam
+154.23.240.232,443,true,LAX,North America,Los Angeles
+154.31.113.72,443,true,NRT,Asia Pacific,Tokyo
+154.53.166.178,443,true,OTP,Europe,Bucharest
+154.29.147.199,443,true,LAX,North America,Los Angeles
+154.16.16.24,443,true,AMS,Europe,Amsterdam
+154.9.249.242,443,true,LAX,North America,Los Angeles
+155.138.164.204,443,true,ATL,North America,Atlanta
+155.138.209.175,443,true,ATL,North America,Atlanta
+155.93.235.17,443,true,JNB,Africa,Johannesburg
+155.138.128.135,443,true,YYZ,North America,Toronto
+156.146.53.82,443,true,SJC,North America,San Jose
+156.254.114.104,443,true,HKG,Asia Pacific,Hong Kong
+156.254.114.186,443,true,HKG,Asia Pacific,Hong Kong
+156.59.91.176,443,true,IAD,North America,Ashburn
+156.234.17.144,443,true,HKG,Asia Pacific,Hong Kong
+156.146.53.83,443,true,SJC,North America,San Jose
+156.230.12.71,443,true,HKG,Asia Pacific,Hong Kong
+157.245.139.136,443,true,EWR,North America,Newark
+157.245.243.119,443,true,EWR,North America,Newark
+157.230.28.134,443,true,FRA,Europe,Frankfurt
+157.254.53.50,443,true,HKG,Asia Pacific,Hong Kong
+157.90.145.96,443,true,FRA,Europe,Frankfurt
+157.245.76.197,443,true,AMS,Europe,Amsterdam
+157.245.30.48,443,true,LHR,Europe,London
+157.245.24.90,443,true,FRA,Europe,Frankfurt
+157.245.27.205,443,true,FRA,Europe,Frankfurt
+157.90.250.119,443,true,FRA,Europe,Frankfurt
+158.255.77.168,443,true,FRA,Europe,Frankfurt
+158.220.101.177,443,true,DUS,Europe,Düsseldorf
+158.58.186.88,443,true,FRA,Europe,Frankfurt
+159.100.194.42,443,true,SJC,North America,San Jose
+159.100.199.200,443,true,SJC,North America,San Jose
+159.69.4.7,80,true,CDG,Europe,Paris
+159.65.204.216,443,true,AMS,Europe,Amsterdam
+159.100.20.253,443,true,FRA,Europe,Frankfurt
+159.69.14.138,443,true,CDG,Europe,Paris
+159.69.92.30,443,true,CDG,Europe,Paris
+159.100.198.106,443,true,SJC,North America,San Jose
+159.223.28.21,443,true,FRA,Europe,Frankfurt
+159.100.195.184,443,true,SJC,North America,San Jose
+159.223.224.134,443,true,AMS,Europe,Amsterdam
+159.100.22.206,443,true,FRA,Europe,Frankfurt
+159.253.23.238,443,true,ARN,Europe,Stockholm
+159.65.215.239,443,true,LHR,Europe,London
+159.223.236.56,443,true,AMS,Europe,Amsterdam
+159.69.189.130,443,true,FRA,Europe,Frankfurt
+160.251.142.232,443,true,FUK,Asia Pacific,Fukuoka
+161.35.145.201,443,true,AMS,Europe,Amsterdam
+161.35.110.111,443,true,EWR,North America,Newark
+161.35.42.34,443,true,LHR,Europe,London
+161.35.215.201,443,true,FRA,Europe,Frankfurt
+161.35.21.2,443,true,FRA,Europe,Frankfurt
+161.35.203.18,443,true,FRA,Europe,Frankfurt
+162.247.153.244,443,true,ATL,North America,Atlanta
+162.55.217.158,443,true,CDG,Europe,Paris
+162.19.12.170,443,true,CDG,Europe,Paris
+162.19.3.87,443,true,AMS,Europe,Amsterdam
+162.19.3.87,443,true,CDG,Europe,Paris
+162.223.89.199,443,true,BUF,North America,Buffalo
+162.247.153.244,443,true,TLH,North America,Tallahassee
+162.219.120.218,443,true,LAX,North America,Los Angeles
+162.55.50.87,443,true,CDG,Europe,Paris
+162.223.90.130,443,true,YYZ,North America,Toronto
+162.223.89.199,443,true,YYZ,North America,Toronto
+162.19.247.245,443,true,FRA,Europe,Frankfurt
+162.19.12.170,443,true,AMS,Europe,Amsterdam
+162.55.213.133,443,true,CDG,Europe,Paris
+162.247.241.91,443,true,SJC,North America,San Jose
+162.55.219.102,443,true,CDG,Europe,Paris
+162.223.90.130,443,true,BUF,North America,Buffalo
+163.5.207.124,443,true,AMS,Europe,Amsterdam
+164.90.235.136,443,true,FRA,Europe,Frankfurt
+164.132.235.188,443,true,AMS,Europe,Amsterdam
+164.132.235.188,443,true,CDG,Europe,Paris
+164.92.130.142,443,true,FRA,Europe,Frankfurt
+164.92.139.18,443,true,FRA,Europe,Frankfurt
+164.92.147.160,443,true,AMS,Europe,Amsterdam
+164.90.168.91,443,true,FRA,Europe,Frankfurt
+164.92.165.141,443,true,FRA,Europe,Frankfurt
+164.90.228.172,443,true,FRA,Europe,Frankfurt
+165.232.79.190,443,true,FRA,Europe,Frankfurt
+165.227.73.88,2053,true,EWR,North America,Newark
+165.227.65.148,2053,true,EWR,North America,Newark
+165.22.197.178,443,true,AMS,Europe,Amsterdam
+165.227.237.209,443,true,LHR,Europe,London
+165.227.65.148,8443,true,EWR,North America,Newark
+165.232.82.85,443,true,AMS,Europe,Amsterdam
+165.232.182.81,443,true,BLR,Asia Pacific,Bangalore
+165.227.139.171,443,true,FRA,Europe,Frankfurt
+165.232.123.155,443,true,FRA,Europe,Frankfurt
+165.232.71.24,443,true,FRA,Europe,Frankfurt
+165.22.95.39,443,true,FRA,Europe,Frankfurt
+165.227.143.226,443,true,FRA,Europe,Frankfurt
+165.227.134.63,443,true,FRA,Europe,Frankfurt
+165.227.73.88,8443,true,EWR,North America,Newark
+165.232.77.198,443,true,FRA,Europe,Frankfurt
+166.1.160.201,2053,true,EWR,North America,Newark
+166.1.201.179,443,true,AMS,Europe,Amsterdam
+166.1.190.48,443,true,LAX,North America,Los Angeles
+166.1.22.34,443,true,AMS,Europe,Amsterdam
+166.1.160.201,8443,true,EWR,North America,Newark
+166.1.22.116,443,true,AMS,Europe,Amsterdam
+167.235.57.61,443,true,CDG,Europe,Paris
+167.235.134.123,443,true,CDG,Europe,Paris
+167.235.242.114,443,true,FRA,Europe,Frankfurt
+167.99.32.183,443,true,AMS,Europe,Amsterdam
+167.235.207.186,443,true,FRA,Europe,Frankfurt
+167.99.137.56,443,true,FRA,Europe,Frankfurt
+167.172.106.173,443,true,FRA,Europe,Frankfurt
+167.235.205.188,443,true,FRA,Europe,Frankfurt
+167.114.67.25,443,true,YYZ,North America,Toronto
+167.71.62.127,443,true,FRA,Europe,Frankfurt
+167.179.27.92,443,true,SJC,North America,San Jose
+167.71.34.254,443,true,FRA,Europe,Frankfurt
+168.119.154.191,443,true,FRA,Europe,Frankfurt
+168.119.231.164,443,true,CDG,Europe,Paris
+168.100.9.81,443,true,AMS,Europe,Amsterdam
+168.119.247.199,443,true,FRA,Europe,Frankfurt
+171.22.120.111,443,true,FRA,Europe,Frankfurt
+172.65.251.188,443,true,SJC,North America,San Jose
+172.96.195.65,443,true,LAX,North America,Los Angeles
+172.191.74.198,443,true,IAD,North America,Ashburn
+172.245.159.231,443,true,YYZ,North America,Toronto
+172.245.226.156,443,true,DFW,North America,Dallas
+172.82.16.99,443,true,SJC,North America,San Jose
+172.245.119.200,443,true,BUF,North America,Buffalo
+172.245.55.114,443,true,BUF,North America,Buffalo
+172.65.245.102,443,true,SJC,North America,San Jose
+172.65.245.165,443,true,SJC,North America,San Jose
+172.65.55.186,443,true,SJC,North America,San Jose
+172.65.248.251,443,true,SJC,North America,San Jose
+172.65.245.194,443,true,SJC,North America,San Jose
+172.65.246.14,443,true,SJC,North America,San Jose
+172.65.246.80,443,true,SJC,North America,San Jose
+172.245.156.220,443,true,BUF,North America,Buffalo
+172.65.64.210,443,true,SJC,North America,San Jose
+172.65.247.161,443,true,SJC,North America,San Jose
+172.245.232.173,443,true,IAD,North America,Ashburn
+172.187.200.28,443,true,LHR,Europe,London
+172.65.241.155,443,true,SJC,North America,San Jose
+172.236.30.225,443,true,LHR,Europe,London
+172.65.249.20,443,true,SJC,North America,San Jose
+172.65.252.90,443,true,SJC,North America,San Jose
+172.65.253.122,443,true,SJC,North America,San Jose
+172.245.159.231,443,true,BUF,North America,Buffalo
+172.65.253.241,443,true,SJC,North America,San Jose
+172.96.224.233,443,true,LAX,North America,Los Angeles
+172.96.188.117,443,true,EWR,North America,Newark
+172.65.249.86,443,true,SJC,North America,San Jose
+172.65.64.71,443,true,SJC,North America,San Jose
+172.245.119.200,443,true,YYZ,North America,Toronto
+172.65.250.119,443,true,SJC,North America,San Jose
+172.65.255.19,443,true,SJC,North America,San Jose
+172.245.156.220,443,true,YYZ,North America,Toronto
+172.65.242.97,443,true,SJC,North America,San Jose
+172.105.78.175,443,true,FRA,Europe,Frankfurt
+172.65.253.134,443,true,SJC,North America,San Jose
+172.65.253.181,443,true,SJC,North America,San Jose
+172.245.168.86,443,true,BUF,North America,Buffalo
+172.65.241.210,443,true,SJC,North America,San Jose
+172.65.251.113,443,true,SJC,North America,San Jose
+172.245.168.86,443,true,YYZ,North America,Toronto
+172.65.90.20,443,true,SJC,North America,San Jose
+172.65.243.153,443,true,SJC,North America,San Jose
+172.65.234.158,443,true,SJC,North America,San Jose
+172.65.240.234,443,true,SJC,North America,San Jose
+172.65.90.39,443,true,SJC,North America,San Jose
+172.64.40.243,443,true,SIN,Asia Pacific,Singapore
+172.65.251.185,443,true,SJC,North America,San Jose
+172.65.242.169,443,true,SJC,North America,San Jose
+172.65.240.65,443,true,SJC,North America,San Jose
+172.65.64.208,443,true,SJC,North America,San Jose
+172.65.64.211,443,true,SJC,North America,San Jose
+172.65.90.38,443,true,SJC,North America,San Jose
+172.65.254.101,443,true,SJC,North America,San Jose
+172.212.108.47,443,true,IAD,North America,Ashburn
+172.65.252.182,443,true,SJC,North America,San Jose
+172.65.254.212,443,true,HKG,Asia Pacific,Hong Kong
+172.65.64.209,443,true,SJC,North America,San Jose
+172.65.254.174,443,true,SJC,North America,San Jose
+172.64.40.168,443,true,SIN,Asia Pacific,Singapore
+172.65.252.31,443,true,SJC,North America,San Jose
+172.65.252.25,443,true,SJC,North America,San Jose
+172.65.90.37,443,true,SJC,North America,San Jose
+172.65.90.36,443,true,SJC,North America,San Jose
+172.65.90.25,443,true,SJC,North America,San Jose
+172.104.127.132,443,true,NRT,Asia Pacific,Tokyo
+172.65.64.74,443,true,SJC,North America,San Jose
+172.65.90.23,443,true,SJC,North America,San Jose
+172.65.241.33,443,true,SJC,North America,San Jose
+172.65.90.27,443,true,SJC,North America,San Jose
+172.65.90.22,443,true,SJC,North America,San Jose
+172.65.90.24,443,true,SJC,North America,San Jose
+172.96.192.76,443,true,LAX,North America,Los Angeles
+172.236.98.207,443,true,ORD,North America,Chicago
+172.65.244.88,443,true,SJC,North America,San Jose
+172.201.76.19,443,true,AMS,Europe,Amsterdam
+172.98.207.58,443,true,YYZ,North America,Toronto
+172.65.252.229,443,true,SJC,North America,San Jose
+172.65.240.99,443,true,SJC,North America,San Jose
+172.245.168.86,443,true,EWR,North America,Newark
+172.96.188.117,443,true,IAD,North America,Ashburn
+172.245.55.114,443,true,YYZ,North America,Toronto
+172.65.244.255,443,true,SJC,North America,San Jose
+172.65.247.241,443,true,SJC,North America,San Jose
+172.65.248.96,443,true,SJC,North America,San Jose
+172.65.243.214,443,true,SJC,North America,San Jose
+172.65.243.204,443,true,SJC,North America,San Jose
+172.86.99.63,2053,true,EWR,North America,Newark
+173.44.139.23,443,true,FRA,Europe,Frankfurt
+173.247.232.50,443,true,DEN,North America,Denver
+173.249.207.155,443,true,SJC,North America,San Jose
+173.242.123.213,443,true,LAX,North America,Los Angeles
+173.44.139.49,443,true,FRA,Europe,Frankfurt
+173.247.232.50,443,true,ORD,North America,Chicago
+174.137.61.42,443,true,SJC,North America,San Jose
+174.137.53.41,443,true,SJC,North America,San Jose
+174.138.8.21,443,true,AMS,Europe,Amsterdam
+175.28.34.126,10846,true,ICN,Asia Pacific,Seoul
+176.10.125.114,443,true,ZRH,Europe,Zurich
+176.124.198.138,443,true,FRA,Europe,Frankfurt
+176.126.164.214,443,true,CDG,Europe,Paris
+176.191.128.203,443,true,CDG,Europe,Paris
+176.120.74.53,443,true,MAD,Europe,Madrid
+176.124.220.175,443,true,FRA,Europe,Frankfurt
+176.57.212.3,443,true,FRA,Europe,Frankfurt
+176.97.74.148,443,true,TLL,Europe,Tallinn
+176.123.8.150,443,true,KBP,Europe,Kyiv
+176.124.220.179,443,true,FRA,Europe,Frankfurt
+176.97.75.90,443,true,FRA,Europe,Frankfurt
+176.125.231.110,443,true,RUH,Middle East,Riyadh
+176.126.164.213,443,true,WAW,Europe,Warsaw
+176.97.66.175,443,true,FRA,Europe,Frankfurt
+176.223.143.122,443,true,WAW,Europe,Warsaw
+176.124.221.6,443,true,FRA,Europe,Frankfurt
+176.97.74.22,443,true,TLL,Europe,Tallinn
+176.119.148.163,443,true,NRT,Asia Pacific,Tokyo
+176.105.253.66,443,true,WAW,Europe,Warsaw
+176.97.73.20,443,true,NRT,Asia Pacific,Tokyo
+176.97.77.76,443,true,HEL,Europe,Helsinki
+176.124.204.12,443,true,FRA,Europe,Frankfurt
+176.119.203.243,443,true,FRA,Europe,Frankfurt
+176.107.131.31,443,true,FRA,Europe,Frankfurt
+176.126.164.214,443,true,DME,Europe,Moscow
+176.97.67.38,443,true,FRA,Europe,Frankfurt
+176.124.206.229,443,true,FRA,Europe,Frankfurt
+176.126.164.214,443,true,ARN,Europe,Stockholm
+176.126.164.214,443,true,SIN,Asia Pacific,Singapore
+176.126.164.214,443,true,AMS,Europe,Amsterdam
+176.126.164.214,443,true,FRA,Europe,Frankfurt
+176.97.72.18,443,true,MAD,Europe,Madrid
+176.223.129.239,443,true,VNO,Europe,Vilnius
+176.9.239.181,443,true,FRA,Europe,Frankfurt
+176.105.253.98,443,true,WAW,Europe,Warsaw
+177.55.56.182,443,true,GRU,South America,São Paulo
+178.130.41.133,443,true,AMS,Europe,Amsterdam
+178.236.244.16,443,true,FRA,Europe,Frankfurt
+178.62.210.202,443,true,AMS,Europe,Amsterdam
+178.128.161.11,443,true,LHR,Europe,London
+178.208.76.68,443,true,AMS,Europe,Amsterdam
+178.255.46.176,443,true,HAM,Europe,Hamburg
+178.236.244.19,443,true,FRA,Europe,Frankfurt
+178.208.77.191,443,true,AMS,Europe,Amsterdam
+178.156.139.174,443,true,IAD,North America,Ashburn
+178.20.46.46,443,true,SIN,Asia Pacific,Singapore
+178.159.38.148,443,true,AMS,Europe,Amsterdam
+178.157.57.144,443,true,KIX,Asia Pacific,Osaka
+178.62.239.110,443,true,AMS,Europe,Amsterdam
+178.32.58.147,443,true,AMS,Europe,Amsterdam
+178.62.76.86,80,true,LHR,Europe,London
+178.32.58.147,443,true,CDG,Europe,Paris
+178.162.142.175,443,true,FRA,Europe,Frankfurt
+178.73.220.132,443,true,ARN,Europe,Stockholm
+178.208.66.169,443,true,AMS,Europe,Amsterdam
+178.130.43.238,443,true,AMS,Europe,Amsterdam
+178.236.253.118,443,true,FRA,Europe,Frankfurt
+178.20.46.46,443,true,OSL,Europe,Oslo
+178.62.4.103,443,true,LHR,Europe,London
+178.217.101.52,443,true,AMS,Europe,Amsterdam
+178.128.80.43,443,true,SIN,Asia Pacific,Singapore
+178.253.23.43,443,true,FRA,Europe,Frankfurt
+178.20.46.46,443,true,WAW,Europe,Warsaw
+178.20.46.46,443,true,AMS,Europe,Amsterdam
+178.20.46.46,443,true,ARN,Europe,Stockholm
+178.128.91.137,443,true,SIN,Asia Pacific,Singapore
+178.208.77.253,443,true,AMS,Europe,Amsterdam
+178.208.76.84,443,true,AMS,Europe,Amsterdam
+178.208.90.72,443,true,AMS,Europe,Amsterdam
+178.62.17.85,443,true,LHR,Europe,London
+178.130.42.242,443,true,AMS,Europe,Amsterdam
+178.208.156.194,443,true,DME,Europe,Moscow
+178.130.43.241,443,true,AMS,Europe,Amsterdam
+178.236.244.64,443,true,FRA,Europe,Frankfurt
+179.43.166.2,443,true,MXP,Europe,Milan
+179.61.132.179,443,true,FRA,Europe,Frankfurt
+179.43.155.21,443,true,MXP,Europe,Milan
+181.36.229.212,443,true,SDQ,North America,Santo Domingo
+181.41.194.82,443,true,AMS,Europe,Amsterdam
+184.169.181.217,443,true,SJC,North America,San Jose
+184.95.40.67,443,true,LAX,North America,Los Angeles
+185.120.59.77,443,true,CDG,Europe,Paris
+185.130.47.87,443,true,AMS,Europe,Amsterdam
+185.225.200.115,80,true,FRA,Europe,Frankfurt
+185.243.215.156,443,true,ARN,Europe,Stockholm
+185.143.179.94,443,true,FRA,Europe,Frankfurt
+185.237.219.169,443,true,RIX,Europe,Riga
+185.174.137.188,443,true,FRA,Europe,Frankfurt
+185.151.243.200,443,true,LED,Europe,Saint Petersburg
+185.125.100.135,443,true,FRA,Europe,Frankfurt
+185.103.254.144,443,true,AMS,Europe,Amsterdam
+185.135.86.207,443,true,VNO,Europe,Vilnius
+185.155.220.64,443,true,AMS,Europe,Amsterdam
+185.244.173.81,443,true,CDG,Europe,Paris
+185.135.86.252,443,true,VNO,Europe,Vilnius
+185.197.74.189,443,true,FRA,Europe,Frankfurt
+185.197.74.225,443,true,FRA,Europe,Frankfurt
+185.174.137.35,443,true,FRA,Europe,Frankfurt
+185.154.155.179,443,true,CDG,Europe,Paris
+185.236.233.172,443,true,AMS,Europe,Amsterdam
+185.103.100.101,443,true,FRA,Europe,Frankfurt
+185.234.66.91,443,true,SOF,Europe,Sofia
+185.230.143.122,443,true,FRA,Europe,Frankfurt
+185.234.66.91,443,true,OTP,Europe,Bucharest
+185.103.12.67,443,true,MRS,Europe,Marseille
+185.255.172.154,443,true,IST,Europe,Istanbul
+185.126.225.58,443,true,AMS,Europe,Amsterdam
+185.230.143.121,443,true,FRA,Europe,Frankfurt
+185.125.101.166,443,true,FRA,Europe,Frankfurt
+185.198.166.182,443,true,AMS,Europe,Amsterdam
+185.125.101.63,443,true,FRA,Europe,Frankfurt
+185.216.13.170,443,true,AMS,Europe,Amsterdam
+185.241.192.93,443,true,DME,Europe,Moscow
+185.198.164.204,443,true,AMS,Europe,Amsterdam
+185.252.215.188,443,true,FRA,Europe,Frankfurt
+185.246.155.73,443,true,AMS,Europe,Amsterdam
+185.103.252.54,443,true,FRA,Europe,Frankfurt
+185.139.228.126,443,true,HEL,Europe,Helsinki
+185.125.230.17,443,true,FRA,Europe,Frankfurt
+185.251.25.135,443,true,AMS,Europe,Amsterdam
+185.113.8.15,443,true,AMS,Europe,Amsterdam
+185.242.86.85,443,true,AMS,Europe,Amsterdam
+185.36.143.166,443,true,AMS,Europe,Amsterdam
+185.242.86.83,443,true,AMS,Europe,Amsterdam
+185.164.163.185,443,true,AMS,Europe,Amsterdam
+185.65.149.44,443,true,HKG,Asia Pacific,Hong Kong
+185.235.241.63,443,true,FRA,Europe,Frankfurt
+185.247.141.10,443,true,ARN,Europe,Stockholm
+185.252.144.106,443,true,HEL,Europe,Helsinki
+185.125.102.206,443,true,FRA,Europe,Frankfurt
+185.106.103.168,443,true,LCA,Europe,Nicosia
+185.112.82.28,443,true,HEL,Europe,Helsinki
+185.169.107.99,443,true,AMS,Europe,Amsterdam
+185.125.230.155,443,true,FRA,Europe,Frankfurt
+185.125.230.28,443,true,FRA,Europe,Frankfurt
+185.114.78.230,443,true,SJC,North America,San Jose
+185.125.228.214,443,true,ARN,Europe,Stockholm
+185.137.235.254,443,true,DME,Europe,Moscow
+185.244.173.81,443,true,FRA,Europe,Frankfurt
+185.244.173.81,443,true,DME,Europe,Moscow
+185.216.13.253,443,true,AMS,Europe,Amsterdam
+185.114.72.148,443,true,MAD,Europe,Madrid
+185.162.10.154,443,true,SOF,Europe,Sofia
+185.164.163.134,443,true,AMS,Europe,Amsterdam
+185.169.107.48,443,true,AMS,Europe,Amsterdam
+185.246.152.79,443,true,AMS,Europe,Amsterdam
+185.114.77.159,443,true,SJC,North America,San Jose
+185.103.253.35,443,true,FRA,Europe,Frankfurt
+185.255.178.146,443,true,TLL,Europe,Tallinn
+185.238.169.177,443,true,AMS,Europe,Amsterdam
+185.173.227.85,443,true,MXP,Europe,Milan
+185.174.135.3,443,true,TLL,Europe,Tallinn
+185.139.228.192,443,true,HEL,Europe,Helsinki
+185.251.25.237,443,true,AMS,Europe,Amsterdam
+185.128.104.25,443,true,FRA,Europe,Frankfurt
+185.105.117.222,443,true,ARN,Europe,Stockholm
+185.102.136.128,443,true,DME,Europe,Moscow
+185.36.141.134,443,true,ARN,Europe,Stockholm
+185.36.140.4,443,true,ARN,Europe,Stockholm
+185.36.141.35,443,true,ARN,Europe,Stockholm
+185.103.255.142,443,true,AMS,Europe,Amsterdam
+185.203.116.174,443,true,SOF,Europe,Sofia
+185.228.235.62,443,true,ARN,Europe,Stockholm
+185.18.54.195,443,true,AMS,Europe,Amsterdam
+185.125.230.248,443,true,FRA,Europe,Frankfurt
+185.82.98.190,443,true,MRS,Europe,Marseille
+185.26.98.156,443,true,FRA,Europe,Frankfurt
+185.246.155.198,443,true,AMS,Europe,Amsterdam
+185.173.227.174,443,true,MXP,Europe,Milan
+185.186.25.163,443,true,VNO,Europe,Vilnius
+185.229.225.229,443,true,AMS,Europe,Amsterdam
+185.23.238.60,443,true,AMS,Europe,Amsterdam
+185.22.153.42,443,true,DME,Europe,Moscow
+185.170.215.228,443,true,LHR,Europe,London
+185.238.74.193,443,true,WAW,Europe,Warsaw
+185.159.131.233,443,true,CDG,Europe,Paris
+185.18.54.83,443,true,AMS,Europe,Amsterdam
+185.188.181.14,443,true,TXL,Europe,Berlin
+185.186.25.185,443,true,AMS,Europe,Amsterdam
+185.23.238.76,443,true,AMS,Europe,Amsterdam
+185.218.3.35,443,true,LHR,Europe,London
+185.26.96.206,443,true,FRA,Europe,Frankfurt
+185.33.24.247,443,true,AMS,Europe,Amsterdam
+185.24.219.130,443,true,PRG,Europe,Prague
+185.242.106.50,443,true,WAW,Europe,Warsaw
+185.94.165.218,443,true,AMS,Europe,Amsterdam
+185.242.107.80,443,true,WAW,Europe,Warsaw
+185.220.204.87,443,true,AMS,Europe,Amsterdam
+185.102.136.128,443,true,TLL,Europe,Tallinn
+185.231.206.22,443,true,HEL,Europe,Helsinki
+185.177.59.147,443,true,SOF,Europe,Sofia
+185.94.165.183,443,true,AMS,Europe,Amsterdam
+185.174.135.3,443,true,ARN,Europe,Stockholm
+185.208.180.168,443,true,LAX,North America,Los Angeles
+185.23.236.111,443,true,HEL,Europe,Helsinki
+185.94.165.207,443,true,AMS,Europe,Amsterdam
+185.23.236.49,443,true,TLL,Europe,Tallinn
+185.188.181.14,443,true,HEL,Europe,Helsinki
+185.140.12.239,443,true,FRA,Europe,Frankfurt
+185.94.165.167,443,true,AMS,Europe,Amsterdam
+185.4.73.45,443,true,WAW,Europe,Warsaw
+185.244.173.81,443,true,ARN,Europe,Stockholm
+185.208.180.168,443,true,SEA,North America,Seattle
+185.94.167.108,443,true,TXL,Europe,Berlin
+185.244.49.103,443,true,AMS,Europe,Amsterdam
+185.188.181.15,443,true,HEL,Europe,Helsinki
+185.208.180.168,443,true,IAD,North America,Ashburn
+185.94.164.12,443,true,AMS,Europe,Amsterdam
+185.94.164.160,443,true,AMS,Europe,Amsterdam
+185.94.165.200,443,true,AMS,Europe,Amsterdam
+185.117.116.134,443,true,TLL,Europe,Tallinn
+185.159.131.91,443,true,CDG,Europe,Paris
+185.94.164.107,443,true,AMS,Europe,Amsterdam
+185.94.164.72,443,true,AMS,Europe,Amsterdam
+185.204.52.112,443,true,AMS,Europe,Amsterdam
+185.59.251.86,443,true,FRA,Europe,Frankfurt
+185.229.65.70,443,true,FRA,Europe,Frankfurt
+185.58.207.12,443,true,HEL,Europe,Helsinki
+185.40.7.224,443,true,HEL,Europe,Helsinki
+185.94.165.93,443,true,AMS,Europe,Amsterdam
+185.117.116.134,443,true,DME,Europe,Moscow
+185.208.180.168,443,true,ORD,North America,Chicago
+185.117.75.62,443,true,AMS,Europe,Amsterdam
+185.92.74.88,443,true,AMS,Europe,Amsterdam
+185.128.104.127,443,true,FRA,Europe,Frankfurt
+185.40.7.249,443,true,TLL,Europe,Tallinn
+185.117.116.134,443,true,CDG,Europe,Paris
+185.40.7.69,443,true,TLL,Europe,Tallinn
+185.40.7.69,443,true,DME,Europe,Moscow
+185.186.246.210,443,true,AMS,Europe,Amsterdam
+185.87.150.54,443,true,CDG,Europe,Paris
+185.188.181.187,443,true,DME,Europe,Moscow
+185.229.65.253,443,true,FRA,Europe,Frankfurt
+185.245.106.96,443,true,AMS,Europe,Amsterdam
+185.58.207.12,443,true,LED,Europe,Saint Petersburg
+185.188.181.49,443,true,ARN,Europe,Stockholm
+185.14.97.156,443,true,OSL,Europe,Oslo
+185.162.9.174,443,true,AMS,Europe,Amsterdam
+185.212.149.127,443,true,ARN,Europe,Stockholm
+185.200.191.136,8443,true,EWR,North America,Newark
+185.243.112.197,443,true,AMS,Europe,Amsterdam
+185.186.244.116,443,true,AMS,Europe,Amsterdam
+185.66.165.51,443,true,FRA,Europe,Frankfurt
+185.208.180.168,443,true,YUL,North America,Montréal
+185.39.206.40,443,true,AMS,Europe,Amsterdam
+185.66.164.51,443,true,LHR,Europe,London
+185.5.55.62,443,true,WAW,Europe,Warsaw
+185.225.201.194,443,true,FRA,Europe,Frankfurt
+185.225.201.204,443,true,FRA,Europe,Frankfurt
+185.40.7.249,443,true,CDG,Europe,Paris
+185.78.76.253,443,true,FRA,Europe,Frankfurt
+185.104.250.204,443,true,ARN,Europe,Stockholm
+185.213.211.29,443,true,AMS,Europe,Amsterdam
+185.233.202.96,443,true,AMS,Europe,Amsterdam
+185.40.7.69,443,true,SIN,Asia Pacific,Singapore
+185.40.7.69,443,true,WAW,Europe,Warsaw
+185.209.162.35,443,true,AMS,Europe,Amsterdam
+185.40.7.69,443,true,AMS,Europe,Amsterdam
+185.69.52.153,443,true,WAW,Europe,Warsaw
+185.82.218.224,443,true,SOF,Europe,Sofia
+185.225.201.211,443,true,FRA,Europe,Frankfurt
+185.8.60.108,443,true,RIX,Europe,Riga
+185.80.130.156,443,true,VNO,Europe,Vilnius
+185.8.129.187,443,true,IST,Europe,Istanbul
+185.8.60.113,443,true,RIX,Europe,Riga
+185.229.65.2,443,true,FRA,Europe,Frankfurt
+185.36.147.70,443,true,SOF,Europe,Sofia
+185.68.93.39,443,true,SOF,Europe,Sofia
+185.233.203.134,443,true,AMS,Europe,Amsterdam
+185.225.201.210,443,true,FRA,Europe,Frankfurt
+185.229.65.234,443,true,FRA,Europe,Frankfurt
+185.217.197.23,443,true,FRA,Europe,Frankfurt
+185.200.191.136,2053,true,EWR,North America,Newark
+185.233.82.24,443,true,ARN,Europe,Stockholm
+185.221.198.211,443,true,FRA,Europe,Frankfurt
+185.188.147.79,443,true,WAW,Europe,Warsaw
+185.117.119.143,443,true,HEL,Europe,Helsinki
+185.103.255.196,443,true,AMS,Europe,Amsterdam
+185.232.170.30,443,true,SOF,Europe,Sofia
+185.103.255.186,443,true,AMS,Europe,Amsterdam
+185.52.1.18,443,true,AMS,Europe,Amsterdam
+185.225.201.236,443,true,FRA,Europe,Frankfurt
+185.233.82.55,443,true,HEL,Europe,Helsinki
+185.104.250.39,443,true,HEL,Europe,Helsinki
+185.209.161.104,443,true,AMS,Europe,Amsterdam
+185.188.181.187,443,true,TLL,Europe,Tallinn
+185.188.181.214,443,true,HEL,Europe,Helsinki
+185.106.93.179,443,true,FRA,Europe,Frankfurt
+185.114.73.92,443,true,MAD,Europe,Madrid
+185.112.146.83,443,true,DUB,Europe,Dublin
+185.200.191.233,443,true,EWR,North America,Newark
+185.233.80.251,443,true,FRA,Europe,Frankfurt
+185.229.65.109,443,true,FRA,Europe,Frankfurt
+185.217.5.3,443,true,SIN,Asia Pacific,Singapore
+185.231.204.186,443,true,MAD,Europe,Madrid
+185.228.1.150,443,true,LAX,North America,Los Angeles
+185.219.220.197,443,true,FRA,Europe,Frankfurt
+185.183.84.233,443,true,LAX,North America,Los Angeles
+185.233.184.70,443,true,AMS,Europe,Amsterdam
+185.220.100.168,443,true,FRA,Europe,Frankfurt
+185.125.100.48,443,true,FRA,Europe,Frankfurt
+185.224.248.120,443,true,FRA,Europe,Frankfurt
+185.82.202.241,443,true,AMS,Europe,Amsterdam
+185.103.255.245,443,true,AMS,Europe,Amsterdam
+185.125.100.100,443,true,FRA,Europe,Frankfurt
+185.186.245.90,443,true,DFW,North America,Dallas
+185.224.133.146,443,true,AMS,Europe,Amsterdam
+185.147.127.120,443,true,FRA,Europe,Frankfurt
+185.223.93.86,443,true,AMS,Europe,Amsterdam
+185.106.94.67,443,true,FRA,Europe,Frankfurt
+185.104.181.228,443,true,OTP,Europe,Bucharest
+185.192.246.210,443,true,FRA,Europe,Frankfurt
+185.109.48.30,443,true,AMS,Europe,Amsterdam
+185.117.116.134,443,true,OSL,Europe,Oslo
+185.103.109.139,443,true,TLL,Europe,Tallinn
+185.203.243.56,443,true,AMS,Europe,Amsterdam
+185.228.138.109,443,true,FRA,Europe,Frankfurt
+185.103.109.139,443,true,CPH,Europe,Copenhagen
+185.217.197.166,443,true,FRA,Europe,Frankfurt
+185.233.202.195,443,true,AMS,Europe,Amsterdam
+185.233.203.106,443,true,AMS,Europe,Amsterdam
+185.103.255.239,443,true,AMS,Europe,Amsterdam
+186.67.70.55,443,true,SCL,South America,Santiago
+188.116.24.2,443,true,AMS,Europe,Amsterdam
+188.225.44.144,443,true,AMS,Europe,Amsterdam
+188.132.232.175,443,true,AMS,Europe,Amsterdam
+188.245.127.23,443,true,FRA,Europe,Frankfurt
+188.126.76.5,443,true,ARN,Europe,Stockholm
+188.245.153.51,443,true,CDG,Europe,Paris
+188.245.78.66,443,true,CDG,Europe,Paris
+188.132.184.84,443,true,IST,Europe,Istanbul
+188.116.20.93,443,true,TXL,Europe,Berlin
+188.64.14.180,443,true,WAW,Europe,Warsaw
+188.245.73.74,443,true,FRA,Europe,Frankfurt
+188.225.34.155,443,true,ARN,Europe,Stockholm
+188.64.15.141,443,true,WAW,Europe,Warsaw
+188.245.107.238,443,true,CDG,Europe,Paris
+188.253.6.210,443,true,TPE,Asia Pacific,Taipei
+188.130.206.93,443,true,TLL,Europe,Tallinn
+188.64.12.136,443,true,WAW,Europe,Warsaw
+188.116.26.105,443,true,AMS,Europe,Amsterdam
+188.225.34.155,443,true,DME,Europe,Moscow
+188.225.31.62,443,true,CDG,Europe,Paris
+188.93.140.125,443,true,ARN,Europe,Stockholm
+188.92.28.239,443,true,CDG,Europe,Paris
+188.64.14.115,443,true,ARN,Europe,Stockholm
+188.213.168.52,443,true,FCO,Europe,Rome
+188.40.57.101,443,true,EWR,North America,Newark
+188.119.113.222,443,true,AMS,Europe,Amsterdam
+188.130.154.155,443,true,ARN,Europe,Stockholm
+188.34.200.15,443,true,CDG,Europe,Paris
+188.68.39.235,443,true,FRA,Europe,Frankfurt
+188.245.145.207,443,true,FRA,Europe,Frankfurt
+188.225.31.62,443,true,ARN,Europe,Stockholm
+188.225.44.144,443,true,WAW,Europe,Warsaw
+188.245.66.203,443,true,CDG,Europe,Paris
+188.245.120.208,443,true,FRA,Europe,Frankfurt
+188.116.23.251,443,true,AMS,Europe,Amsterdam
+188.166.162.201,443,true,FRA,Europe,Frankfurt
+188.119.112.35,443,true,AMS,Europe,Amsterdam
+188.225.31.62,443,true,OSL,Europe,Oslo
+188.64.14.115,443,true,WAW,Europe,Warsaw
+188.225.31.62,443,true,AMS,Europe,Amsterdam
+188.132.183.166,443,true,AMS,Europe,Amsterdam
+188.253.112.218,443,true,HKG,Asia Pacific,Hong Kong
+188.130.206.93,443,true,DME,Europe,Moscow
+188.116.26.216,443,true,AMS,Europe,Amsterdam
+188.64.14.207,443,true,WAW,Europe,Warsaw
+188.225.44.144,443,true,DME,Europe,Moscow
+188.93.140.11,443,true,CPH,Europe,Copenhagen
+188.225.60.50,443,true,FRA,Europe,Frankfurt
+188.245.155.189,443,true,CDG,Europe,Paris
+188.225.34.155,443,true,AMS,Europe,Amsterdam
+188.68.35.84,443,true,FRA,Europe,Frankfurt
+188.245.120.205,443,true,FRA,Europe,Frankfurt
+188.212.124.32,443,true,AMS,Europe,Amsterdam
+188.64.15.47,443,true,VNO,Europe,Vilnius
+188.225.31.62,443,true,VIE,Europe,Vienna
+188.245.149.29,443,true,CDG,Europe,Paris
+188.64.12.136,443,true,ARN,Europe,Stockholm
+188.245.103.92,443,true,CDG,Europe,Paris
+188.225.34.155,443,true,CDG,Europe,Paris
+188.245.122.228,443,true,FRA,Europe,Frankfurt
+188.245.89.169,443,true,FRA,Europe,Frankfurt
+188.225.31.62,443,true,SIN,Asia Pacific,Singapore
+188.40.71.145,443,true,FRA,Europe,Frankfurt
+188.116.21.115,443,true,AMS,Europe,Amsterdam
+188.64.108.9,443,true,SIN,Asia Pacific,Singapore
+188.126.76.246,443,true,OSL,Europe,Oslo
+188.227.86.29,443,true,AMS,Europe,Amsterdam
+188.130.207.235,443,true,CDG,Europe,Paris
+188.166.78.56,443,true,AMS,Europe,Amsterdam
+188.116.40.37,443,true,HAM,Europe,Hamburg
+188.126.76.246,443,true,CPH,Europe,Copenhagen
+190.92.213.24,443,true,SIN,Asia Pacific,Singapore
+191.96.94.196,443,true,FRA,Europe,Frankfurt
+191.6.66.244,443,true,GRU,South America,São Paulo
+192.227.175.231,443,true,BUF,North America,Buffalo
+192.236.249.88,443,true,AMS,Europe,Amsterdam
+192.227.193.47,443,true,DFW,North America,Dallas
+192.236.249.96,443,true,AMS,Europe,Amsterdam
+192.237.192.175,443,true,DFW,North America,Dallas
+192.236.249.94,443,true,AMS,Europe,Amsterdam
+192.236.249.95,443,true,AMS,Europe,Amsterdam
+192.236.249.89,443,true,AMS,Europe,Amsterdam
+192.3.155.217,443,true,BUF,North America,Buffalo
+192.3.45.148,443,true,BUF,North America,Buffalo
+192.236.249.109,443,true,AMS,Europe,Amsterdam
+192.236.249.101,443,true,AMS,Europe,Amsterdam
+192.236.249.110,443,true,AMS,Europe,Amsterdam
+192.236.249.106,443,true,AMS,Europe,Amsterdam
+192.248.189.181,443,true,FRA,Europe,Frankfurt
+192.236.249.90,443,true,AMS,Europe,Amsterdam
+192.80.63.51,443,true,LAX,North America,Los Angeles
+192.236.249.98,443,true,AMS,Europe,Amsterdam
+192.46.237.174,443,true,FRA,Europe,Frankfurt
+192.248.181.13,443,true,FRA,Europe,Frankfurt
+192.236.249.100,443,true,AMS,Europe,Amsterdam
+192.3.228.23,443,true,DFW,North America,Dallas
+192.236.249.97,443,true,AMS,Europe,Amsterdam
+192.3.155.217,443,true,YYZ,North America,Toronto
+192.3.199.95,443,true,ORD,North America,Chicago
+192.236.249.93,443,true,AMS,Europe,Amsterdam
+192.144.39.33,443,true,ARN,Europe,Stockholm
+192.236.249.104,443,true,AMS,Europe,Amsterdam
+192.236.249.102,443,true,AMS,Europe,Amsterdam
+192.3.45.148,443,true,YYZ,North America,Toronto
+192.193.104.25,443,true,DFW,North America,Dallas
+192.236.249.103,443,true,AMS,Europe,Amsterdam
+192.3.85.13,443,true,ORD,North America,Chicago
+192.74.226.42,443,true,SJC,North America,San Jose
+192.210.161.147,443,true,BUF,North America,Buffalo
+192.3.127.23,443,true,SJC,North America,San Jose
+192.3.105.206,443,true,DFW,North America,Dallas
+192.210.161.147,443,true,YYZ,North America,Toronto
+192.3.86.224,443,true,SJC,North America,San Jose
+192.99.54.60,443,true,YYZ,North America,Toronto
+192.36.41.31,443,true,VNO,Europe,Vilnius
+192.248.177.3,443,true,FRA,Europe,Frankfurt
+192.248.146.32,443,true,LHR,Europe,London
+192.121.163.124,443,true,VNO,Europe,Vilnius
+192.236.249.111,443,true,AMS,Europe,Amsterdam
+192.236.249.107,443,true,AMS,Europe,Amsterdam
+192.227.247.75,443,true,LAX,North America,Los Angeles
+192.236.249.91,443,true,AMS,Europe,Amsterdam
+192.69.90.84,443,true,LAX,North America,Los Angeles
+192.3.239.197,443,true,BUF,North America,Buffalo
+192.236.249.105,443,true,AMS,Europe,Amsterdam
+192.158.242.133,443,true,SJC,North America,San Jose
+192.3.239.197,443,true,YYZ,North America,Toronto
+192.210.255.17,443,true,AMS,Europe,Amsterdam
+192.227.175.231,443,true,YYZ,North America,Toronto
+192.236.249.92,443,true,AMS,Europe,Amsterdam
+192.144.39.33,443,true,WAW,Europe,Warsaw
+192.236.193.108,443,true,AMS,Europe,Amsterdam
+192.243.127.224,443,true,KIX,Asia Pacific,Osaka
+193.200.16.159,443,true,WAW,Europe,Warsaw
+193.160.96.234,443,true,AMS,Europe,Amsterdam
+193.0.239.232,443,true,ARN,Europe,Stockholm
+193.124.189.208,443,true,AMS,Europe,Amsterdam
+193.168.143.152,443,true,OTP,Europe,Bucharest
+193.124.92.170,443,true,FRA,Europe,Frankfurt
+193.33.153.126,443,true,FRA,Europe,Frankfurt
+193.233.114.17,443,true,FRA,Europe,Frankfurt
+193.187.175.136,443,true,CDG,Europe,Paris
+193.164.155.140,443,true,TLL,Europe,Tallinn
+193.37.70.3,443,true,FRA,Europe,Frankfurt
+193.37.215.115,443,true,SOF,Europe,Sofia
+193.124.35.109,443,true,FRA,Europe,Frankfurt
+193.37.68.238,443,true,AMS,Europe,Amsterdam
+193.176.179.119,443,true,CDG,Europe,Paris
+193.178.210.240,443,true,EWR,North America,Newark
+193.164.155.140,443,true,DME,Europe,Moscow
+193.42.60.128,443,true,FRA,Europe,Frankfurt
+193.233.114.162,443,true,FRA,Europe,Frankfurt
+193.239.160.24,443,true,SOF,Europe,Sofia
+193.239.160.25,443,true,SOF,Europe,Sofia
+193.233.233.148,443,true,FRA,Europe,Frankfurt
+193.32.177.79,443,true,EWR,North America,Newark
+193.42.39.188,443,true,ARN,Europe,Stockholm
+193.33.153.92,443,true,FRA,Europe,Frankfurt
+193.239.160.39,443,true,SOF,Europe,Sofia
+193.176.179.214,443,true,CDG,Europe,Paris
+193.33.153.91,443,true,FRA,Europe,Frankfurt
+193.84.2.52,443,true,HEL,Europe,Helsinki
+193.33.153.240,443,true,FRA,Europe,Frankfurt
+193.188.21.181,443,true,FRA,Europe,Frankfurt
+193.233.115.7,443,true,FRA,Europe,Frankfurt
+193.26.157.66,443,true,FRA,Europe,Frankfurt
+193.3.168.163,443,true,AMS,Europe,Amsterdam
+193.0.239.232,443,true,RIX,Europe,Riga
+193.233.207.35,443,true,DFW,North America,Dallas
+193.31.41.42,443,true,CDG,Europe,Paris
+193.233.202.153,443,true,OTP,Europe,Bucharest
+193.124.22.20,443,true,VNO,Europe,Vilnius
+193.37.68.184,443,true,AMS,Europe,Amsterdam
+193.124.188.208,443,true,AMS,Europe,Amsterdam
+193.84.2.206,443,true,HEL,Europe,Helsinki
+193.37.68.164,443,true,AMS,Europe,Amsterdam
+193.226.77.245,443,true,FRA,Europe,Frankfurt
+193.187.173.156,443,true,AMS,Europe,Amsterdam
+193.233.133.77,443,true,FRA,Europe,Frankfurt
+193.31.41.42,443,true,AMS,Europe,Amsterdam
+193.124.180.14,443,true,ARN,Europe,Stockholm
+193.176.153.197,443,true,CDG,Europe,Paris
+193.56.3.163,443,true,AMS,Europe,Amsterdam
+193.47.100.208,443,true,FRA,Europe,Frankfurt
+193.188.21.127,443,true,FRA,Europe,Frankfurt
+193.93.153.82,443,true,AMS,Europe,Amsterdam
+193.160.96.232,443,true,AMS,Europe,Amsterdam
+193.124.44.3,443,true,AMS,Europe,Amsterdam
+193.33.153.151,443,true,FRA,Europe,Frankfurt
+193.239.160.45,443,true,SOF,Europe,Sofia
+193.124.24.238,443,true,DFW,North America,Dallas
+193.84.2.64,443,true,HEL,Europe,Helsinki
+193.124.41.23,443,true,WAW,Europe,Warsaw
+193.176.153.198,443,true,CDG,Europe,Paris
+193.109.84.39,443,true,TXL,Europe,Berlin
+193.164.155.66,443,true,TLL,Europe,Tallinn
+193.124.180.241,443,true,HEL,Europe,Helsinki
+193.124.22.183,443,true,VNO,Europe,Vilnius
+193.109.69.48,443,true,AMS,Europe,Amsterdam
+193.233.204.4,443,true,DFW,North America,Dallas
+193.32.178.24,443,true,AMS,Europe,Amsterdam
+194.67.200.82,443,true,TXL,Europe,Berlin
+194.135.119.225,443,true,TBS,Europe,Tbilisi
+194.58.33.42,443,true,FRA,Europe,Frankfurt
+194.67.200.244,443,true,WAW,Europe,Warsaw
+194.116.172.220,443,true,HEL,Europe,Helsinki
+194.26.232.141,443,true,AMS,Europe,Amsterdam
+194.87.18.92,443,true,ZRH,Europe,Zurich
+194.247.187.181,443,true,FRA,Europe,Frankfurt
+194.62.98.130,443,true,MAD,Europe,Madrid
+194.87.186.123,443,true,AMS,Europe,Amsterdam
+194.87.54.157,443,true,FRA,Europe,Frankfurt
+194.146.24.240,443,true,LHR,Europe,London
+194.87.85.163,443,true,FRA,Europe,Frankfurt
+194.147.149.55,443,true,AMS,Europe,Amsterdam
+194.116.172.110,443,true,TXL,Europe,Berlin
+194.105.5.28,443,true,OTP,Europe,Bucharest
+194.87.54.121,443,true,FRA,Europe,Frankfurt
+194.87.199.135,443,true,FRA,Europe,Frankfurt
+194.5.97.156,443,true,AMS,Europe,Amsterdam
+194.120.116.216,443,true,AMS,Europe,Amsterdam
+194.36.191.16,443,true,AMS,Europe,Amsterdam
+194.180.189.211,443,true,HEL,Europe,Helsinki
+194.146.38.48,443,true,AMS,Europe,Amsterdam
+194.147.115.132,443,true,AMS,Europe,Amsterdam
+194.147.33.29,443,true,AMS,Europe,Amsterdam
+194.87.208.39,443,true,FRA,Europe,Frankfurt
+194.147.33.188,443,true,AMS,Europe,Amsterdam
+194.60.135.138,443,true,AMS,Europe,Amsterdam
+194.246.81.250,443,true,AMS,Europe,Amsterdam
+194.246.81.230,443,true,AMS,Europe,Amsterdam
+194.58.33.218,443,true,FRA,Europe,Frankfurt
+194.54.157.74,443,true,AMS,Europe,Amsterdam
+194.116.172.220,443,true,LED,Europe,Saint Petersburg
+194.60.133.114,443,true,AMS,Europe,Amsterdam
+194.32.79.161,443,true,FRA,Europe,Frankfurt
+194.58.68.145,443,true,AMS,Europe,Amsterdam
+194.5.97.149,443,true,AMS,Europe,Amsterdam
+194.58.33.79,443,true,FRA,Europe,Frankfurt
+194.113.106.142,443,true,AMS,Europe,Amsterdam
+194.38.20.78,443,true,KBP,Europe,Kyiv
+194.164.35.219,443,true,AMS,Europe,Amsterdam
+194.87.54.121,80,true,FRA,Europe,Frankfurt
+194.164.33.236,443,true,AMS,Europe,Amsterdam
+194.105.5.28,443,true,SOF,Europe,Sofia
+194.246.81.122,443,true,AMS,Europe,Amsterdam
+194.164.32.50,443,true,AMS,Europe,Amsterdam
+194.67.200.82,443,true,HEL,Europe,Helsinki
+194.59.247.154,443,true,AMS,Europe,Amsterdam
+194.54.156.74,443,true,AMS,Europe,Amsterdam
+194.127.178.199,443,true,AMS,Europe,Amsterdam
+194.59.247.193,443,true,AMS,Europe,Amsterdam
+194.58.40.142,443,true,AMS,Europe,Amsterdam
+194.180.189.36,443,true,CPH,Europe,Copenhagen
+194.58.34.139,443,true,VNO,Europe,Vilnius
+194.0.194.222,443,true,AMS,Europe,Amsterdam
+194.87.208.209,443,true,AMS,Europe,Amsterdam
+194.116.217.61,443,true,CDG,Europe,Paris
+194.113.106.142,443,true,DME,Europe,Moscow
+194.246.82.213,443,true,AMS,Europe,Amsterdam
+194.32.98.131,443,true,AMS,Europe,Amsterdam
+194.116.216.160,443,true,AMS,Europe,Amsterdam
+194.87.62.139,443,true,AMS,Europe,Amsterdam
+194.116.172.120,443,true,HEL,Europe,Helsinki
+194.87.25.87,443,true,AMS,Europe,Amsterdam
+194.99.20.42,443,true,FRA,Europe,Frankfurt
+194.87.252.20,443,true,ARN,Europe,Stockholm
+194.59.247.107,443,true,AMS,Europe,Amsterdam
+194.135.104.96,443,true,DFW,North America,Dallas
+194.35.119.193,443,true,FRA,Europe,Frankfurt
+194.53.54.30,443,true,ARN,Europe,Stockholm
+194.164.35.86,443,true,AMS,Europe,Amsterdam
+194.28.225.2,443,true,FRA,Europe,Frankfurt
+194.127.178.104,443,true,AMS,Europe,Amsterdam
+194.87.199.59,443,true,FRA,Europe,Frankfurt
+194.146.123.241,443,true,LHR,Europe,London
+194.87.55.30,443,true,FRA,Europe,Frankfurt
+194.87.208.54,443,true,FRA,Europe,Frankfurt
+194.28.224.99,443,true,FRA,Europe,Frankfurt
+194.58.33.103,443,true,FRA,Europe,Frankfurt
+194.87.85.161,443,true,FRA,Europe,Frankfurt
+194.164.32.32,443,true,AMS,Europe,Amsterdam
+194.135.119.226,443,true,SOF,Europe,Sofia
+194.54.158.215,443,true,AMS,Europe,Amsterdam
+194.127.178.43,443,true,AMS,Europe,Amsterdam
+194.58.33.237,443,true,FRA,Europe,Frankfurt
+194.58.39.80,443,true,AMS,Europe,Amsterdam
+194.156.99.186,443,true,HKG,Asia Pacific,Hong Kong
+194.60.133.33,443,true,AMS,Europe,Amsterdam
+194.59.247.202,443,true,AMS,Europe,Amsterdam
+194.87.77.95,443,true,FRA,Europe,Frankfurt
+194.147.33.13,443,true,AMS,Europe,Amsterdam
+194.26.213.108,443,true,DUB,Europe,Dublin
+194.87.189.83,443,true,FRA,Europe,Frankfurt
+194.54.157.81,443,true,AMS,Europe,Amsterdam
+194.36.170.247,443,true,CDG,Europe,Paris
+194.36.27.67,443,true,AMS,Europe,Amsterdam
+194.87.35.108,443,true,AMS,Europe,Amsterdam
+194.67.200.183,443,true,HEL,Europe,Helsinki
+194.54.158.187,443,true,AMS,Europe,Amsterdam
+194.147.115.149,443,true,AMS,Europe,Amsterdam
+194.87.62.198,443,true,AMS,Europe,Amsterdam
+194.113.106.142,443,true,SIN,Asia Pacific,Singapore
+194.116.172.110,443,true,HEL,Europe,Helsinki
+194.26.232.203,443,true,AMS,Europe,Amsterdam
+194.116.172.120,443,true,TXL,Europe,Berlin
+194.60.135.188,443,true,AMS,Europe,Amsterdam
+194.0.194.145,443,true,AMS,Europe,Amsterdam
+195.133.38.227,443,true,AMS,Europe,Amsterdam
+195.133.65.232,443,true,FRA,Europe,Frankfurt
+195.135.254.75,443,true,ARN,Europe,Stockholm
+195.133.13.93,443,true,WAW,Europe,Warsaw
+195.141.59.27,443,true,ZRH,Europe,Zurich
+195.85.250.187,443,true,AMS,Europe,Amsterdam
+195.58.50.12,443,true,AMS,Europe,Amsterdam
+195.135.253.118,443,true,VNO,Europe,Vilnius
+195.133.38.182,443,true,AMS,Europe,Amsterdam
+195.201.148.147,443,true,CDG,Europe,Paris
+195.133.28.160,443,true,FRA,Europe,Frankfurt
+195.133.75.35,443,true,AMS,Europe,Amsterdam
+195.200.19.96,443,true,AMS,Europe,Amsterdam
+195.123.212.20,443,true,RIX,Europe,Riga
+195.238.126.94,443,true,WAW,Europe,Warsaw
+195.58.50.114,443,true,AMS,Europe,Amsterdam
+195.135.255.199,443,true,TXL,Europe,Berlin
+195.135.253.158,443,true,VNO,Europe,Vilnius
+195.135.253.29,443,true,WAW,Europe,Warsaw
+195.133.75.188,443,true,AMS,Europe,Amsterdam
+195.135.254.133,443,true,WAW,Europe,Warsaw
+195.133.64.240,443,true,FRA,Europe,Frankfurt
+195.133.39.33,443,true,AMS,Europe,Amsterdam
+195.133.26.45,443,true,FRA,Europe,Frankfurt
+195.184.247.10,443,true,LHR,Europe,London
+195.133.64.12,443,true,FRA,Europe,Frankfurt
+195.133.28.11,443,true,FRA,Europe,Frankfurt
+195.135.254.75,443,true,WAW,Europe,Warsaw
+195.54.175.178,443,true,AMS,Europe,Amsterdam
+195.54.33.164,443,true,FRA,Europe,Frankfurt
+195.74.86.157,443,true,AMS,Europe,Amsterdam
+195.58.50.134,443,true,AMS,Europe,Amsterdam
+195.135.253.136,443,true,WAW,Europe,Warsaw
+195.135.252.246,443,true,VNO,Europe,Vilnius
+195.201.37.216,443,true,FRA,Europe,Frankfurt
+195.133.39.185,443,true,AMS,Europe,Amsterdam
+195.133.2.18,443,true,FRA,Europe,Frankfurt
+195.133.17.189,443,true,AMS,Europe,Amsterdam
+195.123.244.207,443,true,PRG,Europe,Prague
+195.238.126.93,443,true,VNO,Europe,Vilnius
+195.133.39.89,443,true,AMS,Europe,Amsterdam
+195.245.239.126,443,true,FRA,Europe,Frankfurt
+195.133.79.154,443,true,AMS,Europe,Amsterdam
+195.135.254.64,443,true,WAW,Europe,Warsaw
+195.133.28.180,443,true,FRA,Europe,Frankfurt
+195.135.252.244,443,true,VNO,Europe,Vilnius
+195.245.113.28,443,true,AMS,Europe,Amsterdam
+195.234.62.215,443,true,FRA,Europe,Frankfurt
+195.135.254.134,443,true,WAW,Europe,Warsaw
+195.135.255.174,443,true,WAW,Europe,Warsaw
+195.133.28.126,443,true,FRA,Europe,Frankfurt
+195.135.252.139,443,true,ARN,Europe,Stockholm
+195.58.50.233,443,true,AMS,Europe,Amsterdam
+195.200.26.225,443,true,AMS,Europe,Amsterdam
+195.181.244.107,443,true,VNO,Europe,Vilnius
+195.238.126.52,443,true,VNO,Europe,Vilnius
+195.184.247.8,443,true,LHR,Europe,London
+195.246.230.155,443,true,KEF,Europe,Reykjavík
+195.123.230.40,443,true,SOF,Europe,Sofia
+195.133.47.217,443,true,FRA,Europe,Frankfurt
+195.184.247.6,443,true,LHR,Europe,London
+195.135.253.248,443,true,VNO,Europe,Vilnius
+195.135.253.29,443,true,ARN,Europe,Stockholm
+195.200.18.248,443,true,AMS,Europe,Amsterdam
+195.201.231.143,443,true,CDG,Europe,Paris
+195.123.212.250,443,true,RIX,Europe,Riga
+195.135.254.164,443,true,VNO,Europe,Vilnius
+195.245.239.115,443,true,FRA,Europe,Frankfurt
+195.200.19.123,443,true,AMS,Europe,Amsterdam
+195.200.16.44,443,true,AMS,Europe,Amsterdam
+195.200.19.132,443,true,AMS,Europe,Amsterdam
+195.54.174.74,443,true,AMS,Europe,Amsterdam
+195.135.252.139,443,true,WAW,Europe,Warsaw
+195.245.239.241,443,true,FRA,Europe,Frankfurt
+195.245.113.245,443,true,AMS,Europe,Amsterdam
+195.10.205.100,443,true,FRA,Europe,Frankfurt
+195.133.2.28,443,true,FRA,Europe,Frankfurt
+195.141.65.98,443,true,ZRH,Europe,Zurich
+195.135.255.199,443,true,WAW,Europe,Warsaw
+195.135.253.136,443,true,ARN,Europe,Stockholm
+195.184.247.9,443,true,LHR,Europe,London
+198.41.219.86,443,true,SEA,North America,Seattle
+198.41.219.79,443,true,SEA,North America,Seattle
+198.41.219.33,443,true,SEA,North America,Seattle
+198.41.219.4,443,true,SEA,North America,Seattle
+198.41.219.85,443,true,SEA,North America,Seattle
+198.41.219.10,443,true,SEA,North America,Seattle
+198.41.219.191,443,true,SEA,North America,Seattle
+198.41.219.187,443,true,SEA,North America,Seattle
+198.41.219.103,443,true,SEA,North America,Seattle
+198.41.219.6,443,true,SEA,North America,Seattle
+198.41.219.58,443,true,SEA,North America,Seattle
+198.41.219.17,443,true,SEA,North America,Seattle
+198.41.219.185,443,true,SJC,North America,San Jose
+198.41.219.172,443,true,SEA,North America,Seattle
+198.41.219.80,443,true,SEA,North America,Seattle
+198.41.219.25,443,true,SEA,North America,Seattle
+198.41.219.0,443,true,SEA,North America,Seattle
+198.41.219.168,443,true,SJC,North America,San Jose
+198.41.219.46,443,true,SEA,North America,Seattle
+198.41.219.20,443,true,SEA,North America,Seattle
+198.23.196.250,443,true,BUF,North America,Buffalo
+198.41.219.32,443,true,SEA,North America,Seattle
+198.41.219.201,443,true,SEA,North America,Seattle
+198.41.219.188,443,true,SJC,North America,San Jose
+198.41.219.168,443,true,SEA,North America,Seattle
+198.41.219.188,443,true,SEA,North America,Seattle
+198.41.219.187,443,true,SJC,North America,San Jose
+198.41.219.190,443,true,SJC,North America,San Jose
+198.23.196.250,443,true,YYZ,North America,Toronto
+198.41.219.185,443,true,SEA,North America,Seattle
+198.41.219.166,443,true,SJC,North America,San Jose
+198.41.219.105,443,true,SEA,North America,Seattle
+198.41.219.76,443,true,SJC,North America,San Jose
+198.41.219.174,443,true,SEA,North America,Seattle
+198.41.219.175,443,true,SJC,North America,San Jose
+198.41.219.84,443,true,SEA,North America,Seattle
+198.41.219.162,443,true,SJC,North America,San Jose
+198.41.219.76,443,true,SEA,North America,Seattle
+198.41.219.37,443,true,SEA,North America,Seattle
+198.12.74.78,443,true,DFW,North America,Dallas
+198.41.219.186,443,true,SJC,North America,San Jose
+198.41.219.15,443,true,SEA,North America,Seattle
+198.41.219.113,443,true,SEA,North America,Seattle
+198.41.219.19,443,true,SEA,North America,Seattle
+198.41.219.87,443,true,SEA,North America,Seattle
+198.41.219.200,443,true,SJC,North America,San Jose
+198.41.219.11,443,true,SEA,North America,Seattle
+198.41.219.2,443,true,SEA,North America,Seattle
+198.41.219.83,443,true,SEA,North America,Seattle
+198.41.219.30,443,true,SJC,North America,San Jose
+198.41.219.170,443,true,SEA,North America,Seattle
+198.41.219.186,443,true,SEA,North America,Seattle
+198.41.219.56,443,true,SEA,North America,Seattle
+198.41.219.194,443,true,SJC,North America,San Jose
+198.41.219.42,443,true,SEA,North America,Seattle
+198.41.219.52,443,true,SJC,North America,San Jose
+198.41.219.61,443,true,SEA,North America,Seattle
+198.41.219.93,443,true,SEA,North America,Seattle
+198.41.219.91,443,true,SEA,North America,Seattle
+198.41.219.118,443,true,SEA,North America,Seattle
+198.41.219.95,443,true,SEA,North America,Seattle
+198.41.219.184,443,true,SEA,North America,Seattle
+198.41.219.200,443,true,SEA,North America,Seattle
+198.41.219.160,443,true,SEA,North America,Seattle
+198.41.219.123,443,true,SJC,North America,San Jose
+198.41.219.154,443,true,SEA,North America,Seattle
+198.41.219.73,443,true,SJC,North America,San Jose
+198.41.219.140,443,true,SJC,North America,San Jose
+198.41.219.10,443,true,SJC,North America,San Jose
+198.41.219.129,443,true,SJC,North America,San Jose
+198.41.219.35,443,true,SJC,North America,San Jose
+198.41.219.51,443,true,SJC,North America,San Jose
+198.41.219.133,443,true,SJC,North America,San Jose
+198.41.219.79,443,true,SJC,North America,San Jose
+198.41.219.122,443,true,SEA,North America,Seattle
+198.41.219.137,443,true,SJC,North America,San Jose
+198.41.219.20,443,true,SJC,North America,San Jose
+198.41.219.113,443,true,SJC,North America,San Jose
+198.41.219.150,443,true,SEA,North America,Seattle
+198.41.219.120,443,true,SJC,North America,San Jose
+198.41.219.135,443,true,SJC,North America,San Jose
+198.41.219.196,443,true,SJC,North America,San Jose
+198.41.219.50,443,true,SJC,North America,San Jose
+198.41.219.99,443,true,SJC,North America,San Jose
+198.41.219.160,443,true,SJC,North America,San Jose
+198.41.219.34,443,true,SJC,North America,San Jose
+198.41.219.144,443,true,SEA,North America,Seattle
+198.41.219.120,443,true,SEA,North America,Seattle
+198.41.219.46,443,true,SJC,North America,San Jose
+198.41.219.1,443,true,SJC,North America,San Jose
+198.41.219.118,443,true,SJC,North America,San Jose
+198.41.219.47,443,true,SJC,North America,San Jose
+198.41.219.16,443,true,SJC,North America,San Jose
+198.41.219.153,443,true,SEA,North America,Seattle
+198.41.219.89,443,true,SEA,North America,Seattle
+198.41.219.143,443,true,SEA,North America,Seattle
+198.41.219.143,443,true,SJC,North America,San Jose
+198.41.219.54,443,true,SJC,North America,San Jose
+198.41.219.55,443,true,SJC,North America,San Jose
+198.41.219.69,443,true,SEA,North America,Seattle
+198.41.219.41,443,true,SEA,North America,Seattle
+198.41.219.0,443,true,SJC,North America,San Jose
+198.41.219.107,443,true,SJC,North America,San Jose
+198.41.219.88,443,true,SEA,North America,Seattle
+198.41.219.112,443,true,SJC,North America,San Jose
+198.41.219.139,443,true,SJC,North America,San Jose
+198.41.219.13,443,true,SEA,North America,Seattle
+198.41.219.25,443,true,SJC,North America,San Jose
+198.41.219.119,443,true,SJC,North America,San Jose
+198.41.219.94,443,true,SJC,North America,San Jose
+198.41.219.163,443,true,SEA,North America,Seattle
+198.41.219.85,443,true,SJC,North America,San Jose
+198.41.219.5,443,true,SJC,North America,San Jose
+198.41.219.114,443,true,SJC,North America,San Jose
+198.41.219.196,443,true,SEA,North America,Seattle
+198.41.219.115,443,true,SEA,North America,Seattle
+198.41.219.138,443,true,SEA,North America,Seattle
+198.41.219.133,443,true,SEA,North America,Seattle
+198.41.219.99,443,true,SEA,North America,Seattle
+198.41.219.27,443,true,SEA,North America,Seattle
+198.41.219.83,443,true,SJC,North America,San Jose
+198.41.219.60,443,true,SEA,North America,Seattle
+198.41.219.97,443,true,SEA,North America,Seattle
+198.41.219.23,443,true,SJC,North America,San Jose
+198.41.219.153,443,true,SJC,North America,San Jose
+198.41.219.138,443,true,SJC,North America,San Jose
+198.41.219.136,443,true,SJC,North America,San Jose
+198.41.219.7,443,true,SJC,North America,San Jose
+198.41.219.110,443,true,SJC,North America,San Jose
+198.41.219.159,443,true,SEA,North America,Seattle
+198.41.219.38,443,true,SEA,North America,Seattle
+198.41.219.108,443,true,SEA,North America,Seattle
+198.41.219.53,443,true,SJC,North America,San Jose
+198.41.219.195,443,true,SJC,North America,San Jose
+198.41.219.131,443,true,SEA,North America,Seattle
+198.41.219.67,443,true,SJC,North America,San Jose
+198.41.219.3,443,true,SJC,North America,San Jose
+198.41.219.31,443,true,SJC,North America,San Jose
+198.41.219.140,443,true,SEA,North America,Seattle
+198.41.219.42,443,true,SJC,North America,San Jose
+198.41.219.115,443,true,SJC,North America,San Jose
+198.41.219.155,443,true,SJC,North America,San Jose
+198.41.219.68,443,true,SJC,North America,San Jose
+198.41.219.40,443,true,SEA,North America,Seattle
+198.41.219.58,443,true,SJC,North America,San Jose
+198.41.219.137,443,true,SEA,North America,Seattle
+198.41.219.134,443,true,SEA,North America,Seattle
+198.41.219.201,443,true,SJC,North America,San Jose
+198.41.219.141,443,true,SEA,North America,Seattle
+198.41.219.12,443,true,SJC,North America,San Jose
+198.41.219.39,443,true,SJC,North America,San Jose
+198.41.219.19,443,true,SJC,North America,San Jose
+198.41.219.130,443,true,SEA,North America,Seattle
+198.41.219.142,443,true,SEA,North America,Seattle
+198.41.219.84,443,true,SJC,North America,San Jose
+198.41.219.8,443,true,SEA,North America,Seattle
+198.41.219.74,443,true,SJC,North America,San Jose
+198.41.219.77,443,true,SJC,North America,San Jose
+198.41.219.80,443,true,SJC,North America,San Jose
+198.41.219.96,443,true,SJC,North America,San Jose
+198.41.219.17,443,true,SJC,North America,San Jose
+198.41.219.86,443,true,SJC,North America,San Jose
+198.41.219.198,443,true,SJC,North America,San Jose
+198.41.219.109,443,true,SJC,North America,San Jose
+198.41.219.82,443,true,SEA,North America,Seattle
+198.41.219.165,443,true,SEA,North America,Seattle
+198.41.219.116,443,true,SJC,North America,San Jose
+198.41.219.66,443,true,SJC,North America,San Jose
+198.41.219.6,443,true,SJC,North America,San Jose
+198.41.219.30,443,true,SEA,North America,Seattle
+198.41.219.195,443,true,SEA,North America,Seattle
+198.41.219.129,443,true,SEA,North America,Seattle
+198.41.219.191,443,true,SJC,North America,San Jose
+198.41.219.8,443,true,SJC,North America,San Jose
+198.41.219.89,443,true,SJC,North America,San Jose
+198.41.219.134,443,true,SJC,North America,San Jose
+198.41.219.102,443,true,SJC,North America,San Jose
+198.41.219.199,443,true,SJC,North America,San Jose
+198.41.219.60,443,true,SJC,North America,San Jose
+198.41.219.95,443,true,SJC,North America,San Jose
+198.41.219.14,443,true,SJC,North America,San Jose
+198.41.219.77,443,true,SEA,North America,Seattle
+198.41.219.24,443,true,SEA,North America,Seattle
+198.23.254.51,443,true,SJC,North America,San Jose
+198.41.219.147,443,true,SEA,North America,Seattle
+198.41.219.135,443,true,SEA,North America,Seattle
+198.41.219.13,443,true,SJC,North America,San Jose
+198.41.219.90,443,true,SJC,North America,San Jose
+198.41.219.91,443,true,SJC,North America,San Jose
+198.41.219.116,443,true,SEA,North America,Seattle
+198.41.219.226,443,true,SEA,North America,Seattle
+198.41.219.36,443,true,SJC,North America,San Jose
+198.41.219.125,443,true,SEA,North America,Seattle
+198.41.219.4,443,true,SJC,North America,San Jose
+198.41.219.49,443,true,SJC,North America,San Jose
+198.41.219.56,443,true,SJC,North America,San Jose
+198.41.219.9,443,true,SJC,North America,San Jose
+198.41.219.65,443,true,SJC,North America,San Jose
+198.23.246.141,443,true,SJC,North America,San Jose
+198.41.219.132,443,true,SEA,North America,Seattle
+198.41.219.93,443,true,SJC,North America,San Jose
+198.41.219.142,443,true,SJC,North America,San Jose
+198.41.219.37,443,true,SJC,North America,San Jose
+198.41.219.78,443,true,SJC,North America,San Jose
+198.41.219.22,443,true,SJC,North America,San Jose
+198.41.219.105,443,true,SJC,North America,San Jose
+198.41.219.151,443,true,SEA,North America,Seattle
+198.41.219.2,443,true,SJC,North America,San Jose
+198.41.219.69,443,true,SJC,North America,San Jose
+198.41.219.128,443,true,SEA,North America,Seattle
+198.41.219.41,443,true,SJC,North America,San Jose
+198.41.219.167,443,true,SEA,North America,Seattle
+198.41.219.15,443,true,SJC,North America,San Jose
+198.41.219.97,443,true,SJC,North America,San Jose
+198.41.219.87,443,true,SJC,North America,San Jose
+198.41.219.38,443,true,SJC,North America,San Jose
+198.41.219.198,443,true,SEA,North America,Seattle
+198.41.219.110,443,true,SEA,North America,Seattle
+198.41.219.127,443,true,SEA,North America,Seattle
+198.41.219.1,443,true,SEA,North America,Seattle
+198.41.219.27,443,true,SJC,North America,San Jose
+198.41.219.123,443,true,SEA,North America,Seattle
+198.41.219.165,443,true,SJC,North America,San Jose
+198.41.219.156,443,true,SEA,North America,Seattle
+198.41.219.81,443,true,SJC,North America,San Jose
+198.41.219.107,443,true,SEA,North America,Seattle
+198.41.219.26,443,true,SJC,North America,San Jose
+198.41.219.40,443,true,SJC,North America,San Jose
+198.41.219.88,443,true,SJC,North America,San Jose
+198.41.219.32,443,true,SJC,North America,San Jose
+198.41.219.192,443,true,SJC,North America,San Jose
+198.41.219.177,443,true,SJC,North America,San Jose
+198.41.219.152,443,true,SEA,North America,Seattle
+198.41.219.136,443,true,SEA,North America,Seattle
+198.41.219.109,443,true,SEA,North America,Seattle
+198.41.219.33,443,true,SJC,North America,San Jose
+198.41.219.75,443,true,SJC,North America,San Jose
+198.41.219.47,443,true,SEA,North America,Seattle
+198.41.219.82,443,true,SJC,North America,San Jose
+198.41.219.148,443,true,SEA,North America,Seattle
+198.41.219.108,443,true,SJC,North America,San Jose
+198.41.219.43,443,true,SJC,North America,San Jose
+198.41.219.61,443,true,SJC,North America,San Jose
+198.41.219.50,443,true,SEA,North America,Seattle
+198.41.219.163,443,true,SJC,North America,San Jose
+198.41.219.212,443,true,SEA,North America,Seattle
+198.41.219.169,443,true,SJC,North America,San Jose
+198.41.219.150,443,true,SJC,North America,San Jose
+198.41.219.22,443,true,SEA,North America,Seattle
+198.41.219.94,443,true,SEA,North America,Seattle
+198.41.219.90,443,true,SEA,North America,Seattle
+198.41.219.157,443,true,SEA,North America,Seattle
+198.41.219.36,443,true,SEA,North America,Seattle
+198.41.219.70,443,true,SEA,North America,Seattle
+198.41.219.78,443,true,SEA,North America,Seattle
+198.41.219.152,443,true,SJC,North America,San Jose
+198.41.219.106,443,true,SJC,North America,San Jose
+198.41.219.151,443,true,SJC,North America,San Jose
+198.41.219.75,443,true,SEA,North America,Seattle
+198.41.219.175,443,true,SEA,North America,Seattle
+198.41.219.206,443,true,SEA,North America,Seattle
+198.41.219.31,443,true,SEA,North America,Seattle
+198.41.219.148,443,true,SJC,North America,San Jose
+198.41.219.24,443,true,SJC,North America,San Jose
+198.41.219.155,443,true,SEA,North America,Seattle
+198.41.219.167,443,true,SJC,North America,San Jose
+198.41.219.147,443,true,SJC,North America,San Jose
+198.41.219.5,443,true,SEA,North America,Seattle
+198.41.219.121,443,true,SEA,North America,Seattle
+198.41.219.189,443,true,SEA,North America,Seattle
+198.41.219.171,443,true,SEA,North America,Seattle
+198.41.219.213,443,true,SEA,North America,Seattle
+198.41.219.177,443,true,SEA,North America,Seattle
+198.41.219.121,443,true,SJC,North America,San Jose
+198.41.219.102,443,true,SEA,North America,Seattle
+198.41.219.106,443,true,SEA,North America,Seattle
+198.41.219.100,443,true,SJC,North America,San Jose
+198.41.219.171,443,true,SJC,North America,San Jose
+198.41.219.53,443,true,SEA,North America,Seattle
+198.144.183.24,443,true,ORD,North America,Chicago
+198.41.219.229,443,true,SEA,North America,Seattle
+198.41.219.157,443,true,SJC,North America,San Jose
+198.41.219.70,443,true,SJC,North America,San Jose
+198.41.219.3,443,true,SEA,North America,Seattle
+198.12.123.64,443,true,YYZ,North America,Toronto
+198.41.219.211,443,true,SEA,North America,Seattle
+198.160.7.51,443,true,BOS,North America,Boston
+198.41.219.74,443,true,SEA,North America,Seattle
+198.12.123.64,443,true,BUF,North America,Buffalo
+198.41.219.227,443,true,SEA,North America,Seattle
+198.41.219.216,443,true,SEA,North America,Seattle
+198.41.219.214,443,true,SEA,North America,Seattle
+198.41.219.199,443,true,SEA,North America,Seattle
+198.41.219.228,443,true,SEA,North America,Seattle
+198.244.232.200,443,true,LHR,Europe,London
+198.41.219.144,443,true,SJC,North America,San Jose
+198.41.219.166,443,true,SEA,North America,Seattle
+198.41.219.204,443,true,SEA,North America,Seattle
+198.41.219.223,443,true,SEA,North America,Seattle
+198.41.219.122,443,true,SJC,North America,San Jose
+198.244.148.214,443,true,LHR,Europe,London
+198.41.219.117,443,true,SJC,North America,San Jose
+198.41.219.234,443,true,SEA,North America,Seattle
+198.41.219.215,443,true,SEA,North America,Seattle
+198.244.140.174,443,true,LHR,Europe,London
+198.41.219.35,443,true,SEA,North America,Seattle
+198.41.219.207,443,true,SEA,North America,Seattle
+198.41.219.204,443,true,SJC,North America,San Jose
+198.41.219.225,443,true,SJC,North America,San Jose
+198.41.219.227,443,true,SJC,North America,San Jose
+198.41.219.218,443,true,SJC,North America,San Jose
+198.41.219.208,443,true,SJC,North America,San Jose
+198.41.219.190,443,true,SEA,North America,Seattle
+198.41.219.210,443,true,SEA,North America,Seattle
+198.41.219.203,443,true,SJC,North America,San Jose
+198.251.81.70,443,true,EWR,North America,Newark
+198.41.219.16,443,true,SEA,North America,Seattle
+198.105.124.180,443,true,ARN,Europe,Stockholm
+198.41.219.207,443,true,SJC,North America,San Jose
+198.41.219.202,443,true,SJC,North America,San Jose
+198.41.219.208,443,true,SEA,North America,Seattle
+198.41.219.112,443,true,SEA,North America,Seattle
+198.41.219.159,443,true,SJC,North America,San Jose
+198.41.219.172,443,true,SJC,North America,San Jose
+198.41.219.202,443,true,SEA,North America,Seattle
+198.41.219.232,443,true,SEA,North America,Seattle
+198.41.219.224,443,true,SEA,North America,Seattle
+198.41.219.206,443,true,SJC,North America,San Jose
+198.41.219.219,443,true,SEA,North America,Seattle
+198.41.219.210,443,true,SJC,North America,San Jose
+198.41.219.11,443,true,SJC,North America,San Jose
+198.41.219.169,443,true,SEA,North America,Seattle
+198.41.219.226,443,true,SJC,North America,San Jose
+198.41.219.211,443,true,SJC,North America,San Jose
+198.41.219.132,443,true,SJC,North America,San Jose
+198.41.219.9,443,true,SEA,North America,Seattle
+198.41.219.184,443,true,SJC,North America,San Jose
+198.41.219.73,443,true,SEA,North America,Seattle
+198.41.219.7,443,true,SEA,North America,Seattle
+198.41.219.34,443,true,SEA,North America,Seattle
+198.41.219.228,443,true,SJC,North America,San Jose
+198.41.219.217,443,true,SEA,North America,Seattle
+198.41.219.203,443,true,SEA,North America,Seattle
+198.41.219.117,443,true,SEA,North America,Seattle
+198.41.219.216,443,true,SJC,North America,San Jose
+198.41.219.235,443,true,SEA,North America,Seattle
+198.41.219.217,443,true,SJC,North America,San Jose
+198.41.219.239,443,true,SEA,North America,Seattle
+198.41.219.219,443,true,SJC,North America,San Jose
+198.41.219.212,443,true,SJC,North America,San Jose
+198.41.219.214,443,true,SJC,North America,San Jose
+198.41.219.232,443,true,SJC,North America,San Jose
+198.41.219.100,443,true,SEA,North America,Seattle
+198.41.219.230,443,true,SEA,North America,Seattle
+198.41.219.213,443,true,SJC,North America,San Jose
+198.41.219.223,443,true,SJC,North America,San Jose
+198.41.219.154,443,true,SJC,North America,San Jose
+198.41.219.218,443,true,SEA,North America,Seattle
+198.41.219.51,443,true,SEA,North America,Seattle
+198.41.219.189,443,true,SJC,North America,San Jose
+198.41.219.229,443,true,SJC,North America,San Jose
+198.41.219.224,443,true,SJC,North America,San Jose
+198.41.219.230,443,true,SJC,North America,San Jose
+198.41.219.238,443,true,SJC,North America,San Jose
+198.41.219.215,443,true,SJC,North America,San Jose
+198.41.219.238,443,true,SEA,North America,Seattle
+198.41.219.235,443,true,SJC,North America,San Jose
+198.41.219.234,443,true,SJC,North America,San Jose
+198.41.219.239,443,true,SJC,North America,San Jose
+198.41.219.127,443,true,SJC,North America,San Jose
+198.41.219.119,443,true,SEA,North America,Seattle
+198.41.219.170,443,true,SJC,North America,San Jose
+198.41.219.26,443,true,SEA,North America,Seattle
+198.41.219.130,443,true,SJC,North America,San Jose
+198.41.219.43,443,true,SEA,North America,Seattle
+198.41.219.128,443,true,SJC,North America,San Jose
+198.41.219.192,443,true,SEA,North America,Seattle
+198.41.219.104,443,true,SEA,North America,Seattle
+198.41.219.131,443,true,SJC,North America,San Jose
+198.41.219.254,443,true,SEA,North America,Seattle
+198.41.219.250,443,true,SEA,North America,Seattle
+198.41.219.249,443,true,SJC,North America,San Jose
+198.98.62.141,443,true,EWR,North America,Newark
+198.41.219.244,443,true,SEA,North America,Seattle
+198.41.219.225,443,true,SEA,North America,Seattle
+198.57.46.6,443,true,DEN,North America,Denver
+198.41.219.194,443,true,SEA,North America,Seattle
+198.46.143.134,443,true,BUF,North America,Buffalo
+198.41.219.250,443,true,SJC,North America,San Jose
+198.41.219.246,443,true,SEA,North America,Seattle
+198.41.219.246,443,true,SJC,North America,San Jose
+198.41.219.139,443,true,SEA,North America,Seattle
+198.41.219.52,443,true,SEA,North America,Seattle
+198.46.143.134,443,true,YYZ,North America,Toronto
+198.41.219.161,443,true,SJC,North America,San Jose
+198.41.219.54,443,true,SEA,North America,Seattle
+198.41.219.39,443,true,SEA,North America,Seattle
+198.41.219.245,443,true,SJC,North America,San Jose
+198.41.219.103,443,true,SJC,North America,San Jose
+198.98.60.145,443,true,EWR,North America,Newark
+198.98.58.244,443,true,EWR,North America,Newark
+198.41.219.156,443,true,SJC,North America,San Jose
+198.41.219.57,443,true,SJC,North America,San Jose
+198.46.131.76,443,true,EWR,North America,Newark
+198.41.219.245,443,true,SEA,North America,Seattle
+198.41.219.141,443,true,SJC,North America,San Jose
+198.41.219.55,443,true,SEA,North America,Seattle
+198.41.219.254,443,true,SJC,North America,San Jose
+198.41.219.104,443,true,SJC,North America,San Jose
+198.41.219.162,443,true,SEA,North America,Seattle
+198.41.219.64,443,true,SJC,North America,San Jose
+198.41.219.244,443,true,SJC,North America,San Jose
+198.41.219.251,443,true,SJC,North America,San Jose
+198.41.219.248,443,true,SEA,North America,Seattle
+198.41.219.252,443,true,SEA,North America,Seattle
+198.41.219.252,443,true,SJC,North America,San Jose
+198.41.219.64,443,true,SEA,North America,Seattle
+198.41.219.249,443,true,SEA,North America,Seattle
+198.41.219.174,443,true,SJC,North America,San Jose
+198.41.219.81,443,true,SEA,North America,Seattle
+198.41.219.125,443,true,SJC,North America,San Jose
+198.41.219.96,443,true,SEA,North America,Seattle
+198.23.146.239,443,true,ORD,North America,Chicago
+198.41.219.251,443,true,SEA,North America,Seattle
+198.41.219.248,443,true,SJC,North America,San Jose
+198.98.53.156,443,true,EWR,North America,Newark
+198.46.131.76,443,true,BUF,North America,Buffalo
+198.46.131.76,443,true,YYZ,North America,Toronto
+198.41.219.65,443,true,SEA,North America,Seattle
+198.41.219.66,443,true,SEA,North America,Seattle
+198.41.219.23,443,true,SEA,North America,Seattle
+198.41.219.12,443,true,SEA,North America,Seattle
+198.41.219.67,443,true,SEA,North America,Seattle
+198.41.219.161,443,true,SEA,North America,Seattle
+199.180.115.62,443,true,LAX,North America,Los Angeles
+199.193.125.51,443,true,LAX,North America,Los Angeles
+199.247.4.27,443,true,FRA,Europe,Frankfurt
+199.59.225.133,443,true,SJC,North America,San Jose
+199.59.229.178,443,true,SJC,North America,San Jose
+199.231.235.34,443,true,AMS,Europe,Amsterdam
+199.59.231.120,443,true,SJC,North America,San Jose
+199.59.227.82,443,true,SJC,North America,San Jose
+199.115.231.197,443,true,LAX,North America,Los Angeles
+199.48.102.83,443,true,YUL,North America,Montréal
+199.244.48.112,443,true,EWR,North America,Newark
+199.195.253.235,443,true,EWR,North America,Newark
+199.180.115.62,443,true,SJC,North America,San Jose
+199.180.155.172,443,true,LAX,North America,Los Angeles
+199.247.19.26,443,true,FRA,Europe,Frankfurt
+200.250.145.253,443,true,GRU,South America,São Paulo
+200.89.96.13,443,true,MIA,North America,Miami
+200.234.235.120,443,true,MRS,Europe,Marseille
+200.250.145.250,443,true,GRU,South America,São Paulo
+200.250.145.254,443,true,GRU,South America,São Paulo
+202.5.16.248,443,true,LAX,North America,Los Angeles
+202.78.170.211,443,true,MIA,North America,Miami
+202.144.192.76,443,true,NRT,Asia Pacific,Tokyo
+202.123.24.107,443,true,MRU,Africa,Port Louis
+202.123.24.109,443,true,MRU,Africa,Port Louis
+202.61.195.218,443,true,FRA,Europe,Frankfurt
+202.61.193.248,443,true,FRA,Europe,Frankfurt
+202.61.255.44,443,true,FRA,Europe,Frankfurt
+202.144.195.204,443,true,NRT,Asia Pacific,Tokyo
+202.133.89.8,443,true,AMS,Europe,Amsterdam
+203.9.150.104,443,true,HKG,Asia Pacific,Hong Kong
+203.219.13.251,443,true,SYD,Oceania,Sydney
+204.110.222.109,80,true,IAD,North America,Ashburn
+204.110.222.152,80,true,IAD,North America,Ashburn
+204.110.220.135,80,true,SJC,North America,San Jose
+204.110.223.105,443,true,IAD,North America,Ashburn
+204.110.220.226,80,true,SJC,North America,San Jose
+204.110.222.104,80,true,IAD,North America,Ashburn
+204.110.222.106,80,true,IAD,North America,Ashburn
+204.110.220.2,80,true,SJC,North America,San Jose
+204.12.225.226,443,true,MCI,North America,Kansas City
+204.110.223.105,443,true,CMH,North America,Columbus
+204.12.225.229,443,true,MCI,North America,Kansas City
+204.110.223.100,80,true,IAD,North America,Ashburn
+204.110.222.233,80,true,IAD,North America,Ashburn
+204.110.222.104,443,true,IAD,North America,Ashburn
+204.110.223.105,80,true,IAD,North America,Ashburn
+204.110.223.105,80,true,CMH,North America,Columbus
+204.110.220.217,80,true,SJC,North America,San Jose
+204.13.155.159,443,true,LAX,North America,Los Angeles
+205.234.244.160,443,true,EWR,North America,Newark
+205.234.252.141,443,true,LAX,North America,Los Angeles
+206.41.206.219,443,true,IAD,North America,Ashburn
+206.189.250.55,443,true,FRA,Europe,Frankfurt
+206.189.55.233,443,true,FRA,Europe,Frankfurt
+206.81.29.239,443,true,FRA,Europe,Frankfurt
+206.53.48.105,443,true,SOF,Europe,Sofia
+206.189.107.82,443,true,AMS,Europe,Amsterdam
+206.206.123.147,443,true,SEA,North America,Seattle
+206.189.14.85,443,true,AMS,Europe,Amsterdam
+206.189.5.30,443,true,AMS,Europe,Amsterdam
+206.223.84.247,443,true,LAX,North America,Los Angeles
+206.201.196.122,443,true,SJC,North America,San Jose
+206.166.251.92,443,true,AMS,Europe,Amsterdam
+206.53.48.171,443,true,SOF,Europe,Sofia
+207.61.86.114,443,true,YYZ,North America,Toronto
+207.174.30.58,443,true,AMS,Europe,Amsterdam
+207.174.30.74,443,true,AMS,Europe,Amsterdam
+207.2.120.16,443,true,SJC,North America,San Jose
+207.148.105.247,443,true,NRT,Asia Pacific,Tokyo
+207.2.120.15,443,true,SJC,North America,San Jose
+207.226.152.42,443,true,HKG,Asia Pacific,Hong Kong
+207.174.31.150,443,true,ATL,North America,Atlanta
+207.231.109.22,443,true,DFW,North America,Dallas
+209.177.169.21,443,true,SJC,North America,San Jose
+209.177.169.90,443,true,SJC,North America,San Jose
+209.177.169.77,443,true,SJC,North America,San Jose
+209.177.167.17,443,true,SJC,North America,San Jose
+209.177.169.39,443,true,SJC,North America,San Jose
+209.177.169.7,443,true,SJC,North America,San Jose
+209.177.169.95,443,true,SJC,North America,San Jose
+209.177.169.32,443,true,SJC,North America,San Jose
+209.177.161.154,443,true,SJC,North America,San Jose
+209.177.169.91,443,true,SJC,North America,San Jose
+209.177.169.104,443,true,SJC,North America,San Jose
+209.177.165.26,443,true,SJC,North America,San Jose
+209.177.169.89,443,true,SJC,North America,San Jose
+209.38.52.87,443,true,AMS,Europe,Amsterdam
+209.177.169.87,443,true,SJC,North America,San Jose
+209.177.169.72,443,true,SJC,North America,San Jose
+209.177.165.16,443,true,SJC,North America,San Jose
+209.177.169.34,443,true,SJC,North America,San Jose
+209.177.161.153,443,true,SJC,North America,San Jose
+209.177.165.15,443,true,SJC,North America,San Jose
+209.177.169.37,443,true,SJC,North America,San Jose
+209.177.161.1,443,true,SJC,North America,San Jose
+209.177.169.2,443,true,SJC,North America,San Jose
+209.177.169.66,443,true,SJC,North America,San Jose
+209.177.169.81,443,true,SJC,North America,San Jose
+209.177.165.12,443,true,SJC,North America,San Jose
+209.177.169.96,443,true,SJC,North America,San Jose
+209.177.169.76,443,true,SJC,North America,San Jose
+209.177.167.24,443,true,SJC,North America,San Jose
+209.177.169.19,443,true,SJC,North America,San Jose
+209.177.167.11,443,true,SJC,North America,San Jose
+209.177.167.7,443,true,SJC,North America,San Jose
+209.177.169.15,443,true,SJC,North America,San Jose
+209.177.169.90,80,true,SJC,North America,San Jose
+209.177.169.109,443,true,SJC,North America,San Jose
+209.177.165.11,443,true,SJC,North America,San Jose
+209.177.169.4,443,true,SJC,North America,San Jose
+209.177.161.79,443,true,SJC,North America,San Jose
+209.177.165.4,443,true,SJC,North America,San Jose
+209.177.169.78,443,true,SJC,North America,San Jose
+209.177.169.18,443,true,SJC,North America,San Jose
+209.177.169.22,443,true,SJC,North America,San Jose
+209.177.165.14,443,true,SJC,North America,San Jose
+209.177.167.25,443,true,SJC,North America,San Jose
+209.177.169.58,443,true,SJC,North America,San Jose
+209.177.165.33,443,true,SJC,North America,San Jose
+209.177.169.99,443,true,SJC,North America,San Jose
+209.177.169.41,443,true,SJC,North America,San Jose
+209.177.161.28,443,true,SJC,North America,San Jose
+209.177.165.5,443,true,SJC,North America,San Jose
+209.177.169.52,443,true,SJC,North America,San Jose
+209.177.161.90,443,true,SJC,North America,San Jose
+209.177.167.62,443,true,SJC,North America,San Jose
+209.177.161.78,443,true,SJC,North America,San Jose
+209.177.165.34,443,true,SJC,North America,San Jose
+209.177.165.128,443,true,SJC,North America,San Jose
+209.177.167.49,443,true,SJC,North America,San Jose
+209.177.169.79,443,true,SJC,North America,San Jose
+209.177.167.16,443,true,SJC,North America,San Jose
+209.177.161.157,443,true,SJC,North America,San Jose
+209.177.169.106,443,true,SJC,North America,San Jose
+209.177.165.18,443,true,SJC,North America,San Jose
+209.177.167.29,443,true,SJC,North America,San Jose
+209.177.169.62,443,true,SJC,North America,San Jose
+209.177.169.16,443,true,SJC,North America,San Jose
+209.177.165.27,443,true,SJC,North America,San Jose
+209.177.165.22,443,true,SJC,North America,San Jose
+209.177.169.25,443,true,SJC,North America,San Jose
+209.177.167.12,443,true,SJC,North America,San Jose
+209.177.169.38,443,true,SJC,North America,San Jose
+209.177.165.13,443,true,SJC,North America,San Jose
+209.177.167.21,443,true,SJC,North America,San Jose
+209.177.167.14,443,true,SJC,North America,San Jose
+209.38.52.92,443,true,AMS,Europe,Amsterdam
+209.177.169.128,80,true,SJC,North America,San Jose
+209.177.169.6,443,true,SJC,North America,San Jose
+209.177.167.18,443,true,SJC,North America,San Jose
+209.177.169.63,443,true,SJC,North America,San Jose
+209.177.169.88,443,true,SJC,North America,San Jose
+209.177.169.102,443,true,SJC,North America,San Jose
+209.177.165.35,443,true,SJC,North America,San Jose
+209.177.167.60,443,true,SJC,North America,San Jose
+209.177.165.31,443,true,SJC,North America,San Jose
+209.177.169.107,443,true,SJC,North America,San Jose
+209.177.167.58,443,true,SJC,North America,San Jose
+209.177.169.128,443,true,SJC,North America,San Jose
+209.177.165.36,443,true,SJC,North America,San Jose
+209.177.169.12,443,true,SJC,North America,San Jose
+209.177.169.105,443,true,SJC,North America,San Jose
+209.177.167.63,443,true,SJC,North America,San Jose
+209.177.165.27,8443,true,SJC,North America,San Jose
+209.177.169.11,443,true,SJC,North America,San Jose
+209.177.165.6,443,true,SJC,North America,San Jose
+209.177.169.108,443,true,SJC,North America,San Jose
+209.177.169.98,443,true,SJC,North America,San Jose
+209.177.169.101,443,true,SJC,North America,San Jose
+209.177.169.94,443,true,SJC,North America,San Jose
+209.177.169.23,443,true,SJC,North America,San Jose
+209.177.169.65,443,true,SJC,North America,San Jose
+209.177.169.35,443,true,SJC,North America,San Jose
+209.200.246.130,80,true,YYZ,North America,Toronto
+209.177.169.80,443,true,SJC,North America,San Jose
+209.177.167.4,443,true,SJC,North America,San Jose
+209.177.167.3,443,true,SJC,North America,San Jose
+209.38.39.114,443,true,AMS,Europe,Amsterdam
+209.177.161.3,443,true,SJC,North America,San Jose
+209.177.169.82,443,true,SJC,North America,San Jose
+209.177.167.20,443,true,SJC,North America,San Jose
+209.177.169.27,443,true,SJC,North America,San Jose
+209.177.169.85,443,true,SJC,North America,San Jose
+209.177.169.74,80,true,SJC,North America,San Jose
+209.177.167.47,443,true,SJC,North America,San Jose
+209.177.169.40,443,true,SJC,North America,San Jose
+209.177.169.28,443,true,SJC,North America,San Jose
+209.177.161.29,443,true,SJC,North America,San Jose
+209.177.161.77,443,true,SJC,North America,San Jose
+209.177.169.67,443,true,SJC,North America,San Jose
+209.177.167.64,443,true,SJC,North America,San Jose
+209.177.167.15,443,true,SJC,North America,San Jose
+209.177.169.30,443,true,SJC,North America,San Jose
+209.177.167.23,443,true,SJC,North America,San Jose
+209.177.169.75,443,true,SJC,North America,San Jose
+209.177.165.2,443,true,SJC,North America,San Jose
+209.15.110.126,443,true,BKK,Asia Pacific,Bangkok
+209.177.169.71,443,true,SJC,North America,San Jose
+209.177.169.45,443,true,SJC,North America,San Jose
+209.177.169.73,443,true,SJC,North America,San Jose
+209.177.169.20,443,true,SJC,North America,San Jose
+209.177.165.30,443,true,SJC,North America,San Jose
+209.177.169.84,443,true,SJC,North America,San Jose
+209.200.246.130,443,true,YYZ,North America,Toronto
+209.177.169.17,443,true,SJC,North America,San Jose
+209.177.169.29,443,true,SJC,North America,San Jose
+209.177.161.30,443,true,SJC,North America,San Jose
+209.177.167.22,443,true,SJC,North America,San Jose
+209.151.148.106,443,true,EWR,North America,Newark
+209.177.165.3,443,true,SJC,North America,San Jose
+209.177.161.2,443,true,SJC,North America,San Jose
+209.177.167.6,443,true,SJC,North America,San Jose
+209.177.167.8,443,true,SJC,North America,San Jose
+209.177.167.1,443,true,SJC,North America,San Jose
+209.177.161.155,443,true,SJC,North America,San Jose
+209.177.161.156,443,true,SJC,North America,San Jose
+209.177.167.5,443,true,SJC,North America,San Jose
+209.177.165.28,443,true,SJC,North America,San Jose
+209.177.161.33,443,true,SJC,North America,San Jose
+209.177.169.69,443,true,SJC,North America,San Jose
+209.177.165.17,443,true,SJC,North America,San Jose
+209.177.169.60,443,true,SJC,North America,San Jose
+209.177.161.4,443,true,SJC,North America,San Jose
+209.177.167.10,443,true,SJC,North America,San Jose
+209.177.169.93,443,true,SJC,North America,San Jose
+209.177.161.54,443,true,SJC,North America,San Jose
+209.177.169.3,443,true,SJC,North America,San Jose
+209.177.165.9,443,true,SJC,North America,San Jose
+209.205.219.211,443,true,EWR,North America,Newark
+209.177.165.21,443,true,SJC,North America,San Jose
+209.177.161.55,443,true,SJC,North America,San Jose
+209.177.161.76,443,true,SJC,North America,San Jose
+209.177.165.10,443,true,SJC,North America,San Jose
+209.177.161.152,443,true,SJC,North America,San Jose
+209.177.169.42,443,true,SJC,North America,San Jose
+209.177.169.26,443,true,SJC,North America,San Jose
+209.177.167.2,443,true,SJC,North America,San Jose
+209.177.169.98,8443,true,SJC,North America,San Jose
+209.177.169.9,443,true,SJC,North America,San Jose
+209.177.167.13,443,true,SJC,North America,San Jose
+209.97.172.173,443,true,SIN,Asia Pacific,Singapore
+209.177.169.86,443,true,SJC,North America,San Jose
+209.177.165.20,443,true,SJC,North America,San Jose
+209.177.165.7,443,true,SJC,North America,San Jose
+209.250.234.187,443,true,FRA,Europe,Frankfurt
+209.97.173.243,443,true,SIN,Asia Pacific,Singapore
+209.177.169.14,443,true,SJC,North America,San Jose
+209.177.169.33,443,true,SJC,North America,San Jose
+209.177.169.100,443,true,SJC,North America,San Jose
+209.177.169.53,443,true,SJC,North America,San Jose
+209.177.169.36,443,true,SJC,North America,San Jose
+209.177.169.61,443,true,SJC,North America,San Jose
+209.177.167.128,443,true,SJC,North America,San Jose
+209.177.165.25,443,true,SJC,North America,San Jose
+209.177.169.46,443,true,SJC,North America,San Jose
+209.177.167.59,443,true,SJC,North America,San Jose
+209.177.169.103,443,true,SJC,North America,San Jose
+210.79.155.242,443,true,TPE,Asia Pacific,Taipei
+210.138.37.53,443,true,NRT,Asia Pacific,Tokyo
+210.5.14.202,443,true,HKG,Asia Pacific,Hong Kong
+210.186.12.244,443,true,KUL,Asia Pacific,Kuala Lumpur
+212.34.149.29,443,true,AMS,Europe,Amsterdam
+212.237.30.220,443,true,MXP,Europe,Milan
+212.192.246.15,443,true,FRA,Europe,Frankfurt
+212.109.223.210,443,true,CDG,Europe,Paris
+212.6.44.77,443,true,WAW,Europe,Warsaw
+212.111.88.212,443,true,AMS,Europe,Amsterdam
+212.80.216.207,443,true,AMS,Europe,Amsterdam
+212.111.82.92,443,true,AMS,Europe,Amsterdam
+212.113.100.5,443,true,FRA,Europe,Frankfurt
+212.34.148.227,443,true,AMS,Europe,Amsterdam
+212.34.153.65,443,true,AMS,Europe,Amsterdam
+212.111.89.16,443,true,AMS,Europe,Amsterdam
+212.227.90.142,443,true,MAD,Europe,Madrid
+212.109.223.210,443,true,WAW,Europe,Warsaw
+212.113.103.161,443,true,FRA,Europe,Frankfurt
+212.224.86.82,443,true,FRA,Europe,Frankfurt
+212.34.153.121,443,true,AMS,Europe,Amsterdam
+212.34.149.185,443,true,AMS,Europe,Amsterdam
+212.192.215.7,443,true,AMS,Europe,Amsterdam
+212.192.31.162,443,true,FRA,Europe,Frankfurt
+212.6.44.203,443,true,WAW,Europe,Warsaw
+212.113.103.247,443,true,FRA,Europe,Frankfurt
+212.237.218.226,443,true,HEL,Europe,Helsinki
+212.113.102.120,443,true,FRA,Europe,Frankfurt
+212.83.138.31,443,true,CDG,Europe,Paris
+212.113.101.149,443,true,FRA,Europe,Frankfurt
+212.6.44.92,443,true,WAW,Europe,Warsaw
+212.86.115.27,443,true,AMS,Europe,Amsterdam
+212.113.106.102,443,true,FRA,Europe,Frankfurt
+212.113.101.35,443,true,FRA,Europe,Frankfurt
+212.113.119.130,443,true,FRA,Europe,Frankfurt
+212.237.218.164,443,true,HEL,Europe,Helsinki
+212.109.223.210,443,true,VIE,Europe,Vienna
+212.113.119.199,443,true,FRA,Europe,Frankfurt
+212.38.166.47,443,true,LHR,Europe,London
+212.6.44.77,443,true,ARN,Europe,Stockholm
+212.109.223.210,443,true,TLL,Europe,Tallinn
+212.113.100.65,443,true,FRA,Europe,Frankfurt
+212.192.246.92,443,true,FRA,Europe,Frankfurt
+212.50.231.42,443,true,SJC,North America,San Jose
+212.8.251.202,443,true,AMS,Europe,Amsterdam
+212.22.74.89,443,true,AMS,Europe,Amsterdam
+212.34.152.224,443,true,AMS,Europe,Amsterdam
+212.237.218.41,443,true,HEL,Europe,Helsinki
+212.34.153.46,443,true,AMS,Europe,Amsterdam
+212.113.100.161,443,true,FRA,Europe,Frankfurt
+212.115.109.216,443,true,LHR,Europe,London
+212.113.100.158,443,true,FRA,Europe,Frankfurt
+212.34.148.31,443,true,AMS,Europe,Amsterdam
+212.6.44.98,443,true,ARN,Europe,Stockholm
+212.113.116.93,443,true,FRA,Europe,Frankfurt
+212.109.223.210,443,true,DME,Europe,Moscow
+212.224.118.200,443,true,FRA,Europe,Frankfurt
+212.224.93.171,443,true,FRA,Europe,Frankfurt
+212.192.9.134,443,true,AMS,Europe,Amsterdam
+212.6.44.98,443,true,WAW,Europe,Warsaw
+212.192.248.165,443,true,FRA,Europe,Frankfurt
+212.237.6.206,443,true,MXP,Europe,Milan
+212.193.1.218,443,true,AMS,Europe,Amsterdam
+212.193.1.208,443,true,AMS,Europe,Amsterdam
+212.109.223.210,443,true,OSL,Europe,Oslo
+212.109.223.210,443,true,AMS,Europe,Amsterdam
+212.192.246.95,443,true,FRA,Europe,Frankfurt
+212.237.219.99,443,true,HEL,Europe,Helsinki
+212.193.4.209,443,true,FRA,Europe,Frankfurt
+212.34.152.211,443,true,AMS,Europe,Amsterdam
+212.22.74.124,443,true,AMS,Europe,Amsterdam
+212.73.150.15,443,true,SOF,Europe,Sofia
+212.41.15.119,443,true,DME,Europe,Moscow
+212.115.30.237,443,true,IST,Europe,Istanbul
+212.111.80.5,443,true,AMS,Europe,Amsterdam
+213.218.254.130,443,true,NRT,Asia Pacific,Tokyo
+213.170.157.1,443,true,PDX,North America,Portland
+213.183.51.219,443,true,AMS,Europe,Amsterdam
+213.159.76.175,443,true,EVN,Middle East,Yerevan
+213.170.157.1,443,true,SEA,North America,Seattle
+213.148.10.155,443,true,WAW,Europe,Warsaw
+213.148.10.221,443,true,WAW,Europe,Warsaw
+213.182.204.37,443,true,MAD,Europe,Madrid
+213.1.145.50,443,true,LHR,Europe,London
+213.252.244.202,443,true,VNO,Europe,Vilnius
+213.183.53.33,443,true,AMS,Europe,Amsterdam
+213.183.61.191,443,true,AMS,Europe,Amsterdam
+213.255.209.189,443,true,YYZ,North America,Toronto
+213.226.68.142,443,true,FRA,Europe,Frankfurt
+213.255.209.207,443,true,YYZ,North America,Toronto
+213.183.51.8,443,true,AMS,Europe,Amsterdam
+213.183.48.227,443,true,DME,Europe,Moscow
+213.183.53.33,443,true,DME,Europe,Moscow
+213.171.10.123,443,true,SIN,Asia Pacific,Singapore
+213.159.68.143,443,true,HEL,Europe,Helsinki
+213.171.10.123,443,true,WAW,Europe,Warsaw
+213.183.48.227,443,true,SIN,Asia Pacific,Singapore
+213.183.63.185,443,true,SOF,Europe,Sofia
+213.183.48.227,443,true,WAW,Europe,Warsaw
+213.165.88.177,443,true,LHR,Europe,London
+213.183.53.33,443,true,WAW,Europe,Warsaw
+213.183.44.184,443,true,FRA,Europe,Frankfurt
+213.183.44.96,443,true,FRA,Europe,Frankfurt
+213.21.245.107,443,true,AMS,Europe,Amsterdam
+213.166.71.40,443,true,AMS,Europe,Amsterdam
+213.226.68.24,443,true,FRA,Europe,Frankfurt
+213.171.10.123,443,true,ARN,Europe,Stockholm
+213.171.10.123,443,true,AMS,Europe,Amsterdam
+213.171.10.123,443,true,DME,Europe,Moscow
+213.165.84.57,443,true,LHR,Europe,London
+213.148.10.221,443,true,TXL,Europe,Berlin
+216.225.197.195,443,true,EWR,North America,Newark
+216.10.243.159,443,true,BOM,Asia Pacific,Mumbai
+216.9.224.160,443,true,SOF,Europe,Sofia
+216.173.71.171,443,true,ARN,Europe,Stockholm
+216.173.69.39,443,true,ARN,Europe,Stockholm
+216.173.70.80,443,true,VNO,Europe,Vilnius
+216.245.223.214,443,true,ATL,North America,Atlanta
+216.173.68.57,443,true,WAW,Europe,Warsaw
+216.173.71.171,443,true,WAW,Europe,Warsaw
+216.9.224.160,443,true,OTP,Europe,Bucharest
+216.225.202.18,443,true,EWR,North America,Newark
+216.245.223.214,443,true,MIA,North America,Miami
+216.245.223.214,443,true,ORD,North America,Chicago
+216.238.71.107,443,true,DFW,North America,Dallas
+216.225.196.244,443,true,EWR,North America,Newark
+216.173.70.192,443,true,ARN,Europe,Stockholm
+216.173.68.57,443,true,ARN,Europe,Stockholm
+216.173.70.72,443,true,ARN,Europe,Stockholm
+216.246.67.59,443,true,LAX,North America,Los Angeles
+216.246.66.46,443,true,LAX,North America,Los Angeles
+216.173.70.72,443,true,WAW,Europe,Warsaw
+216.173.69.93,443,true,WAW,Europe,Warsaw
+216.173.70.150,443,true,WAW,Europe,Warsaw
+217.196.101.121,443,true,FRA,Europe,Frankfurt
+217.144.188.239,443,true,FRA,Europe,Frankfurt
+217.196.103.175,443,true,FRA,Europe,Frankfurt
+217.61.0.76,443,true,FRA,Europe,Frankfurt
+217.160.3.27,443,true,FRA,Europe,Frankfurt
+217.144.185.23,443,true,FRA,Europe,Frankfurt
+217.182.61.115,80,true,CDG,Europe,Paris
+217.160.216.30,443,true,AMS,Europe,Amsterdam
+217.197.107.165,443,true,FRA,Europe,Frankfurt
+217.196.106.143,443,true,FRA,Europe,Frankfurt
+217.195.200.52,80,true,RUH,Middle East,Riyadh
+217.78.239.234,443,true,CPH,Europe,Copenhagen
+217.144.190.161,443,true,FRA,Europe,Frankfurt
+217.110.20.141,443,true,CPH,Europe,Copenhagen
+217.144.189.127,443,true,FRA,Europe,Frankfurt
+217.29.23.169,443,true,ALA,Asia Pacific,Almaty
+217.196.106.121,443,true,FRA,Europe,Frankfurt
+217.196.106.62,443,true,FRA,Europe,Frankfurt
+217.144.186.61,443,true,FRA,Europe,Frankfurt
+217.196.100.193,443,true,AMS,Europe,Amsterdam
+217.142.243.226,443,true,KIX,Asia Pacific,Osaka
+217.73.63.121,443,true,AMS,Europe,Amsterdam
+217.73.63.121,443,true,WAW,Europe,Warsaw
+217.160.216.30,443,true,FRA,Europe,Frankfurt
+217.144.187.40,443,true,FRA,Europe,Frankfurt
+217.144.103.59,443,true,DME,Europe,Moscow
+217.197.107.173,443,true,FRA,Europe,Frankfurt
+217.78.239.216,443,true,ARN,Europe,Stockholm
+217.196.99.56,443,true,WAW,Europe,Warsaw
+217.144.188.10,443,true,FRA,Europe,Frankfurt
+217.144.185.26,443,true,FRA,Europe,Frankfurt
+217.196.107.54,443,true,FRA,Europe,Frankfurt
+217.73.63.121,443,true,DME,Europe,Moscow
+217.30.10.55,443,true,WAW,Europe,Warsaw
+217.196.107.56,443,true,FRA,Europe,Frankfurt
+217.73.63.121,443,true,FRA,Europe,Frankfurt
+217.196.100.40,443,true,AMS,Europe,Amsterdam
+217.144.189.96,443,true,FRA,Europe,Frankfurt
+217.196.103.23,443,true,FRA,Europe,Frankfurt
+217.144.189.124,443,true,FRA,Europe,Frankfurt
+217.195.200.52,80,true,MRS,Europe,Marseille
+217.151.229.52,443,true,FRA,Europe,Frankfurt
+217.144.187.248,443,true,FRA,Europe,Frankfurt
+217.119.129.106,443,true,FRA,Europe,Frankfurt
+219.76.13.166,443,true,HKG,Asia Pacific,Hong Kong
+219.76.13.167,443,true,HKG,Asia Pacific,Hong Kong
+219.65.73.81,443,true,PAT,Asia Pacific,Patna
+219.76.13.180,443,true,HKG,Asia Pacific,Hong Kong
+219.65.73.81,443,true,CCU,Asia Pacific,Kolkata
+219.111.17.202,443,true,KIX,Asia Pacific,Osaka
+219.76.13.181,443,true,HKG,Asia Pacific,Hong Kong
