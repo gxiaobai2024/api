@@ -6,6 +6,9 @@ v2rayN 最新版点击这里(https://github.com/2dust/v2rayN/releases)
 cloudflare点击这里(https://dash.cloudflare.com/)
 
 部署代码：点击这里(https://github.com/yonggekkk/Cloudflare_vless_trojan)
+CM大佬项目: https://github.com/cmliu/edgetunnel
+3K大佬项目: https://github.com/6Kmfi6HP/EDtunnel
+勇哥大佬项目: https://github.com/yonggekkk/Cloudfla...
 
 uuid生成：点击这里(https://1024tools.com/uuid)
 
