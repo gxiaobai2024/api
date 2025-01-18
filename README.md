@@ -1,7 +1,7 @@
 [https://github.com/copilot/    ](https://github.com/copilot/)
 
 
-v2rayN 最新版点击这里
+v2rayN 最新版点击这里(https://github.com/2dust/v2rayN/releases)
 
 cloudflare点击这里
 
