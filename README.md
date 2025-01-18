@@ -1,4 +1,22 @@
 [https://github.com/copilot/    ](https://github.com/copilot/)
 
 
-https://taogpt.blogspot.com/2025/01/blog-post.html#:~:text=v2rayN%20%E6%9C%80%E6%96%B0%E7%89%88%E7%82%B9,%E6%B3%A8%E5%86%8C%EF%BC%9A%E7%82%B9%E5%87%BB%E8%BF%99%E9%87%8C
+v2rayN 最新版点击这里
+
+cloudflare点击这里
+
+部署代码：点击这里
+
+uuid生成：点击这里
+
+workers win专用ip优选：点击这里
+
+ip查看：点击这里
+
+cf ip优选；点击这里
+
+网络测速：点击这里
+
+openclash转换订阅网址：点击这里
+
+免费域名注册：点击这里
