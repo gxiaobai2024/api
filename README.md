@@ -23,3 +23,4 @@ cf ip优选；点击这里(https://stock.hostmonit.com/CloudFlareYes)
 openclash转换订阅网址：点击这里https://sub-web.netlify.app/()
 
 免费域名注册：点击这里(https://www.youtube.com/watch?v=oL421WyF6KY&t=59s)
+  全球主流国家城市的节点   https://openproxylist.com/
