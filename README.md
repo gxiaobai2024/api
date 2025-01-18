@@ -8,7 +8,7 @@ cloudflare点击这里(https://dash.cloudflare.com/)
 部署代码：点击这里(https://github.com/yonggekkk/Cloudflare_vless_trojan)
 CM大佬项目: https://github.com/cmliu/edgetunnel
 3K大佬项目: https://github.com/6Kmfi6HP/EDtunnel
-勇哥大佬项目: https://github.com/yonggekkk/Cloudfla...
+勇哥大佬项目:[ https://github.com/yonggekkk/Cloudfla...](https://github.com/yonggekkk/Cloudflare_vless_trojan)
 
 uuid生成：点击这里(https://1024tools.com/uuid)
 
