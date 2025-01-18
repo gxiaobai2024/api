@@ -1,4 +1,4 @@
-[https://github.com/copilot/    ](https://github.com/copilot/)
+AI  [https://github.com/copilot/    ](https://github.com/copilot/)
 
 
 v2rayN 最新版点击这里(https://github.com/2dust/v2rayN/releases)
