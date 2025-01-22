@@ -51,6 +51,7 @@ https://www.wetest.vip/
 Worker部署优先使用自定义域！！！
 
 变量SUB = VLESS.fxxk.dedyn.io
+变量SUB = Trojan.fxxk.dedyn.io (https://trojan.fxxk.dedyn.io/) 
 变量SUB = workervless2sub-22f.pages.dev
 变量SUB = workervless2sub-4ls.pages.dev
 变量SUB = workervless2sub-95x.pages.dev
