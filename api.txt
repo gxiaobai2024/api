@@ -4,7 +4,8 @@ https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/proxy.txt
 
 https://raw.githubusercontent.com/jc-lw/youxuanyuming/refs/heads/main/ip.txt
 https://raw.githubusercontent.com/jc-lw/youxuanyuming/a7100323a56362fe1fb72ec72ff1ef90a47cbed8/ip.txt
-来源（https://github.com/jc-lw/youxuanyuming/blob/a7100323a56362fe1fb72ec72ff1ef90a47cbed8/ip.txt）
+来源常更新（https://github.com/jc-lw/youxuanyuming/blob/a7100323a56362fe1fb72ec72ff1ef90a47cbed8/ip.txt）
+
 https://raw.githubusercontent.com/Tyson2366/YXIP/main/YXIP.TXT
 https://raw.githubusercontent.com/chrisFxxk/BetterIPs/5bf8abb6613eee6f172493da138c3f31fa0d43ba/2052fd.txt
 https://raw.githubusercontent.com/guiliaan/yxip/7d4eae26e58f2dc05680d199b8270172fcaa66c0/yxip.txt
