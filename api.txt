@@ -125,7 +125,7 @@ HTTPS支持端口: 443, 2053, 2083, 2087, 2096, 8443。
 
 
 在线优选
-http://ip.flares.cloud/
+http://ip.flares.cloud/    在线优选Cf IP Batch Test Tool
 https://vps789.com/hostmonitor/?hostProvider=CF%E4%BC%98%E9%80%89IP
 ## 测速文件
 来源：https://t.me/cloudflareorg  
