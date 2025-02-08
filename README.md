@@ -15,6 +15,14 @@ Perplexity搜索： https://www.perplexity.ai/
 
 (免费AI
 直接使用站点
+https://chat.bestip.one
+支持deepseek-r1 o1 o3-mini-high 等
+模型名字后面带有search的启用了联网功能
+免费接口
+```
+https://ai.bestip.one
+sk-LWaFHAG2PGwWZeBHmn0RkrTlsjZ9m78f2DuYWkxqWZkeZuY4
+```
 https://next.bestip.one
 openwebui 界面更美观 支持联网插件
 https://chat.bestip.one
