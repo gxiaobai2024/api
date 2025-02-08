@@ -1,6 +1,15 @@
 AI  [https://github.com/copilot/    ](https://github.com/copilot/)
 ai   https://www.deepseek.com/
 
+azure 注册：https://azure.microsoft.com/
+azure AI 平台：https://ai.azure.com/
+CherryStudio：https://cherry-ai.com/
+火山引擎：https://www.volcengine.com
+硅基流动：https://www.siliconflow.com/zh/home
+OpenWeb UI:  https://github.com/open-webui/open-webui
+秘塔AI搜索：https://metaso.cn/
+Perplexity搜索： https://www.perplexity.ai/
+
 
 v2rayN 最新版点击这里(https://github.com/2dust/v2rayN/releases)
 
