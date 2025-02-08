@@ -1,6 +1,7 @@
 AI  [https://github.com/copilot/    ](https://github.com/copilot/)
 ai   https://www.deepseek.com/
-
+https://vgo.pub/  **下载高清视频
+**
 azure 注册：https://azure.microsoft.com/
 azure AI 平台：https://ai.azure.com/
 CherryStudio：https://cherry-ai.com/
