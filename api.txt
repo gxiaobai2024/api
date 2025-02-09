@@ -64,7 +64,69 @@ Worker部署优先使用自定义域！！！
 示例  https://*.*.us.kg/ba?sub=alvless.comorg.us.kg&proxyip=ProxyIP.Oracle.fxxk.dedyn.io
 
 如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
+
+ProxyIP.US.CMLiussss.net
+IP落地区域: 🇺🇸 美国 维护频率: 12小时/次
+
+ProxyIP.SG.CMLiussss.net
+IP落地区域: 🇸🇬 新加坡 维护频率: 12小时/次
+
+ProxyIP.JP.CMLiussss.net
+IP落地区域: 🇯🇵 日本 维护频率: 12小时/次
+
+ProxyIP.HK.CMLiussss.net
+IP落地区域: 🇭🇰 香港 维护频率: 白嫖哥维护 (https://t.me/v2rayByCf/295)
+
+ProxyIP.KR.CMLiussss.net
+IP落地区域: 🇰🇷 韩国 维护频率: 12小时/次
+
+ProxyIP.DE.tp2024.CMLiussss.net 🤖️GPT专用
+IP落地区域: 🇩🇪 德国 维护频率: 随缘
+
+ProxyIP.Aliyun.CMLiussss.net
+IP落地区域: ☁️ 阿里云 维护频率: 4小时/次
+
+ProxyIP.Oracle.CMLiussss.net
+IP落地区域: ☁️ 甲骨文 维护频率: 4小时/次
+
+ProxyIP.DigitalOcean.CMLiussss.net
+IP落地区域: ☁️ 数码海 维护频率: 4小时/次
+
+ProxyIP.Vultr.CMLiussss.net
+IP落地区域: ☁️ Vultr 维护频率: 4小时/次
+
+ProxyIP.Multacom.CMLiussss.net
+IP落地区域: ☁️ Multacom 维护频率: 4小时/次
+
+⚠️ 再次重申！该域名只能作为ProxyIP代理域名使用！
+作为优选域名并不会起到加速的效果，其效果仅相当于官方直连。
+——
+📣 第三方维护ProxyIP:
+my-telegram-is-herocore.onecf.eu.org Mingyu维护 (https://t.me/HeroCore)
+sg.ipdb.rr.nu
+nl.ipdb.rr.nu
+hk.ipdb.rr.nu
+jp.ipdb.rr.nu
+us.ipdb.rr.nu
+
+hk.cf.zhetengsha.eu.org 小一维护 (https://t.me/zhetengsha/1408)
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
+
+bpb.yousef.isegaro.com bia-pain-bache (https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js#L13https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js%23L13)
+
+proxy.xxxxxxxx.tk OTC维护
+
+cdn.xn--b6gac.eu.org 3Kmfi6HP维护 (https://t.me/edtunnel_chat)
+cdn-all.xn--b6gac.eu.org
+
+cdn.anycast.eu.org CF中转IP发布 (https://t.me/cf_push/31137)
+
+
+
 ProxyIP.US.fxxk.dedyn.io
+
 IP落地区域: 美国 维护频率: 12小时/次
 ProxyIP.SG.fxxk.dedyn.io
 IP落地区域: 新加坡 维护频率: 12小时/次
@@ -75,6 +137,13 @@ IP落地区域: 香港 维护频率: 白嫖哥维护 (https://t.me/v2rayByCf/295
 ProxyIP.KR.fxxk.dedyn.io
 IP落地区域: 韩国 维护频率: 12小时/
 ProxyIP.DE.tp2024.fxxk.dedyn.io GPT专用(edt需要更新至最新版本)
+
+
+
+
+
+
+
 IP落地区域: 德国 维护频率: 随缘
 ProxyIP.Aliyun.fxxk.dedyn.io 
 IP落地区域: 阿里云 维护频率: 4小时/次
@@ -99,6 +168,10 @@ jp.ipdb.rr.nu
 us.ipdb.rr.nu
 
 hk.cf.zhetengsha.eu.org 小一维护 (https://t.me/zhetengsha/1408)
+
+
+
+
 sg.cf.zhetengsha.eu.org
 us.cf.zhetengsha.eu.org
 jp.cf.zhetengsha.eu.org
