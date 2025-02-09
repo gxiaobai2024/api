@@ -63,6 +63,8 @@ Worker部署优先使用自定义域！！！
 
 示例  https://*.*.us.kg/ba?sub=alvless.comorg.us.kg&proxyip=ProxyIP.Oracle.fxxk.dedyn.io
 
+现已将大部分项目迁移至新域名 cmliussss.net 下
+
 如需自定义ProxyIP代理域名的可以手动修改worker.js代码中的proxyIP字段对应的内容：
 
 ProxyIP.US.CMLiussss.net
