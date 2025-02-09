@@ -123,6 +123,14 @@ cdn-all.xn--b6gac.eu.org
 
 cdn.anycast.eu.org CF中转IP发布 (https://t.me/cf_push/31137)
 
+变量SUB = SUB.CMLiussss.net （负载均衡端）
+
+📺 防失联应急订阅 （使用 🐱 Clash.meta内核 有更高的可用性）
+https://SOS.CMLiussss.net/auto
+
+
+
+
 
 
 ProxyIP.US.fxxk.dedyn.io
@@ -137,13 +145,6 @@ IP落地区域: 香港 维护频率: 白嫖哥维护 (https://t.me/v2rayByCf/295
 ProxyIP.KR.fxxk.dedyn.io
 IP落地区域: 韩国 维护频率: 12小时/
 ProxyIP.DE.tp2024.fxxk.dedyn.io GPT专用(edt需要更新至最新版本)
-
-
-
-
-
-
-
 IP落地区域: 德国 维护频率: 随缘
 ProxyIP.Aliyun.fxxk.dedyn.io 
 IP落地区域: 阿里云 维护频率: 4小时/次
@@ -166,16 +167,10 @@ nl.ipdb.rr.nu
 hk.ipdb.rr.nu
 jp.ipdb.rr.nu
 us.ipdb.rr.nu
-
 hk.cf.zhetengsha.eu.org 小一维护 (https://t.me/zhetengsha/1408)
-
-
-
-
 sg.cf.zhetengsha.eu.org
 us.cf.zhetengsha.eu.org
 jp.cf.zhetengsha.eu.org
-
 bpb.yousef.isegaro.com bia-pain-bache (https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js#L13https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/98fba75a7a3c89149563d883018df0541afc191b/_worker.js%23L13)
 
 proxy.xxxxxxxx.tk OTC维护
