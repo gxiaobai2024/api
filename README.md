@@ -33,6 +33,7 @@ https://chat.bestip.one
 https://ai.bestip.one
 sk-LWaFHAG2PGwWZeBHmn0RkrTlsjZ9m78f2DuYWkxqWZkeZuY4
 ```)
+grokAI            https://grok.com/
 v2rayN 最新版点击这里(https://github.com/2dust/v2rayN/releases)
 
 cloudflare点击这里(https://dash.cloudflare.com/)
