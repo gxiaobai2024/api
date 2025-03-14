@@ -10,6 +10,10 @@ CherryStudio：https://cherry-ai.com/
 OpenWeb UI:  https://github.com/open-webui/open-webui
 秘塔AI搜索：https://metaso.cn/
 Perplexity搜索： https://www.perplexity.ai/
+https://grok.dairoot.cn/
+https://grok.dairoot.cn/admin
+https://aistudio.google.com/prompts/new_chat?pli=1
+
 
 
 
