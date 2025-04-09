@@ -1,0 +1,12 @@
+https://massgrave.dev/  Microsoft 激活服务器（MAS
+方法 1 - PowerShell（Windows 8 及更高版本）️
+INFO  信息
+Open PowerShell  打开 PowerShell
+To do that, press the Windows key + X, then select PowerShell or Terminal.
+要执行此操作，请按 Windows 键+ X，然后选择 PowerShell 或 Terminal。
+
+Copy and paste the code below, then press enter.
+复制并粘贴下面的代码，然后按回车键。
+
+irm https://get.activated.win | iex
+
